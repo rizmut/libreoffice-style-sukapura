@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="lc_drawchart.svg"
+   inkscape:version="0.92.3 (unknown)"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-calibre/images_calibre/cmd/lc_drawchart.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient854">
+      <stop
+         style="stop-color:#f16813;stop-opacity:1;"
+         offset="0"
+         id="stop850" />
+      <stop
+         style="stop-color:#ffb232;stop-opacity:1"
+         offset="1"
+         id="stop852" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient846">
+      <stop
+         style="stop-color:#01bc23;stop-opacity:1;"
+         offset="0"
+         id="stop842" />
+      <stop
+         style="stop-color:#4ee581;stop-opacity:1"
+         offset="1"
+         id="stop844" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient836">
+      <stop
+         style="stop-color:#0078f6;stop-opacity:1"
+         offset="0"
+         id="stop832" />
+      <stop
+         style="stop-color:#51cdfb;stop-opacity:1"
+         offset="1"
+         id="stop834" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient836"
+       id="linearGradient838"
+       x1="7"
+       y1="22"
+       x2="7"
+       y2="7"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient846"
+       id="linearGradient848"
+       x1="14"
+       y1="22"
+       x2="14"
+       y2="2"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient854"
+       id="linearGradient856"
+       x1="21"
+       y1="22"
+       x2="21"
+       y2="10"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter872"
+       x="-0.072"
+       width="1.144"
+       y="-0.024"
+       height="1.048">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.15"
+         id="feGaussianBlur874" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath878">
+      <rect
+         style="fill:#020202;fill-opacity:1;stroke:none"
+         id="rect880"
+         y="7"
+         x="2"
+         width="5"
+         ry="1"
+         height="15" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter890"
+       x="-0.06"
+       width="1.12"
+       y="-0.015"
+       height="1.03">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.125"
+         id="feGaussianBlur892" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath894">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         id="rect896"
+         y="2"
+         x="9"
+         width="5"
+         ry="1"
+         height="20" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter904"
+       x="-0.0408"
+       width="1.0816"
+       y="-0.017"
+       height="1.034">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.085"
+         id="feGaussianBlur906" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath910">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         id="rect912"
+         y="10"
+         x="16"
+         width="5"
+         ry="1"
+         height="12" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="707"
+     id="namedview10"
+     showgrid="true"
+     inkscape:zoom="3.4766083"
+     inkscape:cx="-51.829764"
+     inkscape:cy="24.095083"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8">
+    <inkscape:grid
+       type="xygrid"
+       id="grid840" />
+  </sodipodi:namedview>
+  <rect
+     fill="#4d82b8"
+     height="15"
+     ry="1"
+     width="5"
+     x="2"
+     y="7"
+     id="rect2"
+     style="fill:url(#linearGradient838);fill-opacity:1" />
+  <rect
+     fill="#808080"
+     height="12"
+     ry="1"
+     width="5"
+     x="16"
+     y="10"
+     id="rect4"
+     style="fill:url(#linearGradient856);fill-opacity:1" />
+  <rect
+     fill="#eac282"
+     height="20"
+     ry="1"
+     width="5"
+     x="9"
+     y="2"
+     id="rect6"
+     style="fill:url(#linearGradient848);fill-opacity:1" />
+  <rect
+     style="fill:none;fill-opacity:1;stroke:#067ef6;stroke-opacity:1;filter:url(#filter872)"
+     id="rect858"
+     y="7"
+     x="2"
+     width="5"
+     ry="1"
+     height="15"
+     fill="#4d82b8"
+     clip-path="url(#clipPath878)" />
+  <rect
+     style="fill:none;fill-opacity:1;stroke:#05be27;stroke-opacity:1;filter:url(#filter890)"
+     id="rect882"
+     y="2"
+     x="9"
+     width="5"
+     ry="1"
+     height="20"
+     fill="#eac282"
+     clip-path="url(#clipPath894)" />
+  <rect
+     style="fill:none;fill-opacity:1;stroke:#f26e16;stroke-opacity:1;filter:url(#filter904)"
+     id="rect898"
+     y="10"
+     x="16"
+     width="5"
+     ry="1"
+     height="12"
+     fill="#808080"
+     clip-path="url(#clipPath910)" />
+</svg>
