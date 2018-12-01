@@ -13,7 +13,7 @@
    id="svg24"
    sodipodi:docname="lc_insertendnote.svg"
    inkscape:version="0.92.3 (unknown)"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-calibre/images_calibre/cmd/lc_insertendnote.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-colibrex/images_colibrex/cmd/lc_insertendnote.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -45,7 +45,7 @@
          offset="0.75"
          id="stop831" />
       <stop
-         style="stop-color:#dfdfdf;stop-opacity:1"
+         style="stop-color:#fbfbfb;stop-opacity:1"
          offset="1"
          id="stop823" />
     </linearGradient>
@@ -87,12 +87,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="707"
+     inkscape:window-height="706"
      id="namedview26"
      showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="28.95602"
-     inkscape:cy="1.2648026"
+     inkscape:zoom="9.8333334"
+     inkscape:cx="15.23206"
+     inkscape:cy="11.193466"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -104,7 +104,7 @@
        d="m11 6c-.554 0-1 .446-1 1v15c0 .554.446 1 1 1h9c.554 0 1-.446 1-1v-15c0-.554-.446-1-1-1zm0 1h9v15h-9z"
        fill="#808080"
        id="path2"
-       style="fill:#bababa;fill-opacity:1" />
+       style="fill:#98989d;fill-opacity:1" />
     <path
        d="m11 7h9v15h-9z"
        fill="#fff"
@@ -118,7 +118,7 @@
        d="m11 6c-.554 0-1 .446-1 1v15c0 .554.446 1 1 1h9c.554 0 1-.446 1-1v-15c0-.554-.446-1-1-1zm0 1h9v15h-9z"
        fill="#808080"
        id="path8"
-       style="fill:#bababa;fill-opacity:1" />
+       style="fill:#98989d;fill-opacity:1" />
     <path
        d="m11 7h9v15h-9z"
        fill="#fff"
@@ -129,7 +129,7 @@
      d="m11 6c-.554 0-1 .446-1 1v15c0 .554.446 1 1 1h8v-1h-8v-15h9v3.283203c.296519-.175464.636031-.283203 1-.283203v-3c0-.554-.446-1-1-1z"
      fill="#808080"
      id="path14"
-     style="fill:#bababa;fill-opacity:1" />
+     style="fill:#98989d;fill-opacity:1" />
   <path
      d="m11 7v15h8v-8a1.0001 1.0001 0 0 1 .482422-.853516c-.252344-.334808-.482422-.702403-.482422-1.146484 0-.726734.407943-1.366449 1-1.716797v-3.283203z"
      fill="#fff"
@@ -137,16 +137,19 @@
      style="fill-opacity:1;fill:url(#linearGradient864)" />
   <g
      fill="#4d82b8"
-     id="g22">
+     id="g22"
+     style="fill:#0a84ff;fill-opacity:1">
     <rect
        height="2"
        ry="1"
        width="2"
        x="20"
        y="11"
-       id="rect18" />
+       id="rect18"
+       style="fill:#0a84ff;fill-opacity:1" />
     <path
        d="m20 14h2v9h-2z"
-       id="path20" />
+       id="path20"
+       style="fill:#0a84ff;fill-opacity:1" />
   </g>
 </svg>

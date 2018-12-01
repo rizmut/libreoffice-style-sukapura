@@ -13,7 +13,7 @@
    id="svg18"
    sodipodi:docname="sc_copy.svg"
    inkscape:version="0.92.3 (unknown)"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-colementary/images_colementary/cmd/sc_copy.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-colibrex/images_colibrex/cmd/sc_copy.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"><metadata
    id="metadata24">
@@ -113,11 +113,11 @@
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
    inkscape:window-width="1366"
-   inkscape:window-height="707"
+   inkscape:window-height="706"
    id="namedview20"
    showgrid="true"
    inkscape:zoom="16"
-   inkscape:cx="7.6299299"
+   inkscape:cx="-3.3700701"
    inkscape:cy="6.4299632"
    inkscape:window-x="0"
    inkscape:window-y="0"
@@ -127,6 +127,7 @@
      type="xygrid"
      id="grid834" />
 </sodipodi:namedview>
+
 
 
 
@@ -143,7 +144,7 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccc" />
   <path
-     style="fill:#bababa;fill-opacity:1"
+     style="fill:#a1a1a1;fill-opacity:1"
      d="M 6,3 C 5.446,3 5,3.446 5,4 v 11 c 0,0.554 0.446,1 1,1 h 8 c 0.554,0 1,-0.446 1,-1 V 7.0019531 L 10.998047,3 Z m 0,1 h 4 V 7.0019531 C 10,7.5547304 10.44527,8 10.998047,8 H 14 v 7 H 6 Z M 11,4.4160156 13.583984,7 H 11 Z"
      id="path900"
      inkscape:connector-curvature="0" />
@@ -164,7 +165,7 @@
   <path
      id="path10"
      d="M 6 3 C 5.446 3 5 3.446 5 4 L 5 15 C 5 15.554 5.446 16 6 16 L 14 16 C 14.554 16 15 15.554 15 15 L 15 7.0019531 L 10.998047 3 L 6 3 z M 6 4 L 10 4 L 10 7.0019531 C 10 7.5547304 10.44527 8 10.998047 8 L 14 8 L 14 15 L 6 15 L 6 4 z M 11 4.4160156 L 13.583984 7 L 11 7 L 11 4.4160156 z "
-     style="fill:#bababa;fill-opacity:1" />
+     style="fill:#a1a1a1;fill-opacity:1" />
   <path
      inkscape:connector-curvature="0"
      id="path876"

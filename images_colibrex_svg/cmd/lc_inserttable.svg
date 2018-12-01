@@ -12,7 +12,7 @@
    id="svg8"
    sodipodi:docname="lc_inserttable.svg"
    inkscape:version="0.92.3 (unknown)"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-calibre/images_calibre/cmd/lc_inserttable.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-colibrex/images_colibrex/cmd/lc_inserttable.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -38,12 +38,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="707"
+     inkscape:window-height="706"
      id="namedview10"
      showgrid="true"
-     inkscape:zoom="3.4766083"
-     inkscape:cx="27.393921"
-     inkscape:cy="-37.778569"
+     inkscape:zoom="13.906433"
+     inkscape:cx="10.315132"
+     inkscape:cy="13.875998"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -64,13 +64,14 @@
   <path
      d="m2 2h20v4h-20z"
      fill="#4d82b8"
-     id="path6" />
+     id="path6"
+     style="fill:#0a84ff;fill-opacity:1" />
   <path
      d="M 3 2 C 2.446 2 2 2.446 2 3 L 2 21 C 2 21.554 2.446 22 3 22 L 21 22 C 21.554 22 22 21.554 22 21 L 22 3 C 22 2.446 21.554 2 21 2 L 3 2 z M 3 3 L 8 3 L 9 3 L 15 3 L 16 3 L 21 3 L 21 9 L 21 10 L 21 13 L 21 14 L 21 17 L 21 18 L 21 21 L 16 21 L 15 21 L 9 21 L 8 21 L 3 21 L 3 18 L 3 17 L 3 14 L 3 13 L 3 10 L 3 9 L 3 3 z "
      id="path834"
      style="fill:#929292;fill-opacity:1" />
   <path
-     style="opacity:1;fill:#3d6b99;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#0040dd;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      d="M 3 2 C 2.446 2 2 2.446 2 3 L 2 5 L 2 6 L 3 6 L 21 6 L 22 6 L 22 5 L 22 3 C 22 2.446 21.554 2 21 2 L 3 2 z M 3 3 L 8 3 L 8 5 L 3 5 L 3 3 z M 9 3 L 15 3 L 15 5 L 9 5 L 9 3 z M 16 3 L 21 3 L 21 5 L 16 5 L 16 3 z "
      id="rect839" />
 </svg>

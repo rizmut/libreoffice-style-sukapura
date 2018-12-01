@@ -5,13 +5,14 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 24 24"
    version="1.1"
    id="svg6"
    sodipodi:docname="lc_redo.svg"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-calibre/images_calibre/cmd/lc_redo.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-colibrex/images_colibrex/cmd/lc_redo.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    inkscape:version="0.92.3 (unknown)">
@@ -28,7 +29,29 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs10" />
+     id="defs10">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1391">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop1387" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop1389" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1391"
+       id="linearGradient1393"
+       x1="7"
+       y1="2"
+       x2="11"
+       y2="15"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -39,32 +62,36 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="707"
+     inkscape:window-height="706"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="27.812867"
-     inkscape:cx="21.130578"
-     inkscape:cy="10.229503"
+     inkscape:zoom="19.666666"
+     inkscape:cx="8.7395756"
+     inkscape:cy="11.978397"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6">
     <inkscape:grid
        type="xygrid"
-       id="grid814" />
+       id="grid814"
+       spacingx="0.5"
+       spacingy="0.5"
+       empspacing="2" />
   </sodipodi:namedview>
   <g
-     id="g824"
-     transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,29.192388,12.050253)">
+     id="g1397"
+     transform="matrix(-1,0,0,1,25.5,0.5)">
     <path
-       id="path2"
-       d="m 9,4 -6,6 6,6 z"
+       sodipodi:nodetypes="cscccccccccccsccc"
        inkscape:connector-curvature="0"
-       style="fill:#4d82b8;fill-opacity:1;stroke:#4d82b8;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+       id="path1373"
+       d="M 16.640625,5.34375 C 15.897146,5.354346 15.169578,5.5027609 14.49212,5.7745478 13.747108,6.0734368 13.062698,6.5215292 12.484375,7.0996094 L 7.5351562,12.050781 4,8.515625 V 15.585938 17 H 5.4140625 12.484375 L 8.9492188,13.464844 13.900391,8.515625 c 1.562028,-1.5616944 4.094222,-1.5616944 5.65625,0 1.561694,1.562028 1.561694,4.094222 0,5.65625 -0.391737,0.391738 -0.391737,1.022326 0,1.414063 0.391737,0.391737 1.022325,0.391736 1.414062,0 2.343844,-2.343265 2.343844,-6.1430631 0,-8.4863286 C 19.8239,5.9532664 18.261948,5.3198902 16.640625,5.34375 Z"
+       style="fill:#0a84ff;fill-opacity:1;stroke:#0a84ff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       id="path4"
-       d="m 4,9 v 2 h 12 a 4,4 0 0 1 4,4 4,4 0 0 1 -4,4 c -0.554,0 -1,0.446 -1,1 0,0.554 0.446,1 1,1 a 6,6 0 0 0 6,-6 6,6 0 0 0 -6,-6 z"
-       inkscape:connector-curvature="0"
-       style="fill:#4d82b8" />
+       id="path1371"
+       d="m 16.634766,4.8808594 c -0.801149,0.011418 -1.58503,0.172209 -2.314454,0.4648437 -0.802218,0.3218398 -1.54098,0.8029612 -2.164062,1.4257813 L 7.5351562,11.394531 4.328125,8.1875 A 0.46324775,0.46324775 0 0 0 3.5371094,8.515625 V 15.585938 17 a 0.46324775,0.46324775 0 0 0 0.1484375,0.339844 C 8.6091001,13.256648 10.617071,7.2898377 18.527344,5.1367188 17.918173,4.9604255 17.280804,4.8713521 16.634766,4.8808594 Z"
+       style="fill:url(#linearGradient1393);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5625"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

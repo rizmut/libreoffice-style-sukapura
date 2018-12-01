@@ -13,7 +13,7 @@
    id="svg8"
    sodipodi:docname="lc_insertfootnote.svg"
    inkscape:version="0.92.3 (unknown)"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-calibre/images_calibre/cmd/lc_insertfootnote.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-colibrex/images_colibrex/cmd/lc_insertfootnote.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -45,7 +45,7 @@
          offset="0.75"
          id="stop831" />
       <stop
-         style="stop-color:#dfdfdf;stop-opacity:1"
+         style="stop-color:#ffffff;stop-opacity:1"
          offset="1"
          id="stop823" />
     </linearGradient>
@@ -69,12 +69,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="707"
+     inkscape:window-height="706"
      id="namedview10"
      showgrid="false"
      inkscape:zoom="9.8333333"
-     inkscape:cx="-1.0677966"
-     inkscape:cy="11.186441"
+     inkscape:cx="3.4004292"
+     inkscape:cy="10.9334"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -88,9 +88,10 @@
      d="m5 2c-.554 0-1 .446-1 1v18c0 .554.446 1 1 1h13 .972656v-6.355469l-.066406.064453c-.02003.01975-.04088.038651-.0625.056641-.206896.170095-.516862.304399-.84375.341797v4.892578h-13v-18h13v9.039062l1-.894531v-8.144531c0-.554-.446-1-1-1z"
      fill="#808080"
      id="path4"
-     style="fill:#bababa;fill-opacity:1" />
+     style="fill:#98989d;fill-opacity:1" />
   <path
      d="m19.972751 22v-8.720406l-1.763785 1.712613c-.14766.121396-.292243.163885-.433751.127466-.135355-.04249-.230718-.103185-.286092-.182094l-.489123-.664643 3.662167-3.272936h1.337833v11 1h-2.027249z"
      fill="#4d82b8"
-     id="path6" />
+     id="path6"
+     style="fill:#0a84ff;fill-opacity:1" />
 </svg>

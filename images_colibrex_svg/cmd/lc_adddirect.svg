@@ -13,7 +13,7 @@
    id="svg8"
    sodipodi:docname="lc_adddirect.svg"
    inkscape:version="0.92.3 (unknown)"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-calibre/images_calibre/cmd/lc_adddirect.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-colibrex/images_colibrex/cmd/lc_adddirect.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -93,12 +93,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="707"
+     inkscape:window-height="706"
      id="namedview10"
      showgrid="true"
-     inkscape:zoom="13.906433"
-     inkscape:cx="-0.72867407"
-     inkscape:cy="11.063067"
+     inkscape:zoom="6.9532165"
+     inkscape:cx="27.794472"
+     inkscape:cy="-4.2670168"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -115,7 +115,7 @@
        d="m5 3v18h14v-14.2705905l-4-3.7294095z"
        fill="#fff" />
     <path
-       style="fill:#bababa;fill-opacity:1"
+       style="fill:#98989d;fill-opacity:1"
        id="path4"
        d="m5 2c-.554 0-1 .446-1 1v18c0 .554.446 1 1 1h14c.554 0 1-.446 1-1v-10.109375-3.6412209-.2079239c0-.4506799.09887-.4265951-.604637-1.0675892l-3.307389-3.2370335c-.709525-.7368575-.711223-.7368575-1.094804-.7368575h-.331557-.661613zm0 1h9v4c0 .554.446 1 1 1h4v13h-14z"
        fill="#808080" />

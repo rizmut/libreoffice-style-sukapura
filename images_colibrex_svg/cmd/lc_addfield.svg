@@ -13,7 +13,7 @@
    id="svg8"
    sodipodi:docname="lc_addfield.svg"
    inkscape:version="0.92.3 (unknown)"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-calibre/images_calibre/cmd/lc_addfield.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-colibrex/images_colibrex/cmd/lc_addfield.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -94,12 +94,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="707"
+     inkscape:window-height="706"
      id="namedview10"
      showgrid="true"
-     inkscape:zoom="4.9166665"
-     inkscape:cx="-21.272059"
-     inkscape:cy="12.924368"
+     inkscape:zoom="6.9532165"
+     inkscape:cx="-0.50574399"
+     inkscape:cy="-7.8027816"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -116,7 +116,7 @@
        d="m5 3v18h14v-14.2705905l-4-3.7294095z"
        fill="#fff" />
     <path
-       style="fill:#bababa;fill-opacity:1"
+       style="fill:#98989d;fill-opacity:1"
        id="path4"
        d="m5 2c-.554 0-1 .446-1 1v18c0 .554.446 1 1 1h14c.554 0 1-.446 1-1v-10.109375-3.6412209-.2079239c0-.4506799.09887-.4265951-.604637-1.0675892l-3.307389-3.2370335c-.709525-.7368575-.711223-.7368575-1.094804-.7368575h-.331557-.661613zm0 1h9v4c0 .554.446 1 1 1h4v13h-14z"
        fill="#808080" />
@@ -141,14 +141,17 @@
        width="8"
        x="8"
        y="13"
-       id="rect8" />
+       id="rect8"
+       style="fill:#0a84ff;fill-opacity:1" />
     <path
        inkscape:connector-curvature="0"
        d="m 8,10 c -1.104522,0 -2,0.895478 -2,2 v 4 c 0,1.104597 0.8954308,2 2,2 H 9 V 17 H 8 C 7.4477158,17 7,16.552299 7,16 V 15.71875 12 c 0,-0.552299 0.4267669,-1 1,-1 h 1 v -1 z"
-       id="path10" />
+       id="path10"
+       style="fill:#0a84ff;fill-opacity:1" />
     <path
        inkscape:connector-curvature="0"
        d="m 16,10 c 1.104522,0 2,0.895478 2,2 v 4 c 0,1.104597 -0.895431,2 -2,2 h -1 v -1 h 1 c 0.552284,0 1,-0.447701 1,-1 V 15.71875 12 c 0,-0.552299 -0.426767,-1 -1,-1 h -1 v -1 z"
-       id="path12" />
+       id="path12"
+       style="fill:#0a84ff;fill-opacity:1" />
   </g>
 </svg>

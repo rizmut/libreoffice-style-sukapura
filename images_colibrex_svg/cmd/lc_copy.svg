@@ -13,7 +13,7 @@
    id="svg18"
    sodipodi:docname="lc_copy.svg"
    inkscape:version="0.92.3 (unknown)"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-colementary/images_colementary/cmd/lc_copy.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-colibrex/images_colibrex/cmd/lc_copy.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -112,11 +112,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="707"
+     inkscape:window-height="706"
      id="namedview20"
      showgrid="true"
      inkscape:zoom="14.466226"
-     inkscape:cx="11.812562"
+     inkscape:cx="-2.9805153"
      inkscape:cy="11.958408"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -137,7 +137,7 @@
     <path
        d="M 10.857422,7 C 10.382565,7 10,7.3825647 10,7.8574219 V 21.142578 C 10,21.617435 10.382565,22 10.857422,22 H 21.142578 C 21.617435,22 22,21.617435 22,21.142578 V 11 L 21,10 19,8 18,7 Z M 11,8 h 6 v 3.142578 C 17,11.617435 17.382565,12 17.857422,12 H 21 v 9 H 11 Z M 18,8.4140625 20.585938,11 H 18 Z"
        id="path924"
-       style="fill:#bababa;fill-opacity:1"
+       style="fill:#a1a1a1;fill-opacity:1"
        inkscape:connector-curvature="0" />
     <path
        style="fill:url(#linearGradient932);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -154,7 +154,7 @@
        id="path10"
        d="m11 21h10v-9-1l-3-3h-7z" />
     <path
-       style="fill:#bababa;fill-opacity:1"
+       style="fill:#a1a1a1;fill-opacity:1"
        id="path12"
        fill="#808080"
        d="m10.857422 7c-.474857 0-.857422.3825647-.857422.8574219v13.2851561c0 .474857.382565.857422.857422.857422h10.285156c.474857 0 .857422-.382565.857422-.857422v-10.142578l-1-1-2-2-1-1zm .142578 1h6v3.142578c0 .474857.382565.857422.857422.857422h3.142578v9h-10zm7 .4140625 2.585938 2.5859375h-2.585938z" />

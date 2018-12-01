@@ -13,7 +13,7 @@
    id="svg8"
    sodipodi:docname="lc_exportdirecttopdf.svg"
    inkscape:version="0.92.3 (unknown)"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-calibre/images_calibre/cmd/lc_exportdirecttopdf.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-colibrex/images_colibrex/cmd/lc_exportdirecttopdf.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -94,12 +94,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="707"
+     inkscape:window-height="706"
      id="namedview10"
      showgrid="true"
-     inkscape:zoom="13.906433"
-     inkscape:cx="-13.312778"
-     inkscape:cy="10.487794"
+     inkscape:zoom="19.666667"
+     inkscape:cx="2.6835297"
+     inkscape:cy="10.948432"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -116,7 +116,7 @@
      style="fill:url(#radialGradient857);fill-opacity:1" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:#bababa;fill-opacity:1"
+     style="fill:#a1a1a1;fill-opacity:1"
      d="M 5,3 C 4.446,3 4,3.446 4,4 v 17 c 0,0.554 0.446,1 1,1 h 5.183594 a 1.0001,1.0001 0 0 1 0.228515,-0.488281 c 0.003,-0.0032 9.07e-4,-0.0085 0.0039,-0.01172 a 1.0001,1.0001 0 0 1 0.0078,-0.0078 c 0.07109,-0.07214 0.01823,-0.01806 0.01953,-0.01758 a 1.0001,1.0001 0 0 1 0.08594,-0.08008 C 10.690459,21.259773 10.827874,21.131254 10.976562,21 H 5 V 4 h 9 v 4 c 0,0.554 0.446,1 1,1 h 4 v 7.623047 c 0.281406,0.183398 0.615707,0.347736 1,0.494141 V 8.25 8.0410156 C 20,7.5903357 20.098038,7.6156035 19.394531,6.9746094 L 16.087891,3.7363281 C 15.378366,2.9994706 15.377722,3 14.994141,3 H 14.662109 14 Z M 19,20.121094 V 21 h -3.181641 c -0.490395,0.259154 -1.00132,0.591845 -1.535156,1 H 20 V 21.246094 21 20.169922 c -0.05069,-0.01448 -0.105973,-0.02633 -0.15625,-0.04102 -0.281796,-0.02259 -0.5625,-0.01731 -0.84375,-0.0078 z"
      id="path4-7" />
   <path
@@ -131,7 +131,7 @@
      sodipodi:nodetypes="cccc" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:none;stroke:#d65532;stroke-width:0.94852901;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:none;stroke:#ff453a;stroke-width:0.94852901;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
      d="m 11.473603,22.526341 c 5.226938,-4.370563 4.807709,-7.688322 4.637891,-11.052586 -0.748906,5.401898 2.038932,7.334389 6.414603,7.709274 -3.299738,-1.04046 -6.796542,-0.976274 -11.052494,3.343312 z"
      id="path8" />
 </svg>

@@ -13,7 +13,7 @@
    id="svg12"
    sodipodi:docname="lc_printpreview.svg"
    inkscape:version="0.92.3 (unknown)"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-calibre/images_calibre/cmd/lc_printpreview.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-colibrex/images_colibrex/cmd/lc_printpreview.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -93,12 +93,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="707"
+     inkscape:window-height="706"
      id="namedview14"
      showgrid="true"
-     inkscape:zoom="6.9532167"
-     inkscape:cx="-6.1825698"
-     inkscape:cy="18.509429"
+     inkscape:zoom="11.313709"
+     inkscape:cx="3.7904585"
+     inkscape:cy="5.6249171"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -115,17 +115,17 @@
      d="m5 3c-.554 0-1 .446-1 1v17c0 .554.446 1 1 1h14.890625l-1-1h-3.388672-.001953-10.5v-17h9v4c0 .554.446 1 1 1h4v2.265625c.380836.315573.715237.682422 1 1.087891v-4.103516-.2089844c0-.4506799.098038-.4254121-.605469-1.0664062l-3.30664-3.2382813c-.709525-.7368575-.710169-.7363281-1.09375-.7363281h-.332032-.662109z"
      id="path4"
      fill="#808080"
-     style="fill:#bababa;fill-opacity:1" />
+     style="fill:#a1a1a1;fill-opacity:1" />
   <path
-     d="m15.5 11a4.5 4.5 0 0 0 -4.5 4.5 4.5 4.5 0 0 0 4.5 4.5 4.5 4.5 0 0 0 2.8125-.992188l3.839844 3.839844a.50005.50005 0 1 0 .707031-.707031l-3.837891-3.837891a4.5 4.5 0 0 0 .978516-2.802734 4.5 4.5 0 0 0 -4.5-4.5zm0 1a3.5 3.5 0 0 1 3.5 3.5 3.5 3.5 0 0 1 -3.5 3.5 3.5 3.5 0 0 1 -3.5-3.5 3.5 3.5 0 0 1 3.5-3.5z"
-     fill="#4d82b8"
+     style="fill:#0a84ff;fill-opacity:1;stroke:none;stroke-opacity:1"
+     d="M 15.5 11 C 13.014719 11 11 13.014719 11 15.5 C 11 17.985281 13.014719 20 15.5 20 C 16.193353 19.999051 16.86652 19.826641 17.480469 19.523438 C 17.521981 19.592576 17.555512 19.664887 17.615234 19.724609 L 21.150391 23.261719 C 21.542128 23.653456 22.172716 23.653456 22.564453 23.261719 C 22.66749 23.158682 22.740228 23.037565 22.789062 22.910156 C 23.021704 22.745795 23.135731 22.405954 22.859375 22.140625 L 22.564453 21.845703 L 19.029297 18.310547 L 19.021484 18.302734 C 19.655297 17.50607 20.000249 16.518034 20 15.5 C 20 13.014719 17.985281 11 15.5 11 z M 15.490234 12.990234 A 2.5125763 2.5125763 0 0 1 18.001953 15.503906 A 2.5125763 2.5125763 0 0 1 15.490234 18.015625 A 2.5125763 2.5125763 0 0 1 12.976562 15.503906 A 2.5125763 2.5125763 0 0 1 15.490234 12.990234 z "
      id="path8" />
   <circle
      cx="15.5"
      cy="15.5"
-     fill="#fff"
-     r="3.5"
-     id="circle10" />
+     r="2.5078125"
+     id="circle10"
+     style="fill:#ffffff;stroke-width:0.71651787" />
   <path
      inkscape:connector-curvature="0"
      id="path876"

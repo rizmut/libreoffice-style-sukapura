@@ -13,7 +13,7 @@
    id="svg20"
    sodipodi:docname="lc_insertpagebreak.svg"
    inkscape:version="0.92.3 (unknown)"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-calibre/images_calibre/cmd/lc_insertpagebreak.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-colibrex/images_colibrex/cmd/lc_insertpagebreak.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -53,19 +53,19 @@
        inkscape:collect="always"
        id="linearGradient907">
       <stop
-         style="stop-color:#bababa;stop-opacity:1"
+         style="stop-color:#98989d;stop-opacity:1"
          offset="0"
          id="stop903" />
       <stop
          id="stop911"
          offset="0.75"
-         style="stop-color:#bababa;stop-opacity:1" />
+         style="stop-color:#98989d;stop-opacity:1" />
       <stop
-         style="stop-color:#bababa;stop-opacity:0.25378788"
+         style="stop-color:#9b9b9b;stop-opacity:0.25490198"
          offset="0.9375"
          id="stop913" />
       <stop
-         style="stop-color:#bababa;stop-opacity:0"
+         style="stop-color:#9b9b9b;stop-opacity:0"
          offset="1"
          id="stop905" />
     </linearGradient>
@@ -116,11 +116,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="707"
+     inkscape:window-height="706"
      id="namedview22"
      showgrid="true"
      inkscape:zoom="13.906433"
-     inkscape:cx="19.203271"
+     inkscape:cx="6.5472578"
      inkscape:cy="14.874423"
      inkscape:window-x="0"
      inkscape:window-y="0"

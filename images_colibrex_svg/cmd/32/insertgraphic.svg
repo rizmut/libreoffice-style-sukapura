@@ -12,7 +12,7 @@
    id="svg10"
    sodipodi:docname="insertgraphic.svg"
    inkscape:version="0.92.3 (unknown)"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-calibre/images_calibre/cmd/32/insertgraphic.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-colibrex/images_colibrex/cmd/32/insertgraphic.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,11 +39,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="707"
+     inkscape:window-height="706"
      id="namedview12"
      showgrid="true"
      inkscape:zoom="10.429825"
-     inkscape:cx="19.742022"
+     inkscape:cx="2.8673381"
      inkscape:cy="12.987172"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -75,11 +75,11 @@
      fill="#eac282"
      r="3"
      id="circle6"
-     style="fill:#f4e578;fill-opacity:1;stroke:#d6cc83;stroke-opacity:1" />
+     style="fill:#ffd60a;fill-opacity:1;stroke:#ffcc00;stroke-opacity:0.92854029" />
   <path
      d="m 5,26.5 c 0.4875945,0 7,-6.5 7,-6.5 L 14,21.593356 19,15 l 7.5,4.5 v 7 z"
      id="path8"
-     style="fill:#c1e4bc;fill-opacity:1;fill-rule:evenodd;stroke:#b9e0b3;stroke-opacity:1"
+     style="fill:#32d74b;fill-opacity:1;fill-rule:evenodd;stroke:#28cd41;stroke-opacity:1"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccc" />
 </svg>

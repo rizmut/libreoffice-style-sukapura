@@ -13,7 +13,7 @@
    id="svg6"
    sodipodi:docname="sc_adddirect.svg"
    inkscape:version="0.92.3 (unknown)"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-calibre/images_calibre/cmd/sc_adddirect.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-colibrex/images_colibrex/cmd/sc_adddirect.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -92,15 +92,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="707"
+     inkscape:window-width="1364"
+     inkscape:window-height="704"
      id="namedview8"
      showgrid="true"
      inkscape:zoom="14.75"
-     inkscape:cx="15.815785"
+     inkscape:cx="1.3073104"
      inkscape:cy="4.8524197"
      inkscape:window-x="0"
-     inkscape:window-y="-1"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg6">
     <inkscape:grid
@@ -115,7 +115,7 @@
        fill="#fff"
        d="m3 1v14h10v-11.2949219l-2.695312-2.7050781z" />
     <path
-       style="fill:#bababa;fill-opacity:1"
+       style="fill:#a1a1a1;fill-opacity:1"
        id="path4"
        fill="#808080"
        d="m3 0c-.554 0-1 .446-1 1v14c0 .554.446 1 1 1h10c.554 0 1-.446 1-1v-10.5-.8632812l-3.636719-3.6367188h-.863281zm0 1h6v3.5c0 .277.223.5.5.5h3.5v10h-10zm7 0 3 3h-3z" />
