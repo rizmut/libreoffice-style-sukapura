@@ -1,1 +1,1 @@
-# libreoffice-style-colibrex
+# libreoffice-style-sukapura
