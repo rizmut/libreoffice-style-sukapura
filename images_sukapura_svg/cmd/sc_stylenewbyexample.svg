@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.3 (unknown)"
+   sodipodi:docname="sc_stylenewbyexample.svg"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-sukapura/images_sukapura/cmd/sc_stylenewbyexample.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"><metadata
+   id="metadata10">
+  <rdf:RDF>
+    <cc:Work
+       rdf:about="">
+      <dc:format>image/svg+xml</dc:format>
+      <dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      <dc:title></dc:title>
+    </cc:Work>
+  </rdf:RDF>
+</metadata>
+<defs
+   id="defs8" />
+<sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1366"
+   inkscape:window-height="706"
+   id="namedview6"
+   showgrid="true"
+   inkscape:zoom="14.75"
+   inkscape:cx="10.72195"
+   inkscape:cy="10.144381"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg2"
+   inkscape:snap-smooth-nodes="true">
+  <inkscape:grid
+     type="xygrid"
+     id="grid4138"
+     spacingx="0.5"
+     spacingy="0.5"
+     empspacing="2" />
+</sodipodi:namedview>
+
+
+
+     /&amp;gt;
+ <path
+   inkscape:connector-curvature="0"
+   id="rect4"
+   d="m 7.5338983,1.5169492 c -0.554,0 -0.9962151,0.4460129 -1,1 L 6.5,7.478516 1.5,7.5 c -0.55399489,0.00238 -1,0.446 -1,1 v 0.021484 c 0,0.554 0.44600511,1.0023804 1,1 L 6.5,9.5 v 5 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 v -5 l 5,0.02148 c 0.553995,0.00238 1,-0.446 1,-1 V 8.5 c 0,-0.554 -0.446005,-0.99762 -1,-1 L 8.5,7.47852 8.533898,2.5169492 c 0.00378,-0.5539871 -0.446,-1 -0.9999997,-1 z"
+   style="fill:#32d74b;fill-opacity:1;stroke:#1ec337;stroke-opacity:1"
+   sodipodi:nodetypes="sscsssscssscsssscss" />
+</svg>

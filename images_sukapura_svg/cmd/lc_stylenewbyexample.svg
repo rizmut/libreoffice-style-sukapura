@@ -12,7 +12,7 @@
    id="svg10"
    sodipodi:docname="lc_stylenewbyexample.svg"
    inkscape:version="0.92.3 (unknown)"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-colibrex/images_colibrex/cmd/lc_stylenewbyexample.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-sukapura/images_sukapura/cmd/lc_stylenewbyexample.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,13 +54,14 @@
      inkscape:window-height="706"
      id="namedview12"
      showgrid="true"
-     inkscape:zoom="13.906433"
-     inkscape:cx="16.541045"
-     inkscape:cy="3.969619"
+     inkscape:zoom="19.666666"
+     inkscape:cx="2.9058802"
+     inkscape:cy="8.2610552"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg10">
+     inkscape:current-layer="svg10"
+     inkscape:snap-global="false">
     <inkscape:grid
        type="xygrid"
        id="grid840"
@@ -69,9 +70,9 @@
        empspacing="2" />
   </sodipodi:namedview>
   <path
-     style="fill:#69696e;fill-opacity:1"
-     d="M 9.8964844 4 L 2 20 L 4.3476562 20 C 4.5927156 20 4.8102767 19.931468 5 19.794922 C 5.1897233 19.650344 5.327106 19.489207 5.4140625 19.3125 L 6.9082031 16.095703 L 10.230469 16.095703 C 10.251774 16.054783 10.284653 16.021724 10.308594 15.982422 C 9.8502036 15.89093 9.5 15.507566 9.5 15.021484 L 9.5 15 C 9.5 14.446 9.946 14 10.5 14 L 14 14 L 14 10.021484 C 14 9.7393842 14.118027 9.488107 14.304688 9.3066406 L 12.96875 4 L 9.8964844 4 z M 11.107422 6.7832031 C 11.162761 7.1767775 11.218103 7.5415569 11.273438 7.8789062 C 11.33668 8.2082235 11.395839 8.4970978 11.451172 8.7460938 L 12.601562 13.962891 L 7.8925781 13.962891 L 10.3125 8.7714844 C 10.423172 8.5144562 10.545299 8.2162557 10.679688 7.8789062 C 10.821979 7.541557 10.96513 7.1767775 11.107422 6.7832031 z M 13.714844 19 L 13.787109 19.326172 C 13.825198 19.487422 13.901092 19.618242 14 19.732422 L 14 19 L 13.714844 19 z "
-     id="path2" />
+     style="fill:#69696e;fill-opacity:1;stroke:none"
+     d="M 9.8964844 4 L 2 20 L 4.3476562 20 C 4.5927155 20 4.8102767 19.931468 5 19.794922 C 5.1897233 19.650344 5.327106 19.489207 5.4140625 19.3125 L 6.9082031 16.095703 L 9.5917969 16.095703 C 9.7819538 14.941637 10.800006 14.03125 12 14.03125 L 14.052734 14.03125 L 14.052734 11.5 C 14.052734 10.984234 14.22304 10.502354 14.505859 10.103516 L 12.96875 4 L 9.8964844 4 z M 11.107422 6.7832031 C 11.162762 7.1767775 11.218103 7.5415569 11.273438 7.8789062 C 11.336678 8.2082235 11.395839 8.4970978 11.451172 8.7460938 L 12.601562 13.962891 L 7.8925781 13.962891 L 10.3125 8.7714844 C 10.423172 8.5144562 10.545299 8.2162557 10.679688 7.8789062 C 10.821979 7.5415569 10.96513 7.1767775 11.107422 6.7832031 z M 13.714844 19 L 13.787109 19.326172 C 13.832204 19.517087 13.922014 19.671464 14.052734 19.796875 L 14.052734 19 L 13.714844 19 z "
+     id="path2-3" />
   <path
      inkscape:connector-curvature="0"
      id="rect4"
