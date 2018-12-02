@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 24 24"
@@ -23,11 +24,66 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs12" />
+     id="defs12">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient838">
+      <stop
+         style="stop-color:#efefef;stop-opacity:1;"
+         offset="0"
+         id="stop834" />
+      <stop
+         id="stop842"
+         offset="0.33333334"
+         style="stop-color:#ffffff;stop-opacity:1" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0.8888889"
+         id="stop844" />
+      <stop
+         style="stop-color:#f5f5f5;stop-opacity:1"
+         offset="1"
+         id="stop836" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath830">
+      <rect
+         style="opacity:1;fill:#0a84ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect832"
+         width="70"
+         height="70"
+         x="-985"
+         y="-646" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient838"
+       id="linearGradient840"
+       x1="12"
+       y1="3"
+       x2="12"
+       y2="21"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter866"
+       x="-0.048745763"
+       width="1.0974915"
+       y="-0.047276712"
+       height="1.0945534">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.36559322"
+         id="feGaussianBlur868" />
+    </filter>
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -41,21 +97,28 @@
      inkscape:window-height="706"
      id="namedview10"
      showgrid="true"
-     inkscape:zoom="13.906433"
-     inkscape:cx="10.315132"
-     inkscape:cy="13.875998"
+     inkscape:zoom="9.8333331"
+     inkscape:cx="12.208544"
+     inkscape:cy="15.449938"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg8">
+     inkscape:current-layer="svg8"
+     inkscape:snap-global="false">
     <inkscape:grid
        type="xygrid"
        id="grid832" />
   </sodipodi:namedview>
   <path
+     style="fill:#000000;fill-opacity:1;stroke-width:1.01541781;opacity:0.15;filter:url(#filter866)"
+     id="path846"
+     d="M 3,4 H 21 V 22.559322 H 3 Z"
+     inkscape:connector-curvature="0" />
+  <path
      d="m3 3h18v18h-18z"
      fill="#fff"
-     id="path2" />
+     id="path2"
+     style="fill:url(#linearGradient840);fill-opacity:1" />
   <path
      d="m3 2c-.554 0-1 .446-1 1v18c0 .554.446 1 1 1h18c.554 0 1-.446 1-1v-18c0-.554-.446-1-1-1zm0 1h5v6h-5zm6 0h6v6h-6zm7 0h5v6h-5zm-13 7h5v3h-5zm6 0h6v3h-6zm7 0h5v3h-5zm-13 4h5v3h-5zm6 0h6v3h-6zm7 0h5v3h-5zm-13 4h5v3h-5zm6 0h6v3h-6zm7 0h5v3h-5z"
      id="path4"
@@ -69,7 +132,7 @@
   <path
      d="M 3 2 C 2.446 2 2 2.446 2 3 L 2 21 C 2 21.554 2.446 22 3 22 L 21 22 C 21.554 22 22 21.554 22 21 L 22 3 C 22 2.446 21.554 2 21 2 L 3 2 z M 3 3 L 8 3 L 9 3 L 15 3 L 16 3 L 21 3 L 21 9 L 21 10 L 21 13 L 21 14 L 21 17 L 21 18 L 21 21 L 16 21 L 15 21 L 9 21 L 8 21 L 3 21 L 3 18 L 3 17 L 3 14 L 3 13 L 3 10 L 3 9 L 3 3 z "
      id="path834"
-     style="fill:#929292;fill-opacity:1" />
+     style="fill:#69696e;fill-opacity:1" />
   <path
      style="opacity:1;fill:#0040dd;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      d="M 3 2 C 2.446 2 2 2.446 2 3 L 2 5 L 2 6 L 3 6 L 21 6 L 22 6 L 22 5 L 22 3 C 22 2.446 21.554 2 21 2 L 3 2 z M 3 3 L 8 3 L 8 5 L 3 5 L 3 3 z M 9 3 L 15 3 L 15 5 L 9 5 L 9 3 z M 16 3 L 21 3 L 21 5 L 16 5 L 16 3 z "

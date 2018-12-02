@@ -42,13 +42,13 @@
      inkscape:window-height="706"
      id="namedview12"
      showgrid="true"
-     inkscape:zoom="10.429825"
-     inkscape:cx="12.066509"
-     inkscape:cy="3.2507096"
+     inkscape:zoom="14.75"
+     inkscape:cx="6.4756565"
+     inkscape:cy="9.2545258"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg10">
+     inkscape:current-layer="g831">
     <inkscape:grid
        type="xygrid"
        id="grid831"
@@ -71,10 +71,9 @@
        fill="#fff"
        d="m1 1h14v14h-14z" />
     <circle
-       style="stroke:#ffcc00;stroke-opacity:1;fill:#ffd60a;fill-opacity:1"
+       style="fill:#ffd60a;fill-opacity:1;stroke:#ffcc00;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle6"
-       r="2.5"
-       fill="#eac282"
+       r="2.0059972"
        cy="4.5"
        cx="4.5" />
     <path

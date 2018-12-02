@@ -13,7 +13,7 @@
    id="svg12"
    sodipodi:docname="savemodified_large.svg"
    inkscape:version="0.92.3 (unknown)"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-calibre/images_calibre/res/savemodified_large.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-colibrex/images_colibrex/res/savemodified_large.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -154,11 +154,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="707"
+     inkscape:window-height="706"
      id="namedview14"
      showgrid="true"
      inkscape:zoom="9.8333333"
-     inkscape:cx="2.8272941"
+     inkscape:cx="-18.935418"
      inkscape:cy="-0.2624112"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -231,7 +231,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
     <rect
-       style="opacity:1;fill:#4d82b8;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#0a84ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect958"
        width="9"
        height="1"
@@ -257,5 +257,6 @@
      cy="21"
      fill="#eac282"
      r="2"
-     id="circle10" />
+     id="circle10"
+     style="fill:#ff9f0a;fill-opacity:1" />
 </svg>
