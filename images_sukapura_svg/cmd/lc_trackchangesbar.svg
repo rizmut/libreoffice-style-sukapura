@@ -11,8 +11,8 @@
    version="1.1"
    id="svg28"
    sodipodi:docname="lc_trackchangesbar.svg"
-   inkscape:version="0.92.3 (unknown)"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-colibrex/images_colibrex/cmd/lc_trackchangesbar.png"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="/home/rizmut/Documents/Rizmut/Github/libreoffice-style-sukapura/images_sukapura/cmd/lc_trackchangesbar.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -27,7 +27,30 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs32" />
+     id="defs32">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1597">
+      <rect
+         style="opacity:1;fill:#98989d;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1599"
+         width="184.67798"
+         height="197.69492"
+         x="-1011.2543"
+         y="-1111.7289" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1616">
+      <ellipse
+         style="opacity:1;fill:#98989d;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse1618"
+         cx="-2.9880798"
+         cy="1.9466711"
+         rx="5.2616191"
+         ry="4.9693069" />
+    </clipPath>
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -38,12 +61,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="706"
+     inkscape:window-height="692"
      id="namedview30"
      showgrid="false"
-     inkscape:zoom="19.666666"
-     inkscape:cx="12.657279"
-     inkscape:cy="6.7997151"
+     inkscape:zoom="11.313709"
+     inkscape:cx="5.9186252"
+     inkscape:cy="13.288283"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -63,9 +86,9 @@
      fill-rule="evenodd"
      id="path6" />
   <g
-     fill="#eac282"
      transform="translate(-1 -1)"
-     id="g12">
+     id="g12"
+     fill="#eac282">
     <path
        style="fill:#98989d;fill-opacity:1;stroke:#616165;stroke-opacity:1"
        d="M 11.783203,19.820312 11,23 13.96875,22.210938 Z"
@@ -76,14 +99,20 @@
     <path
        d="m21.419922 12c-.189562 0-.378184.07172-.523438.216797l-1.673828 1.669922 2.847656 2.849609 1.710938-1.638672c.290506-.290127.290506-.756747 0-1.046875l-1.835938-1.833984c-.145254-.145064-.335828-.216797-.52539-.216797z"
        id="path10"
-       style="fill:#0a84ff;fill-opacity:1;stroke:#0040dd;stroke-opacity:1" />
+       style="fill:#e68497;fill-opacity:1;stroke:#b6496c;stroke-opacity:1" />
     <path
        id="path870"
        transform="translate(1,1)"
        d="m 17.480469,13.611328 -5.439453,5.433594 c 0.648096,0.793958 1.89093,2.102781 2.714843,2.957031 l 0.05078,-0.01367 5.509765,-5.544922 z"
-       style="fill:#0a84ff;fill-opacity:1;stroke:#0040dd;stroke-opacity:1"
+       style="fill:#ffcc00;fill-opacity:1;stroke:#c89e00;stroke-opacity:1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#ffe014;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 20.985596,16.42957 -1.284233,-1.373643 -6.299585,6.125687 1.263119,1.338035 z"
+       id="path828"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
   </g>
   <rect
      fill="#808080"
@@ -145,15 +174,9 @@
      id="rect26"
      style="fill:#ff9f0a;fill-opacity:1" />
   <path
-     style="fill:none;stroke:#3399ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 13.067798,19.423729 4.347457,-4.449153 1.881355,1.855933"
-     id="path828"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccc" />
-  <path
      sodipodi:nodetypes="ccc"
      inkscape:connector-curvature="0"
      id="path830"
      d="m 19.271187,13.271186 1.118644,-1.067797 1.703389,1.677967"
-     style="fill:none;stroke:#3399ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+     style="fill:none;stroke:#f398b3;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
 </svg>
