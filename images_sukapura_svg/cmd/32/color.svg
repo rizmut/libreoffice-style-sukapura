@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="color.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="692"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="20.85965"
+     inkscape:cx="7.9857461"
+     inkscape:cy="25.03122"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <path
+     d="m13.830582 2.993358-7.8372715 21.998918 2.5006051.01434c.3562195.002.6528688-.09983.8903522-.298617.2482782-.20983.4152798-.435913.5016375-.678874l1.9446407-4.959636h8.338909l1.934815 4.976822c.10795.276091.27495.508317.501637.69606.226688.176697.529916.266418.907724.264244l2.49306-.01434-7.83727-21.998918zm2.154217 4.0087868c.140332.5411379.278786 1.0442958.419117 1.5081289.140333.4527895.276552.8499715.406089 1.1923242l2.525559 6.8285561h-6.671127l2.52556-6.8113697c.118743-.3423528.248384-.7456774.388716-1.2095106.14033-.4638331.27655-.966991.406086-1.5081289z"
+     fill="#696969"
+     id="path4"
+     style="stroke:none;fill:#69696e;fill-opacity:1" />
+</svg>
