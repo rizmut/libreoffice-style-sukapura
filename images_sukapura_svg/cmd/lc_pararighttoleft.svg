@@ -7,13 +7,10 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 32 32"
+   viewBox="0 0 24 24"
    version="1.1"
    id="svg6"
-   sodipodi:docname="bold.svg"
-   inkscape:export-filename="/home/rizmut/Documents/Rizmut/Github/libreoffice-style-sukapura/images_sukapura/cmd/32/bold.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
+   sodipodi:docname="lc_pararighttoleft.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata12">
@@ -23,6 +20,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,28 +38,22 @@
      inkscape:window-width="1366"
      inkscape:window-height="692"
      id="namedview8"
-     showgrid="true"
-     inkscape:zoom="10.429825"
-     inkscape:cx="8.4404317"
-     inkscape:cy="20.502279"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="-3.1525424"
+     inkscape:cy="11.186441"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6">
-    <inkscape:grid
-       type="xygrid"
-       id="grid822" />
-  </sodipodi:namedview>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:40.05077362px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#696969;fill-opacity:1;stroke:none;stroke-width:1.00126946"
-     x="2.3922937"
-     y="30.564398"
-     id="text826"
-     transform="scale(1.0186916,0.98165138)"><tspan
-       sodipodi:role="line"
-       id="tspan824"
-       x="2.3922937"
-       y="30.564398"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#69696e;fill-opacity:1;stroke-width:1.00126946">B</tspan></text>
+     inkscape:current-layer="svg6" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#0a84ff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.85590786"
+     d="m 16.143522,11.007812 c 0.566074,0.0059 0.911614,0.511514 0.84375,0.992188 h 0.01172 v 3 h 5.5 c 0.277,0 0.5,0.223 0.5,0.5 V 17.007812 18.5 c 0,0.277 -0.223,0.5 -0.5,0.5 h -5.5 v 3 h -0.02148 c 0.116386,0.714915 -0.786647,1.40756 -1.457032,0.753906 L 10.26071,17.626953 c -0.3476134,-0.339574 -0.3476134,-0.898707 0,-1.238281 l 5.259765,-5.125 c 0.164619,-0.16591 0.389338,-0.258192 0.623047,-0.25586 z"
+     id="path4-1" />
+  <path
+     d="m8 2c-3.313709 0-6 2.6862915-6 6 0 3.313708 2.686291 6 6 6v8h2v-3.230469l-.4375-.425781v-.001953c-.7401195-.723004-.7401195-1.944965 0-2.667969v-.001953l.4375-.425781v-11.246094h2v9.296875l2-1.949219v-7.347656l3-1v-1zm4 18.71875v1.28125h1.3125z"
+     fill="#696969"
+     id="path2"
+     style="fill:#69696e;fill-opacity:1" />
 </svg>
