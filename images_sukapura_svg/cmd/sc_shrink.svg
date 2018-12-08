@@ -1,1 +1,117 @@
-<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><text fill="#69696e" font-family="sans-serif" font-size="21.40888" letter-spacing="0" transform="scale(.98114083 1.0192217)" word-spacing="0" x=".935593" y="15.698253"><tspan fill="#69696e" font-family="Carlito" x=".935593" y="15.698253">A</tspan></text><path d="m8.507121 1.494946-2.9999998 2.9949499 2.9999998 3.0050501z" fill="#0a84ff" stroke="#0a84ff" stroke-linecap="round" stroke-linejoin="round" transform="matrix(0 -1.0000007 -.99998453 0 16.999881 12.00715)"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="sc_shrink.svg"
+   inkscape:version="0.92.3 (unknown)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12">
+    <linearGradient
+       gradientTransform="translate(-25.830508,-3.5932203)"
+       id="a"
+       gradientUnits="userSpaceOnUse"
+       x1="14"
+       x2="13.79661"
+       y1="22"
+       y2="2.1355929">
+      <stop
+         offset="0"
+         stop-color="#0040dd"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#0a84ff"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#a"
+       id="linearGradient1320"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1,0,0,1,-29.010942,26.95119)"
+       x1="-31.010942"
+       y1="-4.95119"
+       x2="-31.010942"
+       y2="-16.951191" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#a"
+       id="linearGradient861"
+       x1="5.0071421"
+       y1="4.494946"
+       x2="9.0071211"
+       y2="4.494946"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#a"
+       id="linearGradient869"
+       x1="5.0071421"
+       y1="4.494946"
+       x2="9.0071211"
+       y2="4.494946"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     id="namedview10"
+     showgrid="true"
+     inkscape:zoom="22.627417"
+     inkscape:cx="-1.3790193"
+     inkscape:cy="10.628875"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8">
+    <inkscape:grid
+       type="xygrid"
+       id="grid831" />
+  </sodipodi:namedview>
+  <g
+     aria-label="A"
+     style="font-style:normal;font-weight:normal;font-size:19.70339203px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#69696e;fill-opacity:1;stroke:none;stroke-width:0.49258479"
+     id="text845">
+    <path
+       d="M 10.051575,12.347773 H 4.1828887 L 2.8648395,16.003675 H 0.95992173 L 6.3090848,1.9957952 H 7.9253787 L 13.284163,16.003675 H 11.388866 Z M 4.7408949,10.827687 H 9.5031894 L 7.1172317,4.2759241 Z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#69696e;fill-opacity:1;stroke-width:0.49258479"
+       id="path833" />
+  </g>
+  <path
+     d="m8.507121 1.494946-2.9999998 2.9949499 2.9999998 3.0050501z"
+     fill="#0a84ff"
+     stroke="#0a84ff"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     transform="matrix(0 -1.0000007 -.99998453 0 16.999881 12.00715)"
+     id="path6"
+     style="fill-opacity:1;fill:url(#linearGradient861);stroke:url(#linearGradient869)" />
+</svg>

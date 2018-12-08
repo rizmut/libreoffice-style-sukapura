@@ -12,7 +12,7 @@
    version="1.1"
    id="svg24"
    sodipodi:docname="sc_spacepara1.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.3 (unknown)">
   <metadata
      id="metadata30">
     <rdf:RDF>
@@ -112,11 +112,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="685"
+     inkscape:window-height="706"
      id="namedview26"
      showgrid="false"
      inkscape:zoom="10.429825"
-     inkscape:cx="3.0977941"
+     inkscape:cx="-15.023315"
      inkscape:cy="6.9063716"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -185,5 +185,42 @@
        x="7"
        y="7"
        id="rect20" />
+  </g>
+  <g
+     id="g838"
+     transform="translate(0,1)"
+     style="fill:#e9e9e9;fill-opacity:0.99215686">
+    <rect
+       id="rect830"
+       y="5.000001"
+       x="7"
+       width="7"
+       ry="0.380151"
+       height="1"
+       style="fill:#e9e9e9;fill-opacity:0.99215686" />
+    <rect
+       id="rect832"
+       y="9"
+       x="7"
+       width="7"
+       ry="0.44007599"
+       height="1"
+       style="fill:#e9e9e9;fill-opacity:0.99215686" />
+    <rect
+       id="rect834"
+       y="11"
+       x="7"
+       width="8"
+       ry="0.5"
+       height="1"
+       style="fill:#e9e9e9;fill-opacity:0.99215686" />
+    <rect
+       id="rect836"
+       y="7"
+       x="7"
+       width="8"
+       ry="0.47602999"
+       height="1"
+       style="fill:#e9e9e9;fill-opacity:0.99215686" />
   </g>
 </svg>

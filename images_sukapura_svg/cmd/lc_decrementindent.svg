@@ -12,7 +12,7 @@
    version="1.1"
    id="svg16"
    sodipodi:docname="lc_decrementindent.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.3 (unknown)">
   <metadata
      id="metadata22">
     <rdf:RDF>
@@ -72,16 +72,20 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="685"
+     inkscape:window-height="706"
      id="namedview18"
-     showgrid="false"
-     inkscape:zoom="6.9532167"
-     inkscape:cx="-4.277236"
-     inkscape:cy="18.924624"
+     showgrid="true"
+     inkscape:zoom="19.666667"
+     inkscape:cx="-1.8812936"
+     inkscape:cy="19.117272"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg16" />
+     inkscape:current-layer="svg16">
+    <inkscape:grid
+       type="xygrid"
+       id="grid823" />
+  </sodipodi:namedview>
   <path
      d="m2.5071212 9.4949496 4 3.9999994v-2.994141h.0078.5l2.0064628-.000809c.277-.000112.5000001-.223.5000001-.4999996v-.9999999c0-.277-.2230001-.5001117-.5000001-.5l-2.0064628.0008091h-.492188-.0078l-.0078-3.005859z"
      fill="#0a84ff"
@@ -129,5 +133,50 @@
        x="-21"
        y="12"
        id="rect12" />
+  </g>
+  <g
+     id="g835"
+     transform="matrix(-1,0,0,1,0,1)"
+     style="fill:#e9e9e9;fill-opacity:0.99215686">
+    <rect
+       id="rect825"
+       y="2"
+       x="-21"
+       width="19"
+       ry="0.5"
+       height="1"
+       style="fill:#e9e9e9;fill-opacity:0.99215686" />
+    <rect
+       id="rect827"
+       y="21"
+       x="-21"
+       width="19"
+       ry="0.436441"
+       height="1"
+       style="fill:#e9e9e9;fill-opacity:0.99215686" />
+    <rect
+       id="rect829"
+       y="17"
+       x="-21"
+       width="11"
+       ry="0.5"
+       height="1"
+       style="fill:#e9e9e9;fill-opacity:0.99215686" />
+    <rect
+       id="rect831"
+       y="6"
+       x="-21"
+       width="11"
+       ry="0.5"
+       height="1"
+       style="fill:#e9e9e9;fill-opacity:0.99215686" />
+    <rect
+       id="rect833"
+       y="12"
+       x="-21"
+       width="11"
+       ry="0.5"
+       height="1"
+       style="fill:#e9e9e9;fill-opacity:0.99215686" />
   </g>
 </svg>
