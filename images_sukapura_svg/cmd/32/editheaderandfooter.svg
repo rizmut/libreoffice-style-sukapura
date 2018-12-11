@@ -10,7 +10,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg22"
-   sodipodi:docname="adddirect.svg"
+   sodipodi:docname="editheaderandfooter.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata28">
@@ -20,11 +20,75 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs26" />
+     id="defs26">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2168">
+      <g
+         style="fill:#0e141f;fill-opacity:1"
+         id="g2174">
+        <path
+           style="fill:#0e141f;fill-opacity:1"
+           id="path2170"
+           d="m 6,4 h 7 V 7 H 6 Z"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#0e141f;fill-opacity:1"
+           id="path2172"
+           d="m 6,17 h 11 v 3 H 6 Z"
+           inkscape:connector-curvature="0" />
+      </g>
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter900"
+       x="-0.042857143"
+       width="1.0857143"
+       y="-0.1"
+       height="1.2">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.125"
+         id="feGaussianBlur902" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter922"
+       x="-0.036428571"
+       width="1.0728571"
+       y="-0.17"
+       height="1.34">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.2125"
+         id="feGaussianBlur924" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath928">
+      <path
+         id="path930"
+         d="m 9,6 h 7 V 9 H 9 Z"
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath934">
+      <path
+         id="path936"
+         d="m 9,23 h 14 v 3 H 9 Z"
+         style="fill:#000000;fill-opacity:1"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -39,8 +103,8 @@
      id="namedview24"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-1.4237288"
-     inkscape:cy="14.915254"
+     inkscape:cx="-25.886507"
+     inkscape:cy="13.917092"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -101,4 +165,26 @@
        fill="url(#b)"
        d="m20 9h6l-6-6z" />
   </g>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#ffcc00;fill-opacity:1"
+     d="m 9,23 h 14 v 3 H 9 Z"
+     id="path8" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#ffcc00;fill-opacity:1"
+     d="m 9,6 h 7 V 9 H 9 Z"
+     id="path10" />
+  <path
+     id="path878"
+     d="m 9,6 h 7 V 9 H 9 Z"
+     style="fill:none;fill-opacity:1;stroke:#f5c200;stroke-opacity:1;filter:url(#filter900)"
+     inkscape:connector-curvature="0"
+     clip-path="url(#clipPath928)" />
+  <path
+     id="path904"
+     d="m 9,23 h 14 v 3 H 9 Z"
+     style="fill:none;fill-opacity:1;stroke:#f5c200;stroke-opacity:1;filter:url(#filter922)"
+     inkscape:connector-curvature="0"
+     clip-path="url(#clipPath934)" />
 </svg>
