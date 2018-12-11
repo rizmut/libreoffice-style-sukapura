@@ -328,12 +328,10 @@ cmd/sc_pagecolumntype.png cmd/sc_insertsection.png
 
 # Print
 cmd/lc_printpagepreview.png cmd/lc_printpreview.png
-cmd/lc_printlayout.png cmd/lc_printpreview.png
 cmd/lc_previewprintoptions.png cmd/lc_printpreview.png
 cmd/lc_sendfax.png cmd/lc_print.png
 cmd/lc_editprintarea.png cmd/lc_editdoc.png
 cmd/sc_printpagepreview.png cmd/sc_printpreview.png
-cmd/sc_printlayout.png cmd/sc_printpreview.png
 cmd/sc_previewprintoptions.png cmd/sc_printpreview.png
 cmd/sc_sendfax.png cmd/sc_print.png
 cmd/sc_editprintarea.png cmd/sc_editdoc.png
