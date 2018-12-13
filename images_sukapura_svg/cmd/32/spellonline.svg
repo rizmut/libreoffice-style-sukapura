@@ -10,8 +10,11 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg12"
-   sodipodi:docname="spelling.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   sodipodi:docname="spellonline.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="/home/rizmut/Documents/Rizmut/Github/libreoffice-style-sukapura/images_sukapura/cmd/32/spellonline.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <metadata
      id="metadata18">
     <rdf:RDF>
@@ -20,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38,9 +42,9 @@
      inkscape:window-height="685"
      id="namedview14"
      showgrid="true"
-     inkscape:zoom="20.85965"
-     inkscape:cx="16.940023"
-     inkscape:cy="23.300682"
+     inkscape:zoom="7.375"
+     inkscape:cx="-1.6323331"
+     inkscape:cy="28.441205"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -70,4 +74,9 @@
      d="m30.091797 18.558594c-.164931-.0303-.34487-.03226-.525391.0039a.46440423.46440423 0 0 0 -.0039 0c-.359762.07602-.681249.269599-.916016.548828-.000589.000701-.0014.0013-.002.002l-7.01949 7.855428-2.287109-2.238281c-.642077-.627867-1.689903-.627751-2.332032 0-.641661.627393-.641689 1.681155 0 2.308593l3.511719 3.433594a.46440423.46440423 0 0 0 .0059.0059l.916015.859375a.46440423.46440423 0 0 0 .669922-.0332l.800781-.927735 8.183594-9.144531c.436846-.464993.442737-1.122793.228516-1.626953-.214222-.504161-.642829-.938924-1.230469-1.046875z"
      fill="#32d74b"
      id="path10" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#d70015;fill-opacity:1"
+     d="M 8.3320312,19 7.9335938,19.435547 6.0058594,21.363281 4.078125,19.435547 C 3.5629125,18.6009 2.4426971,19.721115 3.2773438,20.236328 L 5.6054688,22.564453 6.0058594,23 6.40625,22.564453 l 1.9257812,-1.927734 2.3232348,2.359189 2.333016,-2.359189 1.925781,1.927734 0.40039,0.435547 0.400391,-0.435547 1.927734,-1.927734 1.529859,1.650456 0.806708,-0.828753 L 18.041016,19.435547 17.642578,19 17.242188,19.435547 15.314453,21.363281 13.386719,19.435547 12.988281,19 l -0.40039,0.435547 -1.927735,1.927734 -1.9277341,-1.927734 z"
+     id="path20" />
 </svg>

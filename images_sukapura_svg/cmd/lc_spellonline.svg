@@ -10,7 +10,7 @@
    viewBox="0 0 24 24"
    version="1.1"
    id="svg8"
-   sodipodi:docname="lc_spelling.svg"
+   sodipodi:docname="lc_spellonline.svg"
    inkscape:export-filename="/home/rizmut/Documents/Rizmut/Github/libreoffice-style-sukapura/images_sukapura/cmd/lc_spelling.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -23,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,8 +44,8 @@
      showgrid="true"
      inkscape:snap-global="false"
      inkscape:zoom="19.666667"
-     inkscape:cx="18.75314"
-     inkscape:cy="7.9319657"
+     inkscape:cx="9.6005978"
+     inkscape:cy="7.525186"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -71,4 +72,9 @@
      d="m22.008379 11.015652c-.11263-.02069-.229582-.02189-.349814.0022-.256226.05414-.492352.195183-.658476.393444l-7.352978 8.22655-2.633903-2.575268c-.440541-.430791-1.2421489-.430757-1.6827719 0-.440564.430768-.440599 1.214497 0 1.645311l3.5118709 3.433689.91455.858422.804804-.929957 8.194364-9.156507c.581205-.618654.04074-1.75309-.747646-1.897919z"
      fill="#32d74b"
      id="path2" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#d70015;fill-opacity:1"
+     d="M 6.3320312,13 5.9335938,13.435547 4.0058594,15.363281 2.078125,13.435547 A 0.58187636,0.58187636 0 1 0 1.2773438,14.236328 L 3.6054688,16.564453 4.0058594,17 4.40625,16.564453 l 1.9257812,-1.927734 1.9277344,1.927734 0.099609,0.107422 C 8.4383656,16.558008 8.5273557,16.448858 8.630859,16.347656 8.9933341,15.993298 9.4356187,15.794875 9.8906246,15.734375 L 10.988281,14.636719 12.914062,16.564453 13.314453,17 l 0.400391,-0.435547 1.927734,-1.927734 0.597656,0.599609 0.75586,-0.845703 L 16.041016,13.435547 15.642578,13 15.242188,13.435547 13.314453,15.363281 11.386719,13.435547 10.988281,13 10.587891,13.435547 8.6601562,15.363281 6.7324219,13.435547 Z"
+     id="path14" />
 </svg>
