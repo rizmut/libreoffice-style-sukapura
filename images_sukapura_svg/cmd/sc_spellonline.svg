@@ -10,7 +10,7 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg8"
-   sodipodi:docname="sc_spelling.svg"
+   sodipodi:docname="sc_spellonline.svg"
    inkscape:export-filename="/home/rizmut/Documents/Rizmut/Github/libreoffice-style-sukapura/images_sukapura/cmd/sc_spelling.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -23,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,8 +43,8 @@
      id="namedview10"
      showgrid="true"
      inkscape:zoom="20.85965"
-     inkscape:cx="11.91839"
-     inkscape:cy="9.26679"
+     inkscape:cx="2.3065317"
+     inkscape:cy="8.8832745"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -71,4 +72,9 @@
      d="m15.291698 7.0118053c-.08045-.015575-.163987-.01645-.249867.00164-.183019.0406-.35168.1463864-.470341.2950811l-5.252126 6.1698766-1.8813593-1.931437c-.3146717-.32309-.8872488-.323066-1.2019794 0-.3146887.323073-.3147137.910865 0 1.233975l2.5084787 2.575247.65325.643812.5748598-.697463 5.8531172-6.8673289c.415147-.4639881.0291-1.3148091-.534033-1.423429z"
      fill="#32d74b"
      id="path6" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#d70015;fill-opacity:1"
+     d="M 5.3300781,10 4.9316406,10.435547 3.0039062,12.363281 1.0761719,10.435547 C 0.56095914,9.6008981 -0.55925925,10.721116 0.27539062,11.236328 L 2.6035156,13.564453 3.0039062,14 3.4042969,13.564453 4.984375,11.982422 C 5.026067,11.576628 5.1986068,11.179085 5.5195312,10.849609 5.6267935,10.739507 5.7446931,10.650358 5.8671875,10.572266 L 5.7304688,10.435547 Z"
+     id="path8" />
 </svg>
