@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg22"
+   sodipodi:docname="datadatapilotrun.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   width="32"
+   height="32">
+  <metadata
+     id="metadata28">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs26">
+    <linearGradient
+       gradientTransform="translate(16.8125,3.5625)"
+       id="a"
+       gradientUnits="userSpaceOnUse"
+       x1="14"
+       x2="13.79661"
+       y1="22"
+       y2="2.1355929">
+      <stop
+         offset="0"
+         stop-color="#0040dd"
+         id="stop2189" />
+      <stop
+         offset="1"
+         stop-color="#0a84ff"
+         id="stop2191" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#a"
+       id="linearGradient1609"
+       x1="24"
+       y1="26"
+       x2="24"
+       y2="12"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#a"
+       id="linearGradient1617"
+       x1="26"
+       y1="27"
+       x2="26"
+       y2="11"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#a"
+       id="linearGradient1625"
+       x1="26"
+       y1="27"
+       x2="26"
+       y2="11"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#a"
+       id="linearGradient1633"
+       x1="-15.021858"
+       y1="28.221189"
+       x2="-30.021852"
+       y2="28.221189"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#a"
+       id="linearGradient1641"
+       x1="-15.021858"
+       y1="28.221189"
+       x2="-30.021852"
+       y2="28.221189"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#a"
+       id="linearGradient1649"
+       x1="24"
+       y1="27"
+       x2="24"
+       y2="11"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#a"
+       id="linearGradient1657"
+       x1="-15.343378"
+       y1="22.210304"
+       x2="-31.021852"
+       y2="22.221163"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="685"
+     id="namedview24"
+     showgrid="true"
+     inkscape:snap-global="true"
+     inkscape:zoom="22.627417"
+     inkscape:cx="14.737163"
+     inkscape:cy="15.69334"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg22">
+    <inkscape:grid
+       type="xygrid"
+       id="grid835"
+       spacingx="0.5"
+       spacingy="0.5"
+       empspacing="2" />
+  </sodipodi:namedview>
+  <g
+     id="g1601">
+    <path
+       id="path2-4"
+       d="M 4,3 C 3.446,3 3,3.446 3,4 v 24 c 0,0.554 0.446,1 1,1 h 24 c 0.554,0 1,-0.446 1,-1 V 4 C 29,3.446 28.554,3 28,3 Z M 4,4 H 28 V 28 H 4 Z"
+       style="fill:#929292;fill-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path4-8"
+       d="M 4,4 H 28 V 28 H 4 Z"
+       style="fill:#ffffff"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path6-7"
+       d="M 23.0101,19 V 12.010684"
+       style="fill:none;stroke:url(#linearGradient1649);stroke-width:1.99763703;stroke-linecap:round"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path8"
+       d="m 20.010083,14.988716 3.000017,-2.999813 3.000017,2.999813 z"
+       style="fill:url(#linearGradient1625);stroke:url(#linearGradient1617);stroke-width:1.99996603;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g14"
+       transform="matrix(0,1.0000004,-0.99999565,0,40.221067,42.021864)">
+      <path
+         id="path10-0"
+         d="m -19.031959,21.221159 v 6.978313"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:url(#linearGradient1657);stroke-width:1.99763703;stroke-linecap:round" />
+      <path
+         id="path12-8"
+         d="m -22.031977,25.221449 3.000018,2.999804 3.000018,-2.999804 z"
+         inkscape:connector-curvature="0"
+         style="fill:url(#linearGradient1633);stroke:url(#linearGradient1641);stroke-width:1.99996603;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1" />
+    </g>
+    <path
+       id="path16-6"
+       d="m 22,19 a 3,3 0 0 1 -3,3 v 2 a 5,5 0 0 0 5,-5 z"
+       style="fill:url(#linearGradient1609);fill-opacity:1"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g24"
+       style="fill:#808080">
+      <path
+         id="path18"
+         d="m 11,6 h 15 v 4 H 11 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#a2a2a7;fill-opacity:1" />
+      <path
+         id="path20-2"
+         transform="rotate(90)"
+         d="m 11,-10 h 15 v 4 H 11 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#a2a2a7;fill-opacity:1" />
+      <path
+         id="path22"
+         d="m 6,6 h 4 v 4 H 6 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#a2a2a7;fill-opacity:1" />
+    </g>
+  </g>
+</svg>
