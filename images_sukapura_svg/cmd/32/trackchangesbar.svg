@@ -11,8 +11,8 @@
    version="1.1"
    id="svg36"
    sodipodi:docname="trackchangesbar.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   inkscape:export-filename="/home/rizmut/Documents/Rizmut/Github/libreoffice-style-sukapura/images_sukapura/cmd/32/trackchangesbar.png"
+   inkscape:version="0.92.3 (unknown)"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-sukapura/images_sukapura/cmd/32/trackchangesbar.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -80,11 +80,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="685"
+     inkscape:window-height="699"
      id="namedview38"
      showgrid="true"
      inkscape:zoom="14.75"
-     inkscape:cx="23.24281"
+     inkscape:cx="10.056369"
      inkscape:cy="10.346176"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -159,7 +159,8 @@
      style="fill:#98989d;fill-opacity:1" />
   <g
      fill="#d65532"
-     id="g24">
+     id="g24"
+     style="fill:#ff9f0a;fill-opacity:1">
     <rect
        height="1"
        ry=".5"
@@ -175,7 +176,7 @@
        x="8"
        y="18"
        id="rect20"
-       style="fill:#98989d;fill-opacity:1" />
+       style="fill:#ff9f0a;fill-opacity:1" />
     <path
        style="fill:#ff9f0a;fill-opacity:1"
        d="M 8.5 26 C 8.223 26 8 26.223 8 26.5 C 8 26.777 8.223 27 8.5 27 L 14.220703 27 L 14.466797 26 L 8.5 26 z "

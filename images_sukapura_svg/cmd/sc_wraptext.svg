@@ -12,7 +12,7 @@
    version="1.1"
    id="svg14"
    sodipodi:docname="sc_wraptext.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.3 (unknown)">
   <metadata
      id="metadata20">
     <rdf:RDF>
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -82,12 +82,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="685"
+     inkscape:window-height="699"
      id="namedview16"
      showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="8.2980845"
-     inkscape:cy="9.7512531"
+     inkscape:zoom="41.7193"
+     inkscape:cx="7.6840024"
+     inkscape:cy="7.6870938"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -140,7 +140,7 @@
      style="fill:url(#linearGradient2201);fill-opacity:1;stroke:url(#linearGradient2209)" />
   <path
      style="fill:url(#linearGradient2217);fill-opacity:1;fill-rule:evenodd;stroke:none"
-     d="M 7,4.5 C 6.4451927,4.5 5.984375,4.9608177 5.984375,5.515625 5.984375,6.0704323 6.4451927,6.53125 7,6.53125 h 2.5 c 1.102048,0 1.984375,0.8823274 1.984375,1.984375 8e-5,0.025502 0.0021,0.050962 0.0059,0.076172 v 0.3476562 2.0683588 c 2.8e-5,0.284761 0.230865,0.515598 0.515625,0.515626 h 1 c 0.28476,-2.8e-5 0.515597,-0.230865 0.515625,-0.515626 v -2.0683588 -0.5 c 10e-7,-6.5e-4 10e-7,-0.0013 0,-0.00195 C 13.518125,7.2106729 12.965248,6.2109215 12.195312,5.546875 11.425377,4.8828285 10.449709,4.5288028 9.515625,4.5 9.510417,4.4999211 9.505208,4.4999211 9.5,4.5 Z"
+     d="M 7,5 C 6.4451927,5 5.984375,5.4608177 5.984375,6.015625 5.984375,6.5704323 6.4451927,7.03125 7,7.03125 h 2.5 c 1.102048,0 1.984375,0.8823274 1.984375,1.984375 8e-5,0.025502 0.0021,0.050962 0.0059,0.076172 v 0.3476562 1.5683588 c 2.8e-5,0.284761 0.230865,0.515598 0.515625,0.515626 h 1 c 0.28476,-2.8e-5 0.515597,-0.230865 0.515625,-0.515626 v -1.5683588 -0.5 -0.00195 C 13.518125,7.7106729 12.965248,6.7109215 12.195312,6.046875 11.425377,5.3828285 10.449709,5.0288028 9.515625,5 9.510417,4.9999211 9.505208,4.9999211 9.5,5 Z"
      id="path12"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ssssccccccccccsccs" />
