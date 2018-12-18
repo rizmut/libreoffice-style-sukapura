@@ -251,13 +251,11 @@ cmd/sc_alignhorizontalceter.png cmd/sc_alignhorizontalcenter.png
 
 # Graphic
 cmd/lc_grafgamma.png cmd/lc_graphicfilterinvert.png
-cmd/lc_colorsettings.png cmd/lc_graphicfiltersmooth.png
 cmd/lc_graphicfilterposter.png cmd/lc_graphicdialog.png
 cmd/lc_grafmode.png cmd/lc_graphicdialog.png
 cmd/lc_grafinvert.png cmd/lc_graphicfilterinvert.png
 cmd/lc_colorview.png cmd/lc_graphicfilterinvert.png
 cmd/sc_grafgamma.png cmd/sc_graphicfilterinvert.png
-cmd/sc_colorsettings.png cmd/sc_graphicfiltersmooth.png
 cmd/sc_graphicfilterposter.png cmd/sc_graphicdialog.png
 cmd/sc_grafmode.png cmd/sc_graphicdialog.png
 cmd/sc_grafinvert.png cmd/sc_graphicfilterinvert.png
@@ -1503,7 +1501,7 @@ svx/res/cd025.png cmd/sc_autopilotmenu.png
 svx/res/cd026.png cmd/sc_bmpmask.png
 
 svx/res/color.png cmd/sc_bmpmask.png
-svx/res/colordlg.png cmd/sc_graphicfiltersmooth.png
+svx/res/colordlg.png cmd/sc_colorsettings.png
 svx/res/convrt3d.png cmd/sc_convertinto3d.png
 svx/res/filter3d.png cmd/sc_datafilterstandardfilter.png
 svx/res/fontworkaligncentered_16.png cmd/sc_alignhorizontalcenter.png
