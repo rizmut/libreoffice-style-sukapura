@@ -661,10 +661,8 @@ cmd/sc_insertsignatureline.png cmd/sc_signaturelinedialog.png
 # Ok
 cmd/lc_yes.png cmd/lc_ok.png
 cmd/lc_apply.png cmd/lc_ok.png
-cmd/lc_accepttrackedchange.png cmd/lc_ok.png
 cmd/sc_yes.png cmd/sc_ok.png
 cmd/sc_apply.png cmd/sc_ok.png
-cmd/sc_accepttrackedchange.png cmd/sc_ok.png
 
 # up and down
 cmd/lc_movepageup.png cmd/lc_upsearch.png
