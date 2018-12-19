@@ -114,8 +114,6 @@ cmd/sc_insertpushbutton.png cmd/sc_pushbutton.png
 cmd/sc_insertrowbreak.png cmd/sc_insertpagebreak.png
 cmd/sc_insertspreadsheet.png cmd/sc_togglesheetgrid.png
 cmd/sc_inserttimefield.png cmd/sc_timefield.png
-cmd/sc_showtrackedchanges.png cmd/sc_addwatch.png
-cmd/lc_showtrackedchanges.png cmd/lc_addwatch.png
 cmd/sc_tracechangemode.png cmd/sc_trackchanges.png
 cmd/lc_tracechangemode.png cmd/lc_trackchanges.png
 cmd/sc_shapesmenu.png cmd/sc_basicshapes.round-quadrat.png
