@@ -513,22 +513,18 @@ cmd/sc_mailmergepreventry.png cmd/sc_prevrecord.png
 cmd/lc_arrowstoolbox.png cmd/lc_linearrowend.png
 cmd/sc_arrowstoolbox.png cmd/sc_linearrowend.png
 # <
-cmd/lc_previoustrackedchange.png cmd/lc_prevrecord.png
 cmd/lc_pageup.png cmd/lc_prevrecord.png
 cmd/lc_previouspage.png cmd/lc_prevrecord.png
 cmd/lc_navigateback.png cmd/lc_prevrecord.png
 cmd/lc_browsebackward.png cmd/lc_prevrecord.png
-cmd/sc_previoustrackedchange.png cmd/sc_prevrecord.png
 cmd/sc_pageup.png cmd/sc_prevrecord.png
 cmd/sc_previouspage.png cmd/sc_prevrecord.png
 cmd/sc_navigateback.png cmd/sc_prevrecord.png
 cmd/sc_browsebackward.png cmd/sc_prevrecord.png
 # >
-cmd/lc_nexttrackedchange.png cmd/lc_nextrecord.png
 cmd/lc_nextpage.png cmd/lc_nextrecord.png
 cmd/lc_navigateforward.png cmd/lc_nextrecord.png
 cmd/lc_pagedown.png cmd/lc_nextrecord.png
-cmd/sc_nexttrackedchange.png cmd/sc_nextrecord.png
 cmd/sc_nextpage.png cmd/sc_nextrecord.png
 cmd/sc_navigateforward.png cmd/sc_nextrecord.png
 cmd/sc_pagedown.png cmd/sc_nextrecord.png
@@ -657,10 +653,8 @@ cmd/sc_insertsignatureline.png cmd/sc_signaturelinedialog.png
 # Ok
 cmd/lc_yes.png cmd/lc_ok.png
 cmd/lc_apply.png cmd/lc_ok.png
-cmd/lc_accepttrackedchange.png cmd/lc_ok.png
 cmd/sc_yes.png cmd/sc_ok.png
 cmd/sc_apply.png cmd/sc_ok.png
-cmd/sc_accepttrackedchange.png cmd/sc_ok.png
 
 # up and down
 cmd/lc_movepageup.png cmd/lc_upsearch.png
