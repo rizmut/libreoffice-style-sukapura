@@ -10,8 +10,11 @@
    viewBox="0 0 24 24"
    version="1.1"
    id="svg6"
-   sodipodi:docname="lc_protect.svg"
-   inkscape:version="0.92.3 (unknown)">
+   sodipodi:docname="lc_unsetcellsreadonly.svg"
+   inkscape:version="0.92.3 (unknown)"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-sukapura/images_sukapura/cmd/lc_unsetcellsreadonly.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -20,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,13 +57,13 @@
      id="namedview8"
      showgrid="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="-6.4454859"
-     inkscape:cy="-5.7821119"
+     inkscape:zoom="19.666667"
+     inkscape:cx="17.470535"
+     inkscape:cy="7.3913015"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6">
+     inkscape:current-layer="g830">
     <inkscape:grid
        type="xygrid"
        id="grid822" />
@@ -68,16 +71,18 @@
   <g
      id="g841">
     <g
-       id="g825">
+       id="g825"
+       transform="translate(-2)">
       <path
          style="fill:#a48200;fill-opacity:1"
-         d="M 5 12 C 4.446 12 4 12.446 4 13 L 4 21 C 4 21.554 4.446 22 5 22 L 19 22 C 19.554 22 20 21.554 20 21 L 20 13 C 20 12.446 19.554 12 19 12 L 17 12 L 16 12 L 8 12 L 7 12 L 5 12 z M 5 13 L 6 13 L 18 13 L 19 13 L 19 14 L 19 20 L 19 21 L 18 21 L 6 21 L 5 21 L 5 20 L 5 14 L 5 13 z "
-         id="path2" />
+         d="m 5,12 c -0.554,0 -1,0.446 -1,1 v 8 c 0,0.554 0.446,1 1,1 h 14 c 0.554,0 1,-0.446 1,-1 v -8 c 0,-0.554 -0.446,-1 -1,-1 H 17 16 8 7 Z m 0,1 h 1 12 1 v 1 6 1 H 18 6 5 v -1 -6 z"
+         id="path2"
+         inkscape:connector-curvature="0" />
       <path
-         d="m5 13h14v8h-14z"
-         fill="#fff"
+         d="m 5,13 h 14 v 8 H 5 Z"
          id="path4"
-         style="fill:#ffcc00;fill-opacity:1;stroke:none" />
+         style="fill:#ffcc00;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
       <rect
          style="opacity:1;fill:#a05a00;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect841"
@@ -98,19 +103,27 @@
          style="opacity:1;fill:#a05a00;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
-       id="g830">
+       id="g830"
+       transform="translate(5)">
       <path
          style="fill:#69696e;fill-opacity:1"
-         d="M 12 2 A 5 5 0 0 0 7 7 L 7 12 L 8 12 L 8 7 A 4 4 0 0 1 12 3 A 4 4 0 0 1 16 7 L 16 12 L 17 12 L 17 7 A 5 5 0 0 0 12 2 z "
-         id="path845" />
+         d="M 12,2 A 5,5 0 0 0 7,7 v 5 H 8 V 7 a 4,4 0 0 1 4,-4 4,4 0 0 1 4,4 v 5 h 1 V 7 A 5,5 0 0 0 12,2 Z"
+         id="path845"
+         inkscape:connector-curvature="0" />
       <path
          style="fill:#ebebeb;fill-opacity:1"
-         d="M 12 3 C 9.790861 3 8 4.790861 8 7 L 8 12 L 9 12 L 9 7 C 9 5.3431458 10.343146 4 12 4 C 13.656854 4 15 5.3431458 15 7 L 15 12 L 16 12 L 16 7 C 16 4.790861 14.209139 3 12 3 z "
-         id="path860" />
+         d="M 12,3 C 9.790861,3 8,4.790861 8,7 v 5 H 9 V 7 c 0,-1.6568542 1.343146,-3 3,-3 1.656854,0 3,1.3431458 3,3 v 5 h 1 V 7 C 16,4.790861 14.209139,3 12,3 Z"
+         id="path860"
+         inkscape:connector-curvature="0" />
       <path
          style="fill:#69696e;fill-opacity:1;stroke-width:0.60000002"
-         d="M 12 4 C 10.343146 4 9 5.3431458 9 7 L 9 12 L 10 12 L 10 7.3339844 C 10 6.2294149 10.895431 5.3339844 12 5.3339844 C 13.10457 5.3339844 14 6.2294149 14 7.3339844 L 14 12 L 15 12 L 15 7 C 15 5.3431458 13.656854 4 12 4 z "
-         id="path853" />
+         d="M 12,4 C 10.343146,4 9,5.3431458 9,7 v 5 h 1 V 7.3339844 c 0,-1.1045695 0.895431,-2 2,-2 1.10457,0 2,0.8954305 2,2 V 12 h 1 V 7 C 15,5.3431458 13.656854,4 12,4 Z"
+         id="path853"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:1;fill:#69696e;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+         d="m 14,12 h 3 v 1 h -3 z"
+         id="rect844" />
     </g>
   </g>
 </svg>
