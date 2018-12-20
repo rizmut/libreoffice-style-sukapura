@@ -11,10 +11,10 @@
    version="1.1"
    id="svg18"
    sodipodi:docname="lc_insertreferencefield.svg"
-   inkscape:export-filename="/home/rizmut/Documents/Rizmut/Github/libreoffice-style-sukapura/images_sukapura/cmd/lc_insertreferencefield.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-sukapura/images_sukapura/cmd/lc_insertreferencefield.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.3 (unknown)">
   <metadata
      id="metadata24">
     <rdf:RDF>
@@ -38,20 +38,25 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="685"
+     inkscape:window-height="697"
      id="namedview20"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="19.666667"
-     inkscape:cx="2.8466872"
-     inkscape:cy="17.640516"
+     inkscape:cx="25.122529"
+     inkscape:cy="11.850387"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g16" />
+     inkscape:current-layer="svg18"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid833" />
+  </sodipodi:namedview>
   <path
-     d="m11 8v2.5c0-.8137028.686297-1.5 1.5-1.5h3.5c1.64501 0 3 1.35499 3 3v1.220703c.202228-.08367.376343-.246815.582031-.236328.406749.020739.744413.199491.992188.447266.216599.216598.374123.505617.425781.845703v-6.277344zm0 2.5v10.5h10v-6.265625c-.057618.312286-.219102.620769-.447266.839844l-1.986328 1.986328c-.577389.57715-1.543703.57715-2.121094 0l-1.988281-1.988281c-.452851-.438274-.556084-1.125409-.347656-1.640625.208428-.515217.76042-.937372 1.390625-.9375.188414-.000001.327698.14559.5.21289v-1.207031h-3.5c-.813703 0-1.5-.686297-1.5-1.5z"
-     fill="#fff"
-     id="path2" />
+     d="M 11 8 L 11 9.4648438 L 11 10.5 L 11 18.535156 L 11 21 L 21 21 L 21 18.535156 L 21 14.734375 L 21 14.277344 L 21 9.4648438 L 21 8 L 11 8 z "
+     id="path2"
+     style="fill:#ffffff" />
   <rect
      fill="#bf5af2"
      height="1"
@@ -67,9 +72,15 @@
      id="path6"
      style="fill:#98989d;fill-opacity:1" />
   <path
-     d="m3 3v13h10v-4h-.5c-.813703 0-1.5-.686297-1.5-1.5 0-.8137028.686297-1.5 1.5-1.5h.5v-6z"
-     fill="#fff"
-     id="path8" />
+     d="M 3,3 V 16 H 13 V 12.535156 12 3 Z"
+     id="path8"
+     style="fill:#ffffff"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccc" />
+  <path
+     style="fill:#98989d;fill-opacity:1"
+     d="M 3 2 C 2.446 2 2 2.446 2 3 L 2 16 C 2 16.554 2.446 17 3 17 L 13 17 C 13.554 17 14 16.554 14 16 L 14 12.535156 L 14 12 L 14 11.535156 L 14 11.464844 L 14 9 L 14 8.4648438 L 14 3 C 14 2.446 13.554 2 13 2 L 3 2 z M 3 3 L 13 3 L 13 8.4648438 L 13 9 L 13 11.464844 L 13 11.535156 L 13 12 L 13 12.535156 L 13 16 L 3 16 L 3 3 z "
+     id="path12" />
   <rect
      fill="#bf5af2"
      height="1"
@@ -79,16 +90,13 @@
      y="10"
      id="rect10"
      style="fill:#d70015;fill-opacity:1" />
-  <g
-     fill="#98989d"
-     id="g16">
-    <path
-       d="m3 2c-.554 0-1 .446-1 1v13c0 .554.446 1 1 1h10c.554 0 1-.446 1-1v-4h-1v4h-10v-13h10v6h1v-6c0-.554-.446-1-1-1z"
-       id="path12"
-       style="fill:#98989d;fill-opacity:1" />
-    <path
-       d="m12.5 10c-.277 0-.5.223-.5.5s.223.5.5.5h3.5a1 1 0 0 1 1 1v3.287109l-1.140625-1.140625a.50005.50005 0 0 0 -.359375-.152343.50005.50005 0 0 0 -.347656.859375l2 2a.50005.50005 0 0 0 .707031 0l2-2a.50005.50005 0 1 0 -.707031-.707032l-1.152344 1.152344v-3.298828a2 2 0 0 0 -2-2z"
-       fill-rule="evenodd"
-       id="path14" />
-  </g>
+  <path
+     style="fill:#ffffff;fill-opacity:0.78431374"
+     d="M 12.5 9 C 11.686297 9 11 9.6862972 11 10.5 C 11 11.313703 11.686297 12 12.5 12 L 14 12 L 16 12 L 16 13.207031 C 15.827698 13.139731 15.688414 12.99414 15.5 12.994141 C 14.869795 12.994269 14.317803 13.416424 14.109375 13.931641 C 13.900947 14.446857 14.00418 15.133992 14.457031 15.572266 L 16.445312 17.560547 C 17.022703 18.137697 17.989017 18.137697 18.566406 17.560547 L 20.552734 15.574219 C 20.780898 15.355144 20.94238 15.046661 21 14.734375 C 21.01918 14.63028 21.026684 14.525515 21.021484 14.423828 C 21.018884 14.372654 21.0074 14.326294 21 14.277344 C 20.948342 13.937258 20.790818 13.648239 20.574219 13.431641 C 20.326444 13.183866 19.98878 13.005115 19.582031 12.984375 C 19.376343 12.973888 19.202228 13.137033 19 13.220703 L 19 12 C 19 10.35499 17.64501 9 16 9 L 14 9 L 12.5 9 z "
+     id="path844" />
+  <path
+     style="fill:#98989d;fill-rule:evenodd"
+     inkscape:connector-curvature="0"
+     id="path14"
+     d="m 12.5,10 c -0.277,0 -0.5,0.223 -0.5,0.5 0,0.277 0.223,0.5 0.5,0.5 H 16 a 1,1 0 0 1 1,1 v 3.287109 L 15.859375,14.146484 A 0.50005,0.50005 0 0 0 15.5,13.994141 0.50005,0.50005 0 0 0 15.152344,14.853516 l 2,2 a 0.50005,0.50005 0 0 0 0.707031,0 l 2,-2 A 0.50005,0.50005 0 1 0 19.152344,14.146484 L 18,15.298828 V 12 a 2,2 0 0 0 -2,-2 z" />
 </svg>
