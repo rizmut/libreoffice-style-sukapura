@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="lc_graphic.svg"
+   inkscape:version="0.92.3 (unknown)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="-2.2372881"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <rect
+     fill="#fff"
+     height="21"
+     rx=".997793"
+     stroke="#929292"
+     stroke-linecap="square"
+     stroke-linejoin="round"
+     width="21"
+     x="1.5"
+     y="1.5"
+     id="rect2" />
+  <path
+     d="m3 3h18v18h-18z"
+     fill="#fcfafd"
+     id="path4" />
+  <circle
+     cx="7.5"
+     cy="7.5"
+     fill="#ffd60a"
+     r="2.5"
+     stroke="#fc0"
+     id="circle6" />
+  <path
+     d="m3 20.5c.4875945 0 6-5.5 6-5.5l2 1.593356 5-4.593356 4.5 5v3.5z"
+     fill="#32d74b"
+     fill-rule="evenodd"
+     stroke="#28cd41"
+     id="path8" />
+</svg>

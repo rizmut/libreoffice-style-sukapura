@@ -903,7 +903,9 @@ cmd/sc_browsebackward cmd/lc_prevrecord.png
 cmd/sc_browseforward.png cmd/sc_nextrecord.png
 
 # Macro
-cmd/sc_macrosmenu.png res/im30821.png
+cmd/lc_basicideappear.png cmd/lc_toolsmacroedit.png
+cmd/sc_basicideappear.png cmd/sc_toolsmacroedit.png
+cmd/sc_macrosmenu.png cmd/sc_choosemacro.png
 
 # Help
 cmd/sc_about.png res/mainapp_16.png
