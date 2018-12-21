@@ -421,10 +421,6 @@ cmd/sc_recundo.png cmd/sc_undo.png
 cmd/lc_bezieredge.png cmd/lc_bezierappend.png
 cmd/sc_bezieredge.png cmd/sc_bezierappend.png
 
-# Frame
-cmd/lc_setborderstyle.png cmd/lc_diagramarea.png
-cmd/sc_setborderstyle.png cmd/sc_diagramarea.png
-
 # Label
 cmd/32/addname.png cmd/32/label.png
 cmd/lc_addname.png cmd/lc_label.png
@@ -517,22 +513,18 @@ cmd/sc_mailmergepreventry.png cmd/sc_prevrecord.png
 cmd/lc_arrowstoolbox.png cmd/lc_linearrowend.png
 cmd/sc_arrowstoolbox.png cmd/sc_linearrowend.png
 # <
-cmd/lc_previoustrackedchange.png cmd/lc_prevrecord.png
 cmd/lc_pageup.png cmd/lc_prevrecord.png
 cmd/lc_previouspage.png cmd/lc_prevrecord.png
 cmd/lc_navigateback.png cmd/lc_prevrecord.png
 cmd/lc_browsebackward.png cmd/lc_prevrecord.png
-cmd/sc_previoustrackedchange.png cmd/sc_prevrecord.png
 cmd/sc_pageup.png cmd/sc_prevrecord.png
 cmd/sc_previouspage.png cmd/sc_prevrecord.png
 cmd/sc_navigateback.png cmd/sc_prevrecord.png
 cmd/sc_browsebackward.png cmd/sc_prevrecord.png
 # >
-cmd/lc_nexttrackedchange.png cmd/lc_nextrecord.png
 cmd/lc_nextpage.png cmd/lc_nextrecord.png
 cmd/lc_navigateforward.png cmd/lc_nextrecord.png
 cmd/lc_pagedown.png cmd/lc_nextrecord.png
-cmd/sc_nexttrackedchange.png cmd/sc_nextrecord.png
 cmd/sc_nextpage.png cmd/sc_nextrecord.png
 cmd/sc_navigateforward.png cmd/sc_nextrecord.png
 cmd/sc_pagedown.png cmd/sc_nextrecord.png
@@ -712,6 +704,11 @@ cmd/lc_contourdialog.png cmd/lc_imagemapdialog.png
 cmd/sc_contourdialog.png cmd/sc_imagemapdialog.png
 
 # Config
+cmd/32/configuredialog.png cmd/32/formproperties.png
+cmd/lc_configuredialog.png cmd/lc_formproperties.png
+cmd/sc_configuredialog.png cmd/sc_formproperties.png
+
+cmd/32/formatselection.png cmd/32/formproperties.png
 cmd/lc_formatselection.png cmd/lc_formproperties.png
 cmd/sc_formatselection.png cmd/sc_formproperties.png
 

@@ -1,1 +1,194 @@
-<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><g transform="matrix(0 1 -1 0 32 0)"><path d="m4.5 28.5v-25h23v25z" fill="#fff" fill-rule="evenodd" stroke="#69696e" stroke-linecap="round" stroke-linejoin="round"/><path d="m21.000001 11.999998v1.272728c0 .264294-.05623.504123-.168675.662698-.119483.158577-.267067.275622-.442771.351133l-3.388555 1.531624v6.363637l3.378013 1.58988c.15462.06042.298696.177456.432229.351132.126506.166128.189759.373786.189759.622978v1.254191l-14-5.499999v-3zm-6.000001 9.500002v-5l-6 2.5z" fill="#828282"/><g fill="#98989d"><g><rect height="8" opacity=".99" ry=".5" width="1" x="8" y="6"/><rect height="6" opacity=".99" ry=".5" width="1" x="12" y="6"/><rect height="4" opacity=".99" ry=".5" width="1" x="16" y="6"/></g><rect height="20" opacity=".99" ry=".472666" width="1" x="23" y="6"/><rect height="2" opacity=".99" ry=".472666" width="1" x="19" y="6"/></g></g><g fill="#0a84ff"><circle cx="3.5" cy="4.5" r="1.5"/><circle cx="28.5" cy="4.5" r="1.5"/><circle cx="28.5" cy="27.5" r="1.5"/><circle cx="3.5" cy="27.5" r="1.5"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg32"
+   sodipodi:docname="text.svg"
+   inkscape:version="0.92.3 (unknown)">
+  <metadata
+     id="metadata38">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs36">
+    <linearGradient
+       gradientTransform="translate(-11,-1)"
+       id="a"
+       gradientUnits="userSpaceOnUse"
+       x1="14"
+       x2="13.79661"
+       y1="22"
+       y2="2.1355929">
+      <stop
+         offset="0"
+         stop-color="#0040dd"
+         id="stop1492" />
+      <stop
+         offset="1"
+         stop-color="#0a84ff"
+         id="stop1494" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#a"
+       id="linearGradient865"
+       x1="3.4576271"
+       y1="28.88983"
+       x2="3.5084746"
+       y2="26.144068"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#a"
+       id="linearGradient867"
+       x1="28.60597"
+       y1="29.010092"
+       x2="28.537848"
+       y2="26.133726"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#a"
+       id="linearGradient869"
+       x1="28.864407"
+       y1="5.7542372"
+       x2="28.576271"
+       y2="3.0084746"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#a"
+       id="linearGradient871"
+       x1="3.4381833"
+       y1="5.890244"
+       x2="3.370059"
+       y2="3.1576955"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="699"
+     id="namedview34"
+     showgrid="false"
+     inkscape:zoom="10.429825"
+     inkscape:cx="-3.8665456"
+     inkscape:cy="11.537394"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg32" />
+  <g
+     transform="matrix(0 1 -1 0 32 0)"
+     id="g20">
+    <path
+       d="m4.5 28.5v-25h23v25z"
+       fill="#fff"
+       fill-rule="evenodd"
+       stroke="#69696e"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path2" />
+    <path
+       d="m21.000001 11.999998v1.272728c0 .264294-.05623.504123-.168675.662698-.119483.158577-.267067.275622-.442771.351133l-3.388555 1.531624v6.363637l3.378013 1.58988c.15462.06042.298696.177456.432229.351132.126506.166128.189759.373786.189759.622978v1.254191l-14-5.499999v-3zm-6.000001 9.500002v-5l-6 2.5z"
+       fill="#828282"
+       id="path4" />
+    <g
+       fill="#98989d"
+       id="g18">
+      <g
+         id="g12">
+        <rect
+           height="8"
+           opacity=".99"
+           ry=".5"
+           width="1"
+           x="8"
+           y="6"
+           id="rect6" />
+        <rect
+           height="6"
+           opacity=".99"
+           ry=".5"
+           width="1"
+           x="12"
+           y="6"
+           id="rect8" />
+        <rect
+           height="4"
+           opacity=".99"
+           ry=".5"
+           width="1"
+           x="16"
+           y="6"
+           id="rect10" />
+      </g>
+      <rect
+         height="20"
+         opacity=".99"
+         ry=".472666"
+         width="1"
+         x="23"
+         y="6"
+         id="rect14" />
+      <rect
+         height="2"
+         opacity=".99"
+         ry=".472666"
+         width="1"
+         x="19"
+         y="6"
+         id="rect16" />
+    </g>
+  </g>
+  <g
+     fill="#0a84ff"
+     id="g30">
+    <path
+       id="circle22"
+       style="fill-opacity:1;fill:url(#linearGradient871)"
+       r="1.5"
+       cy="4.5"
+       cx="3.5" />
+    <circle
+       cx="28.5"
+       cy="4.5"
+       r="1.5"
+       id="circle24"
+       style="fill-opacity:1;fill:url(#linearGradient869)" />
+    <path
+       id="circle26"
+       style="fill-opacity:1;fill:url(#linearGradient867)"
+       r="1.5"
+       cy="27.5"
+       cx="28.5" />
+    <path
+       id="circle28"
+       style="fill-opacity:1;fill:url(#linearGradient865)"
+       r="1.5"
+       cy="27.5"
+       cx="3.5" />
+  </g>
+</svg>
