@@ -7,10 +7,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 24 24"
+   viewBox="0 0 16 16"
    version="1.1"
    id="svg43"
-   sodipodi:docname="lc_gallery.svg"
+   sodipodi:docname="sc_gallery.svg"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-sukapura/images_sukapura/cmd/sc_gallery.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   width="16"
+   height="16"
    inkscape:version="0.92.3 (unknown)">
   <metadata
      id="metadata49">
@@ -20,6 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38,22 +44,25 @@
      inkscape:window-height="706"
      id="namedview45"
      showgrid="true"
-     inkscape:zoom="13.906433"
-     inkscape:cx="5.8223256"
-     inkscape:cy="5.7738465"
+     inkscape:zoom="11.313709"
+     inkscape:cx="-11.575513"
+     inkscape:cy="-0.5492889"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg43">
     <inkscape:grid
        type="xygrid"
-       id="grid1541" />
+       id="grid1541"
+       spacingx="0.5"
+       spacingy="0.5"
+       empspacing="2" />
   </sodipodi:namedview>
   <radialGradient
      id="a"
      cx="12"
      cy="17.5"
-     gradientTransform="matrix(1.7777778 -.00000002 .00000003 1.3333333 -9.333334 -6.333333)"
+     gradientTransform="matrix(1.2929293,-1.4545455e-8,2.1818182e-8,0.96969695,-7.515152,-5.3333331)"
      gradientUnits="userSpaceOnUse"
      r="9">
     <stop
@@ -75,11 +84,11 @@
   </radialGradient>
   <filter
      id="b"
-     color-interpolation-filters="sRGB"
-     height="1.264"
-     width="1.058667"
-     x="-.029333"
-     y="-.132">
+     height="1.2640001"
+     width="1.0586669"
+     x="-0.029332999"
+     y="-0.132"
+     style="color-interpolation-filters:sRGB">
     <feGaussianBlur
        stdDeviation=".22"
        id="feGaussianBlur11" />
@@ -87,14 +96,15 @@
   <clipPath
      id="c">
     <path
-       d="m3 14c.4875945 0 6-4 6-4l2 1.593356 4-1.593356h2l4 2v2z"
-       id="path14" />
+       d="m 3,14 c 0.4875945,0 6,-4 6,-4 L 11,11.593356 15,10 h 2 l 4,2 v 2 z"
+       id="path14"
+       inkscape:connector-curvature="0" />
   </clipPath>
   <radialGradient
      id="d"
      cx="15.000001"
      cy="13.642857"
-     gradientTransform="matrix(1.6666667 .00000041 -.00000016 .77777777 -10 6.388883)"
+     gradientTransform="matrix(1.2121212,2.9818182e-7,-1.1636364e-7,0.56565656,-8,3.9191877)"
      gradientUnits="userSpaceOnUse"
      r="9">
     <stop
@@ -116,49 +126,57 @@
   </radialGradient>
   <filter
      id="e"
-     color-interpolation-filters="sRGB"
      height="1.0024608"
      width="1.0023419"
      x="-0.0011709495"
-     y="-0.0012304238">
+     y="-0.0012304238"
+     style="color-interpolation-filters:sRGB">
     <feGaussianBlur
        stdDeviation="0.010354344"
        id="feGaussianBlur26" />
   </filter>
   <path
-     d="M 0.78775148,1.4467636 V 22.988928 H 23.434316 V 1.4467636 Z"
-     transform="matrix(0.97144978,0,0,0.97483239,0.234739,0.589648)"
+     d="M 0,0 V 16 H 16 V 0 Z"
      id="path29"
-     style="opacity:1;stroke-width:1.06112301;fill:#98989d;fill-opacity:1;"
+     style="opacity:1;fill:#98989d;fill-opacity:1;stroke-width:0.75099695"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccc" />
   <path
-     d="m3 3h18v18h-18z"
-     fill="#fff"
-     id="path31" />
+     d="M 2,2 14,2.0454542 14.545455,14.545455 2,14 Z"
+     id="path31"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;stroke-width:0.72727275"
+     sodipodi:nodetypes="ccccc" />
   <path
-     d="m2 3v19h20v-19zm1 1h18v17h-18z"
-     fill="#fff"
-     id="path33" />
+     d="M 1,1 V 15 H 15 V 1 Z M 2,2 H 14 V 14 H 2 Z"
+     id="path33"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;stroke-width:0.72727275"
+     sodipodi:nodetypes="cccccccccc" />
   <path
-     d="m3 4h18v13h-18z"
-     fill="url(#a)"
-     id="path35" />
+     d="m 2,2 12,0.045454 V 11.5 H 2 Z"
+     id="path35"
+     inkscape:connector-curvature="0"
+     style="fill:url(#a);stroke-width:0.72727275"
+     sodipodi:nodetypes="ccccc" />
   <path
-     d="m3 17c.4875945 0 6-4 6-4l2 1.593356 4-1.593356h2l4 2v2z"
-     fill="#1f1c1f"
-     fill-rule="evenodd"
-     id="path37" />
+     d="m 2,11.5 c 0.3546141,0 3.8181818,-2.7727273 3.8181818,-2.7727273 L 7.2727273,9.8860771 10.181818,8.7272727 h 1.454546 L 14,10.045454 V 11.5 Z"
+     id="path37"
+     inkscape:connector-curvature="0"
+     style="fill:#1f1c1f;fill-rule:evenodd;stroke-width:0.72727275"
+     sodipodi:nodetypes="cccccccc" />
   <path
      clip-path="url(#c)"
-     d="m9 10s-5.5124055 4-6 4h1.6992188c1.7852844-1.183321 4.3007812-3 4.3007812-3l2 1.59375 4-1.59375h2l4 2v-1l-4-2h-2l-4 1.59375z"
-     fill="#808080"
-     fill-rule="evenodd"
-     filter="url(#b)"
-     transform="translate(0 3)"
-     id="path39" />
+     d="m 9,10 c 0,0 -4.7624056,3.8125 -5.2500001,3.8125 H 4.6992188 C 6.4845032,12.629179 9,11 9,11 L 11,12.59375 15,11 h 2 l 3.249999,1.8125 v -1 L 17,10 h -2 l -4,1.59375 z"
+     transform="matrix(0.72727273,0,0,0.72727273,-0.72727273,1.4545455)"
+     id="path39"
+     inkscape:connector-curvature="0"
+     style="fill:#808080;fill-rule:evenodd;filter:url(#b)"
+     sodipodi:nodetypes="ccccccccccccc" />
   <path
-     d="m3 17h18v4h-18z"
-     fill="url(#d)"
-     id="path41" />
+     d="M 2,11.5 H 14 V 14 H 2 Z"
+     id="path41"
+     inkscape:connector-curvature="0"
+     style="fill:url(#d);stroke-width:0.72727275"
+     sodipodi:nodetypes="ccccc" />
 </svg>
