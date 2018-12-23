@@ -23,7 +23,7 @@
       <dc:format>image/svg+xml</dc:format>
       <dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      <dc:title></dc:title>
+      <dc:title />
     </cc:Work>
   </rdf:RDF>
 </metadata>
@@ -97,9 +97,9 @@
    id="namedview10"
    showgrid="true"
    inkscape:snap-smooth-nodes="true"
-   inkscape:zoom="5.5242717"
-   inkscape:cx="27.24734"
-   inkscape:cy="10.454101"
+   inkscape:zoom="11.048543"
+   inkscape:cx="5.4311736"
+   inkscape:cy="4.3272825"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="1"
@@ -115,30 +115,37 @@
 
 
 
+
      /&gt;
- <rect
-   style="opacity:1;fill:#bababa;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   id="rect1732"
-   width="10"
-   height="16"
-   x="3"
-   y="0"
-   ry="0"
-   rx="0" />
-<path
-   inkscape:connector-curvature="0"
-   style="fill:url(#linearGradient2581);fill-opacity:1;stroke-width:1.13389337"
-   d="m 4,1 v 14 h 8 V 1 Z"
-   id="path2"
-   sodipodi:nodetypes="ccccc" />
-<rect
-   style="fill:#69696e;fill-opacity:1;stroke:none"
-   id="rect8"
-   y="-10"
-   x="3"
-   width="10"
-   ry="2"
-   height="4"
-   transform="rotate(90)"
-   rx="2" />
+ <g
+   id="g837">
+  <g
+     id="g831">
+    <rect
+       style="opacity:1;fill:#bababa;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1732"
+       width="10"
+       height="16"
+       x="3"
+       y="0"
+       ry="0"
+       rx="0" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:url(#linearGradient2581);fill-opacity:1;stroke-width:1.13389337"
+       d="m 4,1 v 14 h 8 V 1 Z"
+       id="path2"
+       sodipodi:nodetypes="ccccc" />
+    <rect
+       style="fill:#69696e;fill-opacity:1;stroke:none"
+       id="rect8"
+       y="-10"
+       x="3"
+       width="10"
+       ry="2"
+       height="4"
+       transform="rotate(90)"
+       rx="2" />
+  </g>
+</g>
 </svg>

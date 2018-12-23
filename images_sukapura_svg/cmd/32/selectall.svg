@@ -11,8 +11,8 @@
    version="1.1"
    id="svg22"
    sodipodi:docname="selectall.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   inkscape:export-filename="/home/rizmut/Documents/Rizmut/Github/libreoffice-style-sukapura/images_sukapura/cmd/32/selectall.png"
+   inkscape:version="0.92.3 (unknown)"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-sukapura/images_sukapura/cmd/32/selectall.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,12 +39,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="685"
+     inkscape:window-height="706"
      id="namedview24"
      showgrid="true"
      inkscape:zoom="10.429825"
-     inkscape:cx="19.799152"
-     inkscape:cy="16.462089"
+     inkscape:cx="10.193035"
+     inkscape:cy="18.230964"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -113,7 +113,7 @@
        d="m20 9h6l-6-6z" />
   </g>
   <rect
-     style="opacity:1;fill:#da8fff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#ff9f0a;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect1631"
      width="17"
      height="14"
@@ -165,7 +165,7 @@
      height="6"
      width="10"
      id="rect3843"
-     style="opacity:1;fill:#da8fff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     style="opacity:1;fill:#ff9f0a;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <rect
      rx="0.45762712"
      ry="0.23633306"

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="lc_setminimalcolumnwidth.svg"
+   inkscape:version="0.92.3 (unknown)">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16">
+    <linearGradient
+       gradientTransform="translate(75,-7)"
+       id="a-367"
+       gradientUnits="userSpaceOnUse"
+       x1="14"
+       x2="13.79661"
+       y1="22"
+       y2="2.1355929">
+      <stop
+         offset="0"
+         stop-color="#0040dd"
+         id="stop2206" />
+      <stop
+         offset="1"
+         stop-color="#0a84ff"
+         id="stop2208" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     id="namedview14"
+     showgrid="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:zoom="13.906433"
+     inkscape:cx="3.97904"
+     inkscape:cy="5.8446554"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12">
+    <inkscape:grid
+       type="xygrid"
+       id="grid828"
+       spacingx="0.5"
+       spacingy="0.5"
+       empspacing="2" />
+  </sodipodi:namedview>
+  <path
+     d="m9 6v15h6v-15z"
+     fill="#fff"
+     id="path2" />
+  <path
+     d="M 8 2 L 8 3 L 8 6 L 8 21 L 8 22 L 9 22 L 15 22 L 15 21 L 15 18 L 15 17 L 15 14 L 15 13 L 15 10 L 15 9 L 15 6 L 15 2 L 9 2 L 8 2 z M 9 3 L 14 3 L 14 5 L 9 5 L 9 3 z M 9 6 L 14 6 L 14 9 L 9 9 L 9 6 z M 9 10 L 14 10 L 14 13 L 9 13 L 9 10 z M 9 14 L 14 14 L 14 17 L 9 17 L 9 14 z M 9 18 L 14 18 L 14 21 L 9 21 L 9 18 z "
+     id="path4"
+     style="fill:#69696e;fill-opacity:1" />
+  <path
+     style="fill:#bababa;fill-opacity:1"
+     d="M 9 5 L 9 6 L 14 6 L 14 5 L 9 5 z M 9 9 L 9 10 L 14 10 L 14 9 L 9 9 z M 9 13 L 9 14 L 14 14 L 14 13 L 9 13 z M 9 17 L 9 18 L 14 18 L 14 17 L 9 17 z "
+     id="rect833" />
+</svg>

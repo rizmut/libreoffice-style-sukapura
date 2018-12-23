@@ -11,7 +11,7 @@
    version="1.1"
    id="svg24"
    sodipodi:docname="lc_selectall.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.3 (unknown)">
   <metadata
      id="metadata30">
     <rdf:RDF>
@@ -20,7 +20,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,12 +36,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="685"
+     inkscape:window-height="706"
      id="namedview26"
      showgrid="true"
-     inkscape:zoom="13.906433"
-     inkscape:cx="16.888123"
-     inkscape:cy="7.2380667"
+     inkscape:zoom="19.666666"
+     inkscape:cx="6.1647672"
+     inkscape:cy="15.462271"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -114,7 +114,7 @@
        d="m15 3 4 4h-4z" />
   </g>
   <rect
-     style="opacity:1;fill:#da8fff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#ff9f0a;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect1631"
      width="13"
      height="11"
@@ -166,7 +166,7 @@
      height="3"
      width="7"
      id="rect3108"
-     style="opacity:1;fill:#da8fff;fill-opacity:1;stroke:none;stroke-width:0.7337994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     style="opacity:1;fill:#ff9f0a;fill-opacity:1;stroke:none;stroke-width:0.7337994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <rect
      style="opacity:1;fill:#98989d;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect3091"

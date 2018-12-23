@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="graphicfilterinvert.svg"
+   inkscape:version="0.92.3 (unknown)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="-2.9830508"
+     inkscape:cy="16"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <path
+     d="m3 3v26h26v-26zm1 1h24v24h-24z"
+     fill="#808080"
+     id="path2" />
+  <path
+     d="m4 4h24v24h-24z"
+     fill="#fff"
+     id="path4" />
+  <path
+     d="m3 3v26l7.34375-7.34375a8 8 0 0 1 -2.1523438-7.398438 8 8 0 0 1 5.8144528-6.0058589 8 8 0 0 1 7.644532 2.0976559l7.349609-7.349609z"
+     fill="#808080"
+     fill-rule="evenodd"
+     id="path6"
+     style="fill:#69696e;fill-opacity:1" />
+  <path
+     d="m21.654297 10.345703-11.308594 11.308594a8 8 0 0 0 5.654297 2.345703 8 8 0 0 0 8-8 8 8 0 0 0 -2.345703-5.654297z"
+     fill="#808080"
+     id="path8" />
+</svg>

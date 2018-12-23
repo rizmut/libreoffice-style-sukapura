@@ -12,10 +12,10 @@
    version="1.1"
    id="svg12"
    sodipodi:docname="sc_menubar.svg"
-   inkscape:export-filename="/home/rizmut/Documents/Rizmut/Github/libreoffice-style-sukapura/images_sukapura/cmd/sc_menubar.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-sukapura/images_sukapura/cmd/sc_menubar.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   inkscape:version="0.92.3 (unknown)"><metadata
    id="metadata18">
   <rdf:RDF>
     <cc:Work
@@ -78,12 +78,12 @@
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
    inkscape:window-width="1366"
-   inkscape:window-height="685"
+   inkscape:window-height="706"
    id="namedview14"
    showgrid="true"
-   inkscape:zoom="16"
-   inkscape:cx="9.6300994"
-   inkscape:cy="10.93767"
+   inkscape:zoom="8"
+   inkscape:cx="15.524972"
+   inkscape:cy="5.6197664"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="1"
@@ -97,13 +97,14 @@
 
 
 
+
      /&gt;
  <path
-   d="M 1,14 15,6 v 8 z"
+   d="M 2,14 V 6 h 13 v 8 z"
    id="path2"
    inkscape:connector-curvature="0"
    style="fill:#ffffff"
-   sodipodi:nodetypes="cccc" />
+   sodipodi:nodetypes="ccccc" />
 <path
    d="M 2,1 C 1.446,1 1,1.446 1,2 v 12 c 0,0.554 0.446,1 1,1 h 13 c 0.554,0 1,-0.446 1,-1 V 2 C 16,1.446 15.554,1 15,1 Z m 8.505859,0.9921875 c 0.01495,0 0.02993,0.0074 0.04492,0.00781 H 15 v 5.3144531 c 0.0044,0.036122 0.01383,0.070143 0.01563,0.1074219 0.0036,0.074185 -0.0061,0.1507026 -0.01563,0.2265625 V 14 H 2 V 2 h 8.460938 c 0.01499,-4.127e-4 0.02998,-0.00781 0.04492,-0.00781 z"
    id="path4"

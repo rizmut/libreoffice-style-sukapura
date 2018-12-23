@@ -186,6 +186,7 @@ cmd/sc_optionstreedialog.png cmd/sc_controlproperties.png
 # Formatmenu
 cmd/lc_anchormenu.png cmd/lc_toggleanchortype.png
 cmd/lc_conditionalformatmenu.png cmd/lc_colorscaleformatdialog.png
+cmd/sc_anchormenu.png cmd/sc_toggleanchortype.png
 cmd/sc_conditionalformatmenu.png cmd/sc_colorscaleformatdialog.png
 cmd/sc_formattextmenu.png cmd/sc_color.png
 cmd/sc_formatspacingmenu.png cmd/sc_spacepara15.png
@@ -200,11 +201,25 @@ cmd/lc_openurl.png cmd/lc_browseview.png
 cmd/sc_webhtml.png cmd/sc_browseview.png
 cmd/sc_openurl.png cmd/sc_browseview.png
 
-# Formula
+# Form
+cmd/32/hscroll.png cmd/32/hscrollbar.png
+cmd/32/insertformhscroll.png cmd/32/hscrollbar.png
+cmd/32/scrollbarmenu.png cmd/32/scrollbar.png
+cmd/32/vscroll.png cmd/32/scrollbar.png
+cmd/32/vscrollbar.png cmd/32/scrollbar.png
+
+
+cmd/lc_hscroll.png cmd/lc_hscrollbar.png
+cmd/lc_insertformhscroll.png cmd/lc_hscrollbar.png
+cmd/lc_scrollbarmenu.png cmd/lc_scrollbar.png
+cmd/lc_vscroll.png cmd/lc_scrollbar.png
 cmd/lc_vscrollbar.png cmd/lc_scrollbar.png
+
+cmd/sc_hscroll.png cmd/sc_hscrollbar.png
+cmd/sc_insertformhscroll.png cmd/sc_hscrollbar.png
+cmd/sc_scrollbarmenu.png cmd/sc_scrollbar.png
+cmd/sc_vscroll.png cmd/sc_scrollbar.png
 cmd/sc_vscrollbar.png cmd/sc_scrollbar.png
-cmd/lc_hscrollbar.png cmd/lc_insertformhscroll.png
-cmd/sc_hscrollbar.png cmd/sc_insertformhscroll.png
 
 # Annotations
 cmd/sc_insertannotation.png cmd/sc_showannotations.png
@@ -446,11 +461,9 @@ cmd/sc_dbqueryrename.png cmd/sc_addfield.png
 cmd/sc_dbformrename.png cmd/sc_addfield.png
 
 # Edit
-cmd/lc_switchcontroldesignmode.png cmd/lc_editdoc.png
 cmd/lc_quickedit.png cmd/lc_editdoc.png
 cmd/lc_renamemasterpage.png cmd/lc_slidemasterpage.png
 cmd/lc_dsbeditdoc.png cmd/lc_editdoc.png
-cmd/sc_switchcontroldesignmode.png cmd/sc_editdoc.png
 cmd/sc_solidcreate.png cmd/sc_editdoc.png
 cmd/sc_renamemasterpage.png cmd/sc_slidemasterpage.png
 cmd/sc_quickedit.png cmd/sc_editdoc.png
@@ -699,10 +712,6 @@ cmd/sc_reverseorder.png cmd/sc_tabdialog.png
 cmd/lc_sourceview.png cmd/lc_symbolshapes.brace-pair.png
 cmd/sc_sourceview.png cmd/sc_symbolshapes.brace-pair.png
 
-# Contour
-cmd/lc_contourdialog.png cmd/lc_imagemapdialog.png
-cmd/sc_contourdialog.png cmd/sc_imagemapdialog.png
-
 # Config
 cmd/32/configuredialog.png cmd/32/formproperties.png
 cmd/lc_configuredialog.png cmd/lc_formproperties.png
@@ -931,6 +940,9 @@ cmd/lc_setoptimalcolumnwidthdirect.png cmd/lc_setoptimalcolumnwidth.png
 cmd/sc_setoptimalcolumnwidthdirect.png cmd/sc_setoptimalcolumnwidth.png
 cmd/lc_starchartdialog.png cmd/lc_insertobjectdialog.png
 cmd/sc_starchartdialog.png cmd/sc_insertobjectdialog.png
+cmd/32/statetablecell.png cmd/32/entirecell.png
+cmd/lc_statetablecell.png cmd/lc_entirecell.png
+cmd/sc_statetablecell.png cmd/sc_entirecell.png
 
 # Help
 cmd/lc_absoluterecord.png cmd/lc_helpindex.png
@@ -1699,6 +1711,12 @@ sw/res/zetlver2.png svx/res/zetlver2.png
 # vcl
 # ==============================================
 vcl/res/index.png cmd/sc_insertmultiindex.png
+
+# wrap
+# ==============================================
+cmd/32/wrapmenu.png cmd/32/wrapon.png
+cmd/lc_wrapmenu.png cmd/lc_wrapon.png
+cmd/sc_wrapmenu.png cmd/sc_wrapon.png
 
 # xmlsecurity
 # ==============================================
