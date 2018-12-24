@@ -15,6 +15,17 @@ avmedia/res/avl02052.png cmd/lc_mediarepeat.png
 avmedia/res/avl02053.png cmd/lc_ok.png
 avmedia/res/avl02054.png cmd/lc_mediamute.png
 
+# arrangement
+# ==============================================
+cmd/32/objectbackone.png cmd/32/backward.png
+cmd/32/objectforwardone.png cmd/32/forward.png
+
+cmd/lc_objectbackone.png cmd/lc_backward.png
+cmd/lc_objectforwardone.png cmd/lc_forward.png
+
+cmd/sc_objectbackone.png cmd/sc_backward.png
+cmd/sc_objectforwardone.png cmd/sc_forward.png
+
 # chart2
 # ==============================================
 chart2/res/dataeditor_icon01.png cmd/sc_insertrowsafter.png
@@ -129,7 +140,7 @@ cmd/lc_zoom.png cmd/lc_zoomoptimal.png
 cmd/lc_zoomplus.png cmd/lc_zoomin.png
 cmd/lc_zoommode.png cmd/lc_zoomoptimal.png
 cmd/lc_adjust.png cmd/lc_zoomoptimal.png
-cmd/lc_zoom100percent.png cmd/lc_view100.png
+cmd/lc_view100.png cmd/lc_zoom100percent.png
 cmd/sc_previewzoom.png cmd/sc_zoomprevious.png
 cmd/sc_zoomminus.png cmd/sc_zoomout.png
 cmd/sc_zoomtoolbox.png cmd/sc_zoomoptimal.png
@@ -137,7 +148,7 @@ cmd/sc_zoom.png cmd/sc_zoomoptimal.png
 cmd/sc_zoomplus.png cmd/sc_zoomin.png
 cmd/sc_zoommode.png cmd/sc_zoomoptimal.png
 cmd/sc_adjust.png cmd/sc_zoomoptimal.png
-cmd/sc_zoom100percent.png cmd/sc_view100.png
+cmd/sc_view100.png cmd/sc_zoom100percent.png
 
 # Save
 cmd/lc_savebasicas.png cmd/lc_saveas.png
@@ -706,7 +717,6 @@ cmd/sc_sortdown.png cmd/sc_sortdescending.png
 cmd/sc_sortup.png cmd/sc_sortascending.png
 cmd/sc_tablesort.png cmd/sc_sortascending.png
 cmd/sc_ordercrit.png cmd/sc_sortascending.png
-cmd/sc_reverseorder.png cmd/sc_tabdialog.png
 
 # Code
 cmd/lc_sourceview.png cmd/lc_symbolshapes.brace-pair.png

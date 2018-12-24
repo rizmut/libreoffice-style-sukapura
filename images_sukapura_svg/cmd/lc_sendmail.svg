@@ -77,33 +77,39 @@
          stop-color="#0a84ff"
          id="stop2208" />
     </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath842">
+      <rect
+         style="fill:#ff0000;fill-opacity:0.78431373;stroke:none;stroke-opacity:1"
+         id="rect844"
+         width="27.966103"
+         height="22.20339"
+         x="-30"
+         y="-228.20338" />
+    </clipPath>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#a-367"
-       id="linearGradient2813"
-       x1="18"
-       y1="10"
-       x2="18"
-       y2="7"
+       xlink:href="#a"
+       id="linearGradient861"
+       x1="12"
+       y1="13.568359"
+       x2="12"
+       y2="6"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
+    <filter
        inkscape:collect="always"
-       xlink:href="#a-367"
-       id="linearGradient2821"
-       x1="8"
-       y1="16"
-       x2="8"
-       y2="15"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#a-367"
-       id="linearGradient2823"
-       x1="8"
-       y1="14"
-       x2="8"
-       y2="13"
-       gradientUnits="userSpaceOnUse" />
+       style="color-interpolation-filters:sRGB"
+       id="filter2246"
+       x="-0.039272727"
+       width="1.0785455"
+       y="-0.061714286"
+       height="1.1234286">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.36"
+         id="feGaussianBlur2248" />
+    </filter>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -119,40 +125,58 @@
      id="namedview16"
      showgrid="true"
      inkscape:zoom="9.8333333"
-     inkscape:cx="6.0834946"
-     inkscape:cy="18.660672"
+     inkscape:cx="11.27678"
+     inkscape:cy="0.16097703"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg14">
     <inkscape:grid
        type="xygrid"
-       id="grid827" />
+       id="grid827"
+       spacingx="0.5"
+       spacingy="0.5"
+       empspacing="2" />
   </sodipodi:namedview>
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.15;filter:url(#filter2246)"
+     id="path873"
+     d="m 2,5.5 c -0.554,0 -1,0.446 -1,1 v 12 c 0,0.554 0.446,1 1,1 h 20 c 0.554,0 1,-0.446 1,-1 v -12 c 0,-0.554 -0.446,-1 -1,-1 z m 0,1 h 20 v 12 H 2 Z"
+     inkscape:connector-curvature="0" />
   <path
      d="m2 6h20v12h-20z"
      fill="#fff"
      id="path2"
      style="fill-opacity:1;fill:url(#linearGradient1611)" />
-  <g
-     fill="#4d82b8"
-     id="g10">
-    <path
-       d="m17 7h3v3h-3z"
-       id="path4"
-       style="stroke:none;fill-opacity:1;fill:url(#linearGradient2813)" />
-    <path
-       d="m4 13h9v1h-9z"
-       id="path6"
-       style="fill-opacity:1;fill:url(#linearGradient2823)" />
-    <path
-       d="m5 15h7v1h-7z"
-       id="path8"
-       style="fill-opacity:1;fill:url(#linearGradient2821)" />
-  </g>
+  <path
+     style="fill:#bcbcc0;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+     d="M 2,17 9,13 8,12 2,16 Z"
+     id="path863"
+     inkscape:connector-curvature="0" />
   <path
      d="m2 5c-.554 0-1 .446-1 1v12c0 .554.446 1 1 1h20c .554 0 1-.446 1-1v-12c0-.554-.446-1-1-1zm0 1h20v12h-20z"
      fill="#808080"
      id="path12"
      style="fill:#98989d;fill-opacity:1" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path865"
+     d="m 22,17 -7,-4 1,-1 6,4 z"
+     style="fill:#bcbcc0;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     style="fill:#98989d;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+     d="M 2 8 L 2 9 L 10 14 L 12 14.568359 L 14 14 L 22 9 L 22 8 L 14 13 L 12 13.568359 L 10 13 L 2 8 z "
+     id="path850" />
+  <path
+     id="path853"
+     d="M 2,8 V 6 H 22 V 8 L 14,13 12,13.568359 10,13 Z"
+     style="fill:url(#linearGradient861);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccc" />
+  <path
+     sodipodi:nodetypes="cccccccccc"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 2.5,7.5 v -1 h 19 v 1 0.2769837 L 14,12.5 12,13.068359 10,12.5 2.5,7.7722966 Z"
+     id="path867" />
 </svg>
