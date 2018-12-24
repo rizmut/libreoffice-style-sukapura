@@ -11,7 +11,7 @@
    version="1.1"
    id="svg22"
    sodipodi:docname="adddirect.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.3 (unknown)">
   <metadata
      id="metadata28">
     <rdf:RDF>
@@ -20,6 +20,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,16 +36,23 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="685"
+     inkscape:window-height="706"
      id="namedview24"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="7.375"
-     inkscape:cx="-1.4237288"
+     inkscape:cx="-25.288136"
      inkscape:cy="14.915254"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg22" />
+     inkscape:current-layer="svg22">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1479"
+       spacingx="0.5"
+       spacingy="0.5"
+       empspacing="2" />
+  </sodipodi:namedview>
   <radialGradient
      id="a"
      cx="22"

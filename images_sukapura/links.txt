@@ -712,11 +712,11 @@ cmd/sc_basicshapes.frame.png cmd/sc_rect_unfilled.png
 cmd/lc_sortdown.png cmd/lc_sortdescending.png
 cmd/lc_sortup.png cmd/lc_sortascending.png
 cmd/lc_tablesort.png cmd/lc_sortascending.png
-cmd/lc_ordercrit.png cmd/lc_sortascending.png
+cmd/lc_ordercrit.png cmd/lc_datasort.png
 cmd/sc_sortdown.png cmd/sc_sortdescending.png
 cmd/sc_sortup.png cmd/sc_sortascending.png
 cmd/sc_tablesort.png cmd/sc_sortascending.png
-cmd/sc_ordercrit.png cmd/sc_sortascending.png
+cmd/sc_ordercrit.png cmd/sc_datasort.png
 
 # Code
 cmd/lc_sourceview.png cmd/lc_symbolshapes.brace-pair.png
