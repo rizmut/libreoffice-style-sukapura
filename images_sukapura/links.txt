@@ -285,7 +285,6 @@ cmd/sc_graphicfilterposter.png cmd/sc_graphicdialog.png
 cmd/sc_grafmode.png cmd/sc_graphicdialog.png
 cmd/sc_grafinvert.png cmd/sc_graphicfilterinvert.png
 cmd/sc_colorview.png cmd/sc_graphicfilterinvert.png
-cmd/sc_imagebutton.png cmd/sc_gallery.png
 cmd/sc_objecttitledescription.png cmd/sc_insertcaptiondialog.png
 cmd/lc_objecttitledescription.png cmd/lc_insertcaptiondialog.png
 
@@ -340,6 +339,10 @@ cmd/lc_filecontrol.png cmd/lc_open.png
 cmd/sc_openfromwriter.png cmd/sc_open.png
 cmd/sc_openfromcalc.png cmd/sc_open.png
 cmd/sc_filecontrol.png cmd/sc_open.png
+
+# Mail Merge
+cmd/lc_dsbformletter.png cmd/lc_mailmergewizard.png
+cmd/sc_dsbformletter.png cmd/sc_mailmergewizard.png
 
 # Merge
 cmd/lc_mergedocument.png cmd/lc_mergedocuments.png
@@ -762,9 +765,9 @@ cmd/lc_toggleaxisdescr.png cmd/lc_helplinesvisible.png
 cmd/sc_toggleaxisdescr.png cmd/sc_helplinesvisible.png
 
 # Grid
-cmd/lc_gridvisible.png cmd/lc_grid.png
-cmd/sc_gridvisible.png cmd/sc_grid.png
-cmd/sc_gridmenu.png cmd/sc_grid.png
+cmd/lc_gridvisible.png cmd/lc_griduse.png
+cmd/sc_gridvisible.png cmd/sc_griduse.png
+cmd/sc_gridmenu.png cmd/sc_griduse.png
 
 # Crop
 cmd/lc_grafattrcrop.png cmd/lc_crop.png
@@ -1312,7 +1315,7 @@ res/sx10596.png cmd/sc_checkbox.png
 res/sx10599.png cmd/sc_text.png
 res/sx10600.png cmd/lc_listbox.png
 res/sx10601.png cmd/sc_combobox.png
-res/sx10603.png cmd/sc_grid.png
+res/sx10603.png cmd/sc_griduse.png
 
 res/sx10605.png cmd/sc_open.png
 res/sx10704.png cmd/sc_datefield.png
@@ -1697,7 +1700,7 @@ sw/res/sr20018.png cmd/sc_inserttable.png
 sw/res/sr20019.png cmd/sc_remove.png
 
 sw/res/sx01.png cmd/sc_dbqueryedit.png
-sw/res/sx02.png cmd/sc_freezepanesfirstrow.png
+sw/res/sx02.png cmd/sc_inserttable.png
 sw/res/sx03.png cmd/sc_dbqueryedit.png
 svx/res/reload.png cmd/sc_reload.png
 svx/res/time.png cmd/sc_timefield.png
