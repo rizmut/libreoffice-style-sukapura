@@ -136,7 +136,6 @@ cmd/sc_numberingmenu.png cmd/sc_outlinebullet.png
 cmd/lc_previewzoom.png cmd/lc_zoomprevious.png
 cmd/lc_zoomminus.png cmd/lc_zoomout.png
 cmd/lc_zoomtoolbox.png cmd/lc_zoomoptimal.png
-cmd/lc_zoom.png cmd/lc_zoomoptimal.png
 cmd/lc_zoomplus.png cmd/lc_zoomin.png
 cmd/lc_zoommode.png cmd/lc_zoomoptimal.png
 cmd/lc_adjust.png cmd/lc_zoomoptimal.png
@@ -144,7 +143,6 @@ cmd/lc_view100.png cmd/lc_zoom100percent.png
 cmd/sc_previewzoom.png cmd/sc_zoomprevious.png
 cmd/sc_zoomminus.png cmd/sc_zoomout.png
 cmd/sc_zoomtoolbox.png cmd/sc_zoomoptimal.png
-cmd/sc_zoom.png cmd/sc_zoomoptimal.png
 cmd/sc_zoomplus.png cmd/sc_zoomin.png
 cmd/sc_zoommode.png cmd/sc_zoomoptimal.png
 cmd/sc_adjust.png cmd/sc_zoomoptimal.png
@@ -820,10 +818,8 @@ cmd/sc_loadstyles.png cmd/sc_open.png
 # Outline
 cmd/lc_outlineright.png cmd/lc_decrementlevel.png
 cmd/lc_outlineleft.png cmd/lc_decrementindent.png
-cmd/lc_incrementlevel.png cmd/lc_decrementindent.png
 cmd/sc_outlineright.png cmd/sc_decrementlevel.png
 cmd/sc_outlineleft.png cmd/sc_decrementindent.png
-cmd/sc_incrementlevel.png cmd/sc_decrementindent.png
 
 # Index
 cmd/sc_indexesmenu.png cmd/sc_insertindexesentry.png
