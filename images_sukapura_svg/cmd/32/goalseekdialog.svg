@@ -12,8 +12,11 @@
    width="32"
    version="1.1"
    id="svg8"
-   sodipodi:docname="datafilterstandardfilter.svg"
-   inkscape:version="0.92.3 (unknown)">
+   sodipodi:docname="goalseekdialog.svg"
+   inkscape:version="0.92.3 (unknown)"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-sukapura/images_sukapura/cmd/32/goalseekdialog.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -22,6 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,17 +40,21 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="811"
-     inkscape:window-height="480"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
      id="namedview10"
-     showgrid="false"
-     inkscape:zoom="7.375"
-     inkscape:cx="3.7288136"
-     inkscape:cy="16"
+     showgrid="true"
+     inkscape:zoom="29.5"
+     inkscape:cx="25.298031"
+     inkscape:cy="6.1990889"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg8" />
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1883" />
+  </sodipodi:namedview>
   <g
      id="g824">
     <path
@@ -71,4 +79,30 @@
        cy="5.815033"
        cx="16" />
   </g>
+  <rect
+     height="8"
+     rx="1.5"
+     width="16"
+     x="14"
+     y="21"
+     id="rect2"
+     style="fill:#98989d" />
+  <path
+     d="m 15,22 v 6 h 14 v -6 z"
+     id="path4-3"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;stroke-width:1.30930698"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     d="m 23,23 v 4 h -0.5 v -4 z"
+     id="path6"
+     inkscape:connector-curvature="0"
+     style="fill:#bababa;stroke-width:1.34164083"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     d="m 28,24 h -4 l 2,2.5 z"
+     id="path8"
+     inkscape:connector-curvature="0"
+     style="fill:#69696e"
+     sodipodi:nodetypes="cccc" />
 </svg>
