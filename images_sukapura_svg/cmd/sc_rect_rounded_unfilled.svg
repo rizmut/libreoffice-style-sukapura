@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="sc_rect_rounded_unfilled.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata14">
+  <rdf:RDF>
+    <cc:Work
+       rdf:about="">
+      <dc:format>image/svg+xml</dc:format>
+      <dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      <dc:title />
+    </cc:Work>
+  </rdf:RDF>
+</metadata>
+<defs
+   id="defs12">
+  <linearGradient
+     gradientTransform="translate(-29.220339,-6.9830507)"
+     id="a"
+     gradientUnits="userSpaceOnUse"
+     x1="12"
+     x2="12"
+     y1="21.5"
+     y2="2.5">
+    <stop
+       offset="0"
+       stop-color="#e5eefc"
+       id="stop2" />
+    <stop
+       offset="1"
+       stop-color="#fcfdff"
+       id="stop4" />
+  </linearGradient>
+</defs>
+<sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1366"
+   inkscape:window-height="716"
+   id="namedview10"
+   showgrid="true"
+   inkscape:zoom="10.429825"
+   inkscape:cx="-5.7242396"
+   inkscape:cy="6.7817944"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg8">
+  <inkscape:grid
+     type="xygrid"
+     id="grid817" />
+</sodipodi:namedview>
+
+
+
+
+
+
+     /&amp;gt;
+ <g
+   fill="none"
+   stroke="#4d82b8"
+   id="g6"
+   style="stroke:#0a84ff;stroke-opacity:1">
+  <path
+     d="M 3.625,1.5 C 1.893725,1.5 0.5,2.893725 0.5,4.625 v 6.75 c 0,1.731275 1.393725,3.125 3.125,3.125 h 8.75 c 1.731275,0 3.125,-1.393725 3.125,-3.125 V 4.625 C 15.5,2.893725 14.106275,1.5 12.375,1.5 H 6.5 Z"
+     id="path2"
+     style="stroke:#0a84ff;stroke-opacity:1"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sssssssscs" />
+  <path
+     d="m4 11.25 8-6"
+     stroke-linecap="round"
+     id="path4"
+     style="stroke:#0a84ff;stroke-opacity:1" />
+</g>
+</svg>

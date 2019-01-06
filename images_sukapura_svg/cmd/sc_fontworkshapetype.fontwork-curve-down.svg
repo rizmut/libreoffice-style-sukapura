@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="sc_fontworkshapetype.fontwork-curve-down.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata14">
+  <rdf:RDF>
+    <cc:Work
+       rdf:about="">
+      <dc:format>image/svg+xml</dc:format>
+      <dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      <dc:title></dc:title>
+    </cc:Work>
+  </rdf:RDF>
+</metadata>
+<defs
+   id="defs12">
+  <linearGradient
+     gradientTransform="translate(-34.033898,-5.6271185)"
+     id="a"
+     gradientUnits="userSpaceOnUse"
+     x1="12"
+     x2="12"
+     y1="21.5"
+     y2="2.5">
+    <stop
+       offset="0"
+       stop-color="#e5eefc"
+       id="stop10139" />
+    <stop
+       offset="1"
+       stop-color="#fcfdff"
+       id="stop10141" />
+  </linearGradient>
+  <linearGradient
+     inkscape:collect="always"
+     xlink:href="#a"
+     id="linearGradient841"
+     x1="6.1694918"
+     y1="15.034488"
+     x2="6.1697545"
+     y2="0.05143708"
+     gradientUnits="userSpaceOnUse" />
+</defs>
+<sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1366"
+   inkscape:window-height="716"
+   id="namedview10"
+   showgrid="false"
+   inkscape:zoom="14.75"
+   inkscape:cx="-1.6610169"
+   inkscape:cy="8"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg8" />
+/&gt;<path
+   style="fill:url(#linearGradient841);stroke:#0a84ff;stroke-linejoin:round;fill-opacity:1;stroke-opacity:1"
+   inkscape:connector-curvature="0"
+   id="path2"
+   d="m 0.500263,0.5 c 2.359788,2.0086817 4.60402,3.8980753 15,4 V 12 c -0.0085,3.271186 -15.075873,3.442547 -15,0 z" />
+</svg>

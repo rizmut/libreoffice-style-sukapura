@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="sc_calloutshapes.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata10">
+  <rdf:RDF>
+    <cc:Work
+       rdf:about="">
+      <dc:format>image/svg+xml</dc:format>
+      <dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      <dc:title></dc:title>
+    </cc:Work>
+  </rdf:RDF>
+</metadata>
+<defs
+   id="defs8">
+  <linearGradient
+     gradientTransform="translate(-23.728813,-7.8644066)"
+     id="a"
+     gradientUnits="userSpaceOnUse"
+     x1="12"
+     x2="12"
+     y1="21.5"
+     y2="2.5">
+    <stop
+       offset="0"
+       stop-color="#e5eefc"
+       id="stop1020" />
+    <stop
+       offset="1"
+       stop-color="#fcfdff"
+       id="stop1022" />
+  </linearGradient>
+  <linearGradient
+     inkscape:collect="always"
+     xlink:href="#a"
+     id="linearGradient835"
+     x1="8.8135595"
+     y1="15.389488"
+     x2="8.6785269"
+     y2="0.54203099"
+     gradientUnits="userSpaceOnUse" />
+</defs>
+<sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1366"
+   inkscape:window-height="716"
+   id="namedview6"
+   showgrid="false"
+   inkscape:zoom="14.75"
+   inkscape:cx="-1.6610169"
+   inkscape:cy="8"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg4" />
+/&gt;<path
+   d="m .5 2.75v6.75c.0193283 1.122973.9164791 2 2 2h2v4l3.5-4h5.5c1.187754.05336 2-.855367 2-2v-7c .02822-1.0146613-1.067418-1.94915254-2-2h-11c-1.0655087-.0282188-2 .9953845-2 2.25z"
+   fill="#fff"
+   stroke="#808080"
+   stroke-linejoin="round"
+   id="path2"
+   style="fill-opacity:1;fill:url(#linearGradient835);stroke:#0a84ff;stroke-opacity:1" />
+</svg>

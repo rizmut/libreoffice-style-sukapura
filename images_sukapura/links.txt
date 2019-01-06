@@ -294,7 +294,6 @@ cmd/lc_flowchartshapes.flowchart-connector.png cmd/lc_circle.png
 cmd/lc_basicshapes.circle.png cmd/lc_circle.png
 cmd/lc_symbolshapes.smiley.png cmd/lc_symbolshapes.png
 cmd/lc_basicshapes.round-rectangle.png cmd/lc_rect_rounded.png
-cmd/lc_flowchartshapes.flowchart-punched-tape.png cmd/lc_fontworkshapetype.fontwork-wave.png
 cmd/lc_basicshapes.parallelogram.png cmd/lc_flowchartshapes.flowchart-data.png
 cmd/lc_calloutshapes.round-rectangular-callout.png cmd/lc_calloutshapes.png
 cmd/lc_flowchartshapes.flowchart-manual-operation.png cmd/lc_basicshapes.trapezoid.png
@@ -306,7 +305,7 @@ cmd/lc_basicshapes.circle-pie.png cmd/lc_pie.png
 cmd/lc_flowchartshapes.flowchart-merge.png cmd/lc_fontworkshapetype.fontwork-triangle-down.png
 cmd/lc_fontworkshapetype.fontwork-fade-down.png cmd/lc_basicshapes.trapezoid.png
 cmd/lc_flowchartshapes.flowchart-magnetic-disk.png cmd/lc_basicshapes.can.png
-cmd/sc_flowchartshapes.png cmd/lc_flowchartshapes.flowchart-document.png
+cmd/sc_flowchartshapes.png cmd/sc_flowchartshapes.flowchart-document.png
 
 cmd/lc_measureattributes.png cmd/lc_measureline.png
 cmd/sc_measureattributes.png cmd/sc_measureline.png
@@ -319,7 +318,6 @@ cmd/sc_basicshapes.circle.png cmd/sc_circle.png
 cmd/sc_flowchartshapes.flowchart-connector.png cmd/sc_circle.png
 cmd/sc_symbolshapes.smiley.png cmd/sc_symbolshapes.png
 cmd/sc_basicshapes.round-rectangle.png cmd/sc_rect_rounded.png
-cmd/sc_flowchartshapes.flowchart-punched-tape.png cmd/sc_fontworkshapetype.fontwork-wave.png
 cmd/sc_basicshapes.parallelogram.png cmd/sc_flowchartshapes.flowchart-data.png
 cmd/sc_calloutshapes.round-rectangular-callout.png cmd/sc_calloutshapes.png
 cmd/sc_flowchartshapes.flowchart-manual-operation.png cmd/sc_basicshapes.trapezoid.png
@@ -582,6 +580,8 @@ cmd/sc_fontcolor.png cmd/sc_color.png
 cmd/sc_characterbackgroundpattern.png cmd/sc_backcolor.png
 cmd/lc_characterbackgroundpattern.png cmd/lc_backcolor.png
 cmd/lc_backgroundpatterncontroller.png cmd/lc_backgroundcolor.png
+cmd/lc_formatarea.png cmd/lc_backgroundcolor.png
+cmd/sc_formatarea.png cmd/sc_backgroundcolor.png
 
 # Paragraph Alignment
 cmd/lc_leftpara.png cmd/lc_alignleft.png
@@ -655,13 +655,13 @@ cmd/sc_linetoolbox.png cmd/sc_freeline.png
 cmd/sc_ellipsetoolbox.png cmd/sc_ellipse.png
 
 # Format
-cmd/lc_styleapply.png cmd/lc_formatarea.png
-cmd/lc_fillstyle.png cmd/lc_formatarea.png
-cmd/lc_fillcolor.png cmd/lc_formatarea.png
-cmd/sc_stylewatercanmode.png cmd/sc_formatarea.png
-cmd/sc_styleapply.png cmd/sc_formatarea.png
-cmd/sc_fillstyle.png cmd/sc_formatarea.png
-cmd/sc_fillcolor.png cmd/sc_formatarea.png
+cmd/lc_styleapply.png cmd/lc_backgroundcolor.png
+cmd/lc_fillstyle.png cmd/lc_backgroundcolor.png
+cmd/lc_fillcolor.png cmd/lc_backgroundcolor.png
+cmd/sc_stylewatercanmode.png cmd/sc_backgroundcolor.png
+cmd/sc_styleapply.png cmd/sc_backgroundcolor.png
+cmd/sc_fillstyle.png cmd/sc_backgroundcolor.png
+cmd/sc_fillcolor.png cmd/sc_backgroundcolor.png
 
 # Notebookbar
 cmd/lc_headerandfooter.png cmd/lc_editheaderandfooter.png
@@ -724,13 +724,9 @@ cmd/lc_sourceview.png cmd/lc_symbolshapes.brace-pair.png
 cmd/sc_sourceview.png cmd/sc_symbolshapes.brace-pair.png
 
 # Config
-cmd/32/configuredialog.png cmd/32/formproperties.png
-cmd/lc_configuredialog.png cmd/lc_formproperties.png
-cmd/sc_configuredialog.png cmd/sc_formproperties.png
-
-cmd/32/formatselection.png cmd/32/formproperties.png
-cmd/lc_formatselection.png cmd/lc_formproperties.png
-cmd/sc_formatselection.png cmd/sc_formproperties.png
+cmd/32/formatselection.png cmd/32/configuredialog.png
+cmd/lc_formatselection.png cmd/lc_configuredialog.png
+cmd/sc_formatselection.png cmd/sc_configuredialog.png
 
 # Hyphenation
 cmd/lc_hyphenation.png cmd/lc_hyphenate.png
@@ -1347,11 +1343,11 @@ sc/res/na011.png cmd/lc_ok.png
 sc/res/nc01.png cmd/sc_dbviewtablenames.png
 sc/res/nc02.png cmd/sc_dataranges.png
 sc/res/nc03.png cmd/sc_viewdatasourcebrowser.png
-sc/res/nc04.png cmd/sc_gallery.png
+sc/res/nc04.png cmd/sc_graphic.png
 sc/res/nc05.png cmd/sc_insertobject.png
 sc/res/nc06.png cmd/sc_showannotations.png
 sc/res/nc07.png cmd/sc_insertbookmark.png
-sc/res/nc08.png cmd/sc_gallery.png
+sc/res/nc08.png cmd/sc_graphic.png
 sc/res/sc26047.png cmd/sc_dbviewfunctions.png
 sc/res/sc26048.png cmd/sc_autosum.png
 sc/res/sc26050.png cmd/sc_cancel.png
@@ -1416,7 +1412,7 @@ sd/res/waiticon.png cmd/sc_mediapause.png
 sfx2/res/actionaction012.png cmd/lc_recsearch.png
 sfx2/res/actionaction013.png cmd/lc_controlproperties.png
 sfx2/res/actiontemplates015.png cmd/lc_ok.png
-sfx2/res/actiontemplates016.png cmd/lc_formproperties.png
+sfx2/res/actiontemplates016.png cmd/lc_configuredialog.png
 sfx2/res/actiontemplates018.png cmd/lc_delete.png
 sfx2/res/actiontemplates019.png cmd/lc_editdoc.png
 sfx2/res/actiontemplates020.png cmd/lc_exportto.png
@@ -1461,8 +1457,8 @@ sfx2/res/symphony/sidebar-gallery-large.png cmd/lc_gallery.png
 sfx2/res/symphony/sidebar-gallery-small.png cmd/sc_gallery.png
 sfx2/res/symphony/sidebar-navigator-large.png cmd/lc_navigator.png
 sfx2/res/symphony/sidebar-navigator-small.png cmd/sc_navigator.png
-sfx2/res/symphony/sidebar-property-large.png cmd/lc_formproperties.png
-sfx2/res/symphony/sidebar-property-small.png cmd/sc_formproperties.png
+sfx2/res/symphony/sidebar-property-large.png cmd/lc_configuredialog.png
+sfx2/res/symphony/sidebar-property-small.png cmd/sc_configuredialog.png
 sfx2/res/symphony/sidebar-style-large.png cmd/lc_designerdialog.png
 sfx2/res/symphony/sidebar-style-small.png cmd/sc_designerdialog.png
 sfx2/res/symphony/sidebar-template-large.png cmd/lc_slidemasterpage.png
@@ -1631,7 +1627,7 @@ sw/res/lc20557.png cmd/lc_cancel.png
 sw/res/lc20558.png cmd/lc_ok.png
 sw/res/nc20001.png cmd/sc_inserttable.png
 sw/res/nc20002.png cmd/sc_insertframe.png
-sw/res/nc20003.png cmd/sc_gallery.png
+sw/res/nc20003.png cmd/sc_graphic.png
 sw/res/nc20004.png cmd/sc_insertobject.png
 sw/res/nc20005.png cmd/sc_insertbookmark.png
 sw/res/nc20006.png cmd/sc_insertsection.png
@@ -1657,7 +1653,7 @@ sw/res/sc20175.png cmd/sc_nextrecord.png
 sw/res/sc20182.png cmd/sc_anchormenu.png
 sw/res/sc20186.png cmd/sc_prevrecord.png
 sw/res/sc20233.png cmd/sc_ok.png
-sw/res/sc20235.png cmd/sc_editdoc.png
+sw/res/sc20235.png cmd/sc_inserthyperlink.png
 sw/res/sc20238.png cmd/sc_insertbookmark.png
 sw/res/sc20239.png cmd/sc_copy.png
 sw/res/sc20245.png cmd/sc_editdoc.png

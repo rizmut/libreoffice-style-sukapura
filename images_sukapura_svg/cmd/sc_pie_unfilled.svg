@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="sc_pie_unfilled.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata10">
+  <rdf:RDF>
+    <cc:Work
+       rdf:about="">
+      <dc:format>image/svg+xml</dc:format>
+      <dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      <dc:title></dc:title>
+    </cc:Work>
+  </rdf:RDF>
+</metadata>
+<defs
+   id="defs8">
+  <linearGradient
+     gradientTransform="translate(-22.983051,-12.271186)"
+     id="a"
+     gradientUnits="userSpaceOnUse"
+     x1="12"
+     x2="12"
+     y1="21.5"
+     y2="2.5">
+    <stop
+       offset="0"
+       stop-color="#e5eefc"
+       id="stop2" />
+    <stop
+       offset="1"
+       stop-color="#fcfdff"
+       id="stop4" />
+  </linearGradient>
+</defs>
+<sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1366"
+   inkscape:window-height="716"
+   id="namedview6"
+   showgrid="false"
+   inkscape:zoom="14.75"
+   inkscape:cx="-1.6610169"
+   inkscape:cy="8"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg4" />
+
+
+
+
+
+     /&amp;gt;
+ <path
+   d="m8.5 1c-2.1875084.0001357-4.2882179.762203-5.8632812 2.0117188-1.5750635 1.2495156-2.6365295 3.0136345-2.6367188 4.9882812.00037435 3.901937 3.6249713 6.999728 8 7 4.416068-.000274 7.999626-3.598068 8-7.5v-.5097656h-6.9902344v-5.9902344zm-.5097656 1.1074219v5.9023437h6.8730466c-.309134 3.0788064-3.211809 5.9704764-6.863281 5.9707034-3.8981429-.000242-6.9801553-2.71368-6.9804688-5.980469.0001544-1.6097166.8641787-3.0900652 2.25-4.1894531 1.2608035-1.0002097 2.9597237-1.5916672 4.7207032-1.703125zm-.5 5.8886719a.50005.50005 0 0 0 -.34375.1503906l-2.9941406 2.9960936a.50005.50005 0 1 0 .7070312.707031l2.9941406-2.9960934a.50005.50005 0 0 0 -.3632812-.8574218z"
+   fill="#4d82b8"
+   id="path2"
+   style="fill:#0a84ff;fill-opacity:1" />
+</svg>
