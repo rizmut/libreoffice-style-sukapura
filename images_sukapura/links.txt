@@ -58,11 +58,9 @@ cmd/sc_showinlinetooltips.png cmd/sc_editannotation.png
 
 # Insert
 cmd/lc_insobjctrl.png cmd/lc_newdoc.png
-cmd/lc_insert.png cmd/lc_togglesheetgrid.png
 cmd/lc_insertavmedia.png cmd/lc_avmediaplayer.png
 cmd/lc_insertcurrencyfield.png cmd/lc_formattedfield.png
 cmd/lc_insertdatefield.png cmd/lc_datefield.png
-cmd/lc_insert.png cmd/lc_togglesheetgrid.png
 cmd/lc_insertauthorfield.png cmd/lc_dbviewaliases.png
 cmd/lc_insertedit.png cmd/lc_edit.png
 cmd/lc_insertfield.png cmd/lc_addfield.png
@@ -87,11 +85,10 @@ cmd/lc_insertobjectstarmath.png cmd/lc_insertmath.png
 cmd/lc_insertpatternfield.png cmd/lc_patternfield.png
 cmd/lc_insertpushbutton.png cmd/lc_pushbutton.png
 cmd/lc_insertrowbreak.png cmd/lc_insertpagebreak.png
-cmd/lc_insertspreadsheet.png cmd/lc_togglesheetgrid.png
+cmd/lc_insertspreadsheet.png cmd/lc_insert.png
 cmd/lc_inserttimefield.png cmd/lc_timefield.png
 
 cmd/sc_insobjctrl.png cmd/sc_newdoc.png
-cmd/sc_insert.png cmd/sc_togglesheetgrid.png
 cmd/sc_insertavmedia.png cmd/sc_avmediaplayer.png
 cmd/sc_insertcurrencyfield.png cmd/sc_formattedfield.png
 cmd/sc_insertdatefield.png cmd/sc_datefield.png
@@ -123,7 +120,7 @@ cmd/sc_insertobjectstarmath.png cmd/sc_insertmath.png
 cmd/sc_insertpatternfield.png cmd/sc_patternfield.png
 cmd/sc_insertpushbutton.png cmd/sc_pushbutton.png
 cmd/sc_insertrowbreak.png cmd/sc_insertpagebreak.png
-cmd/sc_insertspreadsheet.png cmd/sc_togglesheetgrid.png
+cmd/sc_insertspreadsheet.png cmd/sc_insert.png
 cmd/sc_inserttimefield.png cmd/sc_timefield.png
 cmd/sc_tracechangemode.png cmd/sc_trackchanges.png
 cmd/lc_tracechangemode.png cmd/lc_trackchanges.png
@@ -1421,7 +1418,7 @@ sfx2/res/actiontemplates016.png cmd/lc_configuredialog.png
 sfx2/res/actiontemplates018.png cmd/lc_delete.png
 sfx2/res/actiontemplates019.png cmd/lc_editdoc.png
 sfx2/res/actiontemplates020.png cmd/lc_exportto.png
-sfx2/res/actionview010.png cmd/lc_starshapes.png
+sfx2/res/actionview010.png cmd/lc_dataimport.png
 sfx2/res/actionview025.png cmd/lc_delete.png
 sfx2/res/actionview028.png cmd/lc_save.png
 sfx2/res/actionview030.png cmd/lc_open.png
@@ -1640,7 +1637,7 @@ sw/res/nc20007.png cmd/sc_inserthyperlink.png
 sw/res/nc20008.png cmd/sc_insertreferencefield.png
 sw/res/nc20009.png cmd/sc_insertindexesentry.png
 sw/res/nc20010.png cmd/sc_showannotations.png
-sw/res/nc20011.png cmd/sc_toggleobjectbeziermode.png
+sw/res/nc20011.png cmd/sc_insertdraw.png
 sw/res/sc20234.png cmd/sc_datafilterstandardfilter.png
 sw/res/sc20244.png cmd/sc_datafilterstandardfilter.png
 sw/res/sc20183.png cmd/sc_addwatch.png
@@ -1684,21 +1681,19 @@ sw/res/sr20001.png cmd/sc_upsearch.png
 sw/res/sr20002.png cmd/sc_inserttable.png
 sw/res/sr20003.png cmd/sc_insertframe.png
 sw/res/sr20004.png cmd/sc_showsinglepage.png
-sw/res/sr20005.png cmd/sc_editdoc.png
+sw/res/sr20005.png cmd/sc_insertdraw.png
 sw/res/sr20007.png cmd/sc_insertsection.png
 sw/res/sr20008.png cmd/sc_insertbookmark.png
-sw/res/sr20009.png cmd/sc_toggleobjectbeziermode.png
+sw/res/sr20009.png cmd/sc_insertgraphic.png
 sw/res/sr20010.png cmd/sc_drawchart.png
-sw/res/sr20011.png cmd/sc_editheaderandfooter.png
-sw/res/nc20000.png cmd/sc_editheaderandfooter.png
+sw/res/sr20011.png sw/res/sc20236.png
+sw/res/nc20000.png sw/res/sc20236.png
 sw/res/sr20012.png cmd/sc_insertreferencefield.png
 sw/res/sr20013.png cmd/sc_insertfootnote.png
 sw/res/sr20014.png dbaccess/res/exwarning.png
-sw/res/sr20015.png cmd/sc_insertbookmark.png
+sw/res/sr20015.png cmd/sc_showannotations.png
 sw/res/sr20016.png cmd/sc_recsearch.png
 sw/res/sr20017.png cmd/sc_insertindexesentry.png
-sw/res/sr20018.png cmd/sc_inserttable.png
-sw/res/sr20019.png cmd/sc_remove.png
 
 sw/res/sx01.png cmd/sc_dbqueryedit.png
 sw/res/sx02.png cmd/sc_inserttable.png
