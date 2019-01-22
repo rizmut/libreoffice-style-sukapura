@@ -64,8 +64,8 @@ cmd/lc_insertdatefield.png cmd/lc_datefield.png
 cmd/lc_insertauthorfield.png cmd/lc_dbviewaliases.png
 cmd/lc_insertedit.png cmd/lc_edit.png
 cmd/lc_insertfield.png cmd/lc_addfield.png
+cmd/lc_insertfilecontrol.png cmd/lc_filecontrol.png
 cmd/lc_insertctrl.png cmd/lc_inserttable.png
-cmd/lc_insertfilecontrol.png cmd/lc_open.png
 cmd/lc_insertformattedfield.png cmd/lc_formattedfield.png
 cmd/lc_insertformcheck.png cmd/lc_checkbox.png
 cmd/lc_insertformcombo.png cmd/lc_combobox.png
@@ -76,6 +76,7 @@ cmd/lc_insertformula.png cmd/lc_dbviewfunctions.png
 cmd/lc_insertformvscroll.png cmd/lc_scrollbar.png
 cmd/lc_insertframeinteract.png cmd/lc_insertframe.png
 cmd/lc_insertframeinteractnocolumns.png cmd/lc_insertframe.png
+cmd/lc_insertimagecontrol.png cmd/lc_imagecontrol.png
 cmd/lc_insertobjectchart.png cmd/lc_drawchart.png
 cmd/lc_insertnumericfield.png cmd/lc_numberformatstandard.png
 cmd/lc_numericfield.png cmd/lc_numberformatstandard.png
@@ -95,8 +96,8 @@ cmd/sc_insertdatefield.png cmd/sc_datefield.png
 cmd/sc_insertauthorfield.png cmd/sc_dbviewaliases.png
 cmd/sc_insertedit.png cmd/sc_text.png
 cmd/sc_insertfield.png cmd/sc_addfield.png
+cmd/sc_insertfilecontrol.png cmd/sc_filecontrol.png
 cmd/sc_insertctrl.png cmd/sc_inserttable.png
-cmd/sc_insertfilecontrol.png cmd/sc_open.png
 cmd/sc_insertformattedfield.png cmd/sc_formattedfield.png
 cmd/sc_insertformcheck.png cmd/sc_checkbox.png
 cmd/sc_insertformcombo.png cmd/sc_combobox.png
@@ -109,7 +110,7 @@ cmd/sc_scrollbarmenu.png cmd/sc_scrollbar.png
 cmd/sc_insertframeinteract.png cmd/sc_insertframe.png
 cmd/sc_insertframemenu.png cmd/sc_insertframe.png
 cmd/sc_insertframeinteractnocolumns.png cmd/sc_insertframe.png
-cmd/sc_insertimagecontrol.png cmd/sc_drawchart.png
+cmd/sc_insertimagecontrol.png cmd/sc_imagecontrol.png
 cmd/sc_insertobjectchart.png cmd/sc_drawchart.png
 cmd/sc_insertnumericfield.png cmd/sc_numberformatstandard.png
 cmd/sc_numericfield.png cmd/sc_numberformatstandard.png
@@ -154,13 +155,11 @@ cmd/sc_savegraphic.png cmd/sc_save.png
 cmd/sc_recsave.png cmd/sc_save.png
 
 # Text
-cmd/32/fontworkgalleryfloater.png cmd/32/fontwork.png
 cmd/lc_textfittosizetool.png cmd/lc_text_marquee.png
 cmd/lc_texttoolbox.png cmd/lc_text.png
 cmd/lc_drawtext.png cmd/lc_text.png
 cmd/lc_doubleclicktextedit.png cmd/lc_pickthrough.png
 cmd/lc_fontworkcharacterspacingfloater.png cmd/lc_spacing.png
-cmd/lc_fontworkgalleryfloater.png cmd/lc_fontwork.png
 cmd/lc_fontheight.png cmd/lc_scaletext.png
 cmd/sc_textfittosizetool.png cmd/sc_text_marquee.png
 cmd/sc_texttoolbox.png cmd/sc_text.png
@@ -168,7 +167,6 @@ cmd/sc_drawtext.png cmd/sc_text.png
 cmd/sc_edit.png cmd/sc_text.png
 cmd/sc_doubleclicktextedit.png cmd/sc_pickthrough.png
 cmd/sc_fontworkcharacterspacingfloater.png cmd/sc_spacing.png
-cmd/sc_fontworkgalleryfloater.png cmd/sc_fontwork.png
 cmd/sc_fontheight.png cmd/sc_scaletext.png
 
 # Object
@@ -330,10 +328,8 @@ cmd/sc_flowchartshapes.flowchart-magnetic-disk.png cmd/sc_basicshapes.can.png
 # Open
 cmd/lc_openfromwriter.png cmd/lc_open.png
 cmd/lc_openfromcalc.png cmd/lc_open.png
-cmd/lc_filecontrol.png cmd/lc_open.png
 cmd/sc_openfromwriter.png cmd/sc_open.png
 cmd/sc_openfromcalc.png cmd/sc_open.png
-cmd/sc_filecontrol.png cmd/sc_open.png
 
 # Mail Merge
 cmd/lc_dsbformletter.png cmd/lc_mailmergewizard.png
