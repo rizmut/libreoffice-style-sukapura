@@ -919,7 +919,9 @@ cmd/sc_browseforward.png cmd/sc_nextrecord.png
 
 # Macro
 cmd/lc_basicideappear.png cmd/lc_toolsmacroedit.png
+cmd/lc_macrodialog.png cmd/lc_scriptorganizer.png
 cmd/sc_basicideappear.png cmd/sc_toolsmacroedit.png
+cmd/sc_macrodialog.png cmd/sc_scriptorganizer.png
 cmd/sc_macrosmenu.png cmd/sc_choosemacro.png
 
 # Help
@@ -1036,9 +1038,6 @@ cmd/tr/lc_underlinesimple.png cmd/tr/lc_underline.png
 cmd/tr/sc_underlinesimple.png cmd/tr/sc_underline.png
 
 # Slide command aliases
-cmd/lc_insertslide.png cmd/lc_insertpage.png
-cmd/lc_duplicateslide.png cmd/lc_duplicatepage.png
-cmd/lc_deleteslide.png cmd/lc_deletepage.png
 cmd/lc_moveslidefirst.png cmd/lc_movepagefirst.png
 cmd/lc_moveslidelast.png cmd/lc_movepagelast.png
 cmd/lc_moveslideup.png cmd/lc_upsearch.png
@@ -1049,9 +1048,6 @@ cmd/lc_previousslide.png cmd/lc_prevrecord.png
 cmd/lc_nextslide.png cmd/lc_nextrecord.png
 cmd/lc_slidesetup.png cmd/lc_pagesetup.png
 
-cmd/sc_insertslide.png cmd/sc_insertpage.png
-cmd/sc_duplicateslide.png cmd/sc_duplicatepage.png
-cmd/sc_deleteslide.png cmd/sc_deletepage.png
 cmd/sc_moveslidefirst.png cmd/sc_movepagefirst.png
 cmd/sc_moveslidelast.png cmd/sc_movepagelast.png
 cmd/sc_moveslideup.png cmd/sc_upsearch.png
@@ -1306,23 +1302,25 @@ res/sx03256.png cmd/sc_insertplugin.png
 res/sx10594.png cmd/sc_pushbutton.png
 res/sx10595.png cmd/sc_radiobutton.png
 res/sx10596.png cmd/sc_checkbox.png
+res/sx10597.png cmd/sc_label.png
+res/sx10598.png cmd/sc_groupbox.png
 res/sx10599.png cmd/sc_text.png
-res/sx10600.png cmd/lc_listbox.png
+res/sx10600.png cmd/sc_listbox.png
 res/sx10601.png cmd/sc_combobox.png
 res/sx10603.png cmd/sc_grid.png
-
+res/sx10604.png cmd/sc_imagebutton.png
 res/sx10605.png cmd/sc_open.png
 res/sx10704.png cmd/sc_datefield.png
 res/sx10705.png cmd/sc_timefield.png
-res/sx10706.png cmd/sc_text.png
-res/sx10707.png cmd/sc_formattedfield.png
+res/sx10706.png cmd/sc_numberformatstandard.png
+res/sx10707.png cmd/sc_currencyfield.png
+res/sx10708.png cmd/sc_patternfield.png
 res/sx10710.png cmd/sc_imagecontrol.png
 res/sx10715.png cmd/sc_datafilterstandardfilter.png
 res/sx10728.png cmd/sc_formattedfield.png
 res/sx10757.png cmd/sc_timefield.png
-
 res/sx10768.png cmd/sc_scrollbar.png
-res/sx10769.png cmd/sc_scrollbar.png
+res/sx10769.png cmd/sc_spinbutton.png
 res/sx18002.png res/plus.png
 res/sx18003.png res/minus.png
 
