@@ -39,6 +39,19 @@ chart2/res/dataeditor_icon08.png cmd/sc_insertcolumns.png
 chart2/res/dataeditor_icon09.png cmd/sc_insertrowsbefore.png
 chart2/res/selectrange.png formula/res/refinp1.png
 
+cmd/sc_insertmenulegend.png cmd/sc_legend.png
+cmd/sc_insertmenuaxes.png cmd/sc_diagramaxis.png
+cmd/sc_insertmenugrids.png cmd/sc_togglegridhorizontal.png
+cmd/sc_diagramaxisall.png cmd/sc_diagramaxisxyz.png
+cmd/lc_insertmenulegend.png cmd/lc_togglelegend.png
+cmd/lc_insertmenuaxes.png cmd/lc_diagramaxis.png
+cmd/lc_insertmenugrids.png cmd/lc_togglegridhorizontal.png
+cmd/lc_diagramaxisall.png cmd/lc_diagramaxisxyz.png
+
+cmd/sc_charttitlemenu.png cmd/sc_toggletitle.png
+cmd/sc_diagramaxismenu.png cmd/sc_diagramaxis.png
+cmd/sc_diagramgridmenu.png cmd/sc_togglegridhorizontal.png
+
 # cmd
 # ==============================================
 
@@ -129,6 +142,19 @@ cmd/sc_shapesmenu.png cmd/sc_basicshapes.round-quadrat.png
 cmd/sc_charactermenu.png cmd/sc_fontdialog.png
 cmd/sc_paragraphmenu.png cmd/sc_paragraphdialog.png
 cmd/sc_numberingmenu.png cmd/sc_outlinebullet.png
+
+#View Menu
+cmd/32/changesmenu.png cmd/32/trackchanges.png
+cmd/32/showtrackedchanges.png cmd/32/addwatch.png
+cmd/32/viewtrackchanges.png cmd/32/addwatch.png
+
+cmd/sc_changesmenu.png cmd/sc_trackchanges.png
+cmd/sc_showtrackedchanges.png cmd/sc_addwatch.png
+cmd/sc_viewtrackchanges.png cmd/sc_addwatch.png
+
+cmd/lc_changesmenu.png cmd/lc_trackchanges.png
+cmd/lc_showtrackedchanges.png cmd/lc_addwatch.png
+cmd/lc_viewtrackchanges.png cmd/lc_addwatch.png
 
 # Zoom
 cmd/lc_previewzoom.png cmd/lc_zoomprevious.png
@@ -612,6 +638,16 @@ cmd/lc_commonaligntop.png cmd/lc_aligntop.png
 cmd/lc_commonalignverticalcenter.png cmd/lc_alignverticalcenter.png
 cmd/lc_commonalignbottom.png cmd/lc_alignbottom.png
 
+cmd/sc_commonalignleft.png cmd/sc_alignleft.png
+cmd/sc_commonalignhorizontalcenter.png cmd/sc_alignhorizontalcenter.png
+cmd/sc_commonalignright.png cmd/sc_alignright.png
+cmd/sc_commonalignjustified.png cmd/sc_alignblock.png
+
+cmd/lc_commonalignleft.png cmd/lc_alignleft.png
+cmd/lc_commonalignhorizontalcenter.png cmd/lc_alignhorizontalcenter.png
+cmd/lc_commonalignright.png cmd/lc_alignright.png
+cmd/lc_commonalignjustified.png cmd/lc_alignblock.png
+
 # paragraph line spacing drop down
 cmd/lc_linespacing.png cmd/lc_spacepara15.png
 cmd/sc_linespacing.png cmd/sc_spacepara15.png
@@ -1047,6 +1083,9 @@ cmd/lc_lastslide.png cmd/lc_lastrecord.png
 cmd/lc_previousslide.png cmd/lc_prevrecord.png
 cmd/lc_nextslide.png cmd/lc_nextrecord.png
 cmd/lc_slidesetup.png cmd/lc_pagesetup.png
+cmd/lc_insertpagefield.png cmd/lc_insertpagenumberfield.png
+cmd/lc_insertpagesfield.png cmd/lc_insertpagenumberfield.png
+cmd/lc_insertpagetitlefield.png cmd/lc_inserttitlefield.png
 
 cmd/sc_moveslidefirst.png cmd/sc_movepagefirst.png
 cmd/sc_moveslidelast.png cmd/sc_movepagelast.png
@@ -1061,11 +1100,14 @@ cmd/sc_insertslidenumber.png cmd/sc_insertpagenumberfield.png
 cmd/sc_insertslidefield.png cmd/sc_insertpagenumberfield.png
 cmd/sc_insertslidesfield.png cmd/sc_insertpagecountfield.png
 cmd/sc_insertslidetitlefield.png cmd/sc_inserttitlefield.png
+cmd/sc_insertpagetitlefield.png cmd/sc_inserttitlefield.png
 cmd/sc_insertfilefield.png cmd/sc_open.png
 cmd/sc_insertdatefieldfix.png cmd/sc_datefield.png
 cmd/sc_insertdatefieldvar.png cmd/sc_datefield.png
 cmd/sc_inserttimefieldfix.png cmd/sc_timefield.png
 cmd/sc_inserttimefieldvar.png cmd/sc_timefield.png
+cmd/sc_insertpagefield.png cmd/sc_insertpagenumberfield.png
+cmd/sc_insertpagesfield.png cmd/sc_insertpagenumberfield.png
 
 # dbaccess
 # ==============================================
@@ -1377,6 +1419,7 @@ sc/res/sidebar/sc_alignleft.png cmd/sc_alignleft.png
 sc/res/sidebar/sc_alignright.png cmd/sc_alignright.png
 sc/res/sidebar/sc_aligntop.png cmd/sc_aligntop.png
 sc/res/droplink.png cmd/sc_insertbookmark.png
+cmd/sc_insertanchor.png cmd/sc_insertbookmark.png
 
 # sd
 # ==============================================
@@ -1808,3 +1851,40 @@ cmd/lc_tableevents.png cmd/lc_animationeffects.png
 cmd/sc_sheetlefttoright.png cmd/sc_paralefttoright.png
 cmd/sc_sheetrighttoleft.png cmd/sc_pararighttoleft.png
 cmd/sc_tableevents.png cmd/sc_animationeffects.png
+
+# Macro
+cmd/32/macrosmenu.png cmd/32/choosemacro.png
+cmd/32/basicideappear.png cmd/32/toolsmacroedit.png
+
+cmd/lc_macrosmenu.png cmd/lc_choosemacro.png
+cmd/lc_basicideappear.png cmd/lc_toolsmacroedit.png
+
+cmd/sc_macrosmenu.png cmd/sc_choosemacro.png
+cmd/sc_basicideappear.png cmd/sc_toolsmacroedit.png
+
+cmd/lc_donation.png cmd/lc_currencyfield.png
+cmd/sc_donation.png cmd/sc_currencyfield.png
+
+# Calc Style
+cmd/lc_defaultcellstyles.png cmd/lc_defaultcharstyle.png
+cmd/sc_defaultcellstyles.png cmd/sc_defaultcharstyle.png
+cmd/lc_heading1cellstyles.png cmd/lc_heading1parastyle.png
+cmd/sc_heading1cellstyles.png cmd/sc_heading1parastyle.png
+cmd/lc_heading2cellstyles.png cmd/lc_heading2parastyle.png
+cmd/sc_heading2cellstyles.png cmd/sc_heading2parastyle.png
+cmd/lc_footnotecellstyles.png cmd/lc_insertfootnote.png
+cmd/sc_footnotecellstyles.png cmd/sc_insertfootnote.png
+cmd/lc_notecellstyles.png cmd/lc_showannotations.png
+cmd/sc_notecellstyles.png cmd/sc_showannotations.png
+
+# menubar icons
+cmd/sc_focustofindbar.png cmd/sc_recsearch.png
+cmd/sc_macroorganizer%3ftabid%3ashort=1.png cmd/sc_open.png
+cmd/sc_com.sun.star.deployment.ui.packagemanagerdialog.png cmd/sc_insertplugin.png
+cmd/sc_formatobjectmenu.png cmd/sc_text.png
+cmd/sc_textattributes.png cmd/sc_text.png
+
+# calc styles
+cmd/sc_badcellstyles.png cmd/sc_badcellstyle.png
+cmd/sc_goodcellstyles.png cmd/sc_goodcellstyle.png
+cmd/sc_neutralcellstyles.png cmd/sc_neutralcellstyle.png
