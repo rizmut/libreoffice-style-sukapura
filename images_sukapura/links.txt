@@ -1888,3 +1888,22 @@ cmd/sc_textattributes.png cmd/sc_text.png
 cmd/sc_badcellstyles.png cmd/sc_badcellstyle.png
 cmd/sc_goodcellstyles.png cmd/sc_goodcellstyle.png
 cmd/sc_neutralcellstyles.png cmd/sc_neutralcellstyle.png
+
+# Edit menu
+
+cmd/32/editpastespecialmenu.png cmd/32/pastespecial.png
+cmd/32/insertcontents.png cmd/32/pastespecial.png
+cmd/32/pastespecialmenu.png cmd/32/pastespecial.png
+
+cmd/lc_editpastespecialmenu.png cmd/lc_pastespecial.png
+cmd/lc_insertcontents.png cmd/lc_pastespecial.png
+cmd/lc_pastespecialmenu.png cmd/lc_pastespecial.png
+
+cmd/sc_editpastespecialmenu.png cmd/sc_pastespecial.png
+cmd/sc_insertcontents.png cmd/sc_pastespecial.png
+cmd/sc_pastespecialmenu.png cmd/sc_pastespecial.png
+
+# Tools menu
+cmd/32/languagemenu.png cmd/32/managelanguage.png
+cmd/lc_languagemenu.png cmd/lc_managelanguage.png
+cmd/sc_languagemenu.png cmd/sc_managelanguage.png
