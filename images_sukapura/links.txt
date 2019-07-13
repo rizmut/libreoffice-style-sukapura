@@ -221,10 +221,6 @@ cmd/sc_doubleclicktextedit.png cmd/sc_pickthrough.png
 cmd/sc_fontworkcharacterspacingfloater.png cmd/sc_spacing.png
 cmd/sc_fontheight.png cmd/sc_scaletext.png
 
-# Object
-cmd/lc_objectcatalog.png cmd/lc_dbnewform.png
-cmd/sc_objectcatalog.png cmd/sc_dbnewform.png
-
 # 3d
 cmd/lc_view3d.png cmd/lc_cube.png
 cmd/lc_objects3dtoolbox.png cmd/lc_cube.png
