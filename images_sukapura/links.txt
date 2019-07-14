@@ -270,8 +270,8 @@ cmd/sc_insertannotation.png cmd/sc_shownote.png
 cmd/lc_insertannotation.png cmd/lc_shownote.png
 cmd/sc_deletenote.png cmd/sc_deleteannotation.png
 cmd/lc_deletenote.png cmd/lc_deleteannotation.png
-cmd/sc_showchanges.png cmd/sc_addwatch.png
-cmd/lc_showchanges.png cmd/lc_addwatch.png
+cmd/sc_showchanges.png cmd/sc_showtrackedchanges.png
+cmd/lc_showchanges.png cmd/lc_showtrackedchanges.png
 cmd/sc_acceptchanges.png cmd/sc_trackchangesbar.png
 cmd/lc_acceptchanges.png cmd/lc_trackchangesbar.png
 cmd/sc_commentchange.png cmd/sc_commentchangetracking.png
@@ -806,9 +806,8 @@ cmd/lc_toggleaxisdescr.png cmd/lc_helplinesvisible.png
 cmd/sc_toggleaxisdescr.png cmd/sc_helplinesvisible.png
 
 # Grid
-cmd/lc_gridvisible.png cmd/lc_griduse.png
-cmd/sc_gridvisible.png cmd/sc_griduse.png
-cmd/sc_gridmenu.png cmd/sc_griduse.png
+cmd/lc_gridmenu.png cmd/lc_gridvisible.png
+cmd/sc_gridmenu.png cmd/sc_gridvisible.png
 cmd/sc_insertgridcontrol.png cmd/sc_insertspreadsheet.png
 cmd/lc_insertgridcontrol.png cmd/lc_insertspreadsheet.png
 
