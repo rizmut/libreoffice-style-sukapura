@@ -81,7 +81,6 @@ cmd/lc_charactermenu.png cmd/lc_fontdialog.png
 cmd/lc_fieldmenu.png cmd/lc_addfield.png
 cmd/lc_graphicmenu.png cmd/lc_avmediaplayer.png
 cmd/lc_insobjctrl.png cmd/lc_newdoc.png
-cmd/lc_insert.png cmd/lc_insertspreadsheet.png
 cmd/lc_insertavmedia.png cmd/lc_avmediaplayer.png
 cmd/lc_insertcurrencyfield.png cmd/lc_formattedfield.png
 cmd/lc_insertdatefield.png cmd/lc_datefield.png
@@ -125,7 +124,6 @@ cmd/sc_charactermenu.png cmd/sc_fontdialog.png
 cmd/sc_fieldmenu.png cmd/sc_addfield.png
 cmd/sc_graphicmenu.png cmd/sc_avmediaplayer.png
 cmd/sc_insobjctrl.png cmd/sc_newdoc.png
-cmd/sc_insert.png cmd/sc_insertspreadsheet.png
 cmd/sc_insertavmedia.png cmd/sc_avmediaplayer.png
 cmd/sc_insertcurrencyfield.png cmd/sc_formattedfield.png
 cmd/sc_insertdatefield.png cmd/sc_datefield.png
@@ -281,6 +279,8 @@ cmd/lc_deleteallnotes.png cmd/lc_deleteallannotation.png
 cmd/sc_formatallnotes.png cmd/sc_editannotation.png
 cmd/lc_showallnotes.png cmd/lc_showannotations.png
 cmd/sc_showallnotes.png cmd/sc_showannotations.png
+cmd/lc_notevisible.png cmd/lc_shownote.png
+cmd/sc_notevisible.png cmd/sc_shownote.png
 
 # Template Menu
 cmd/sc_templatemenu.png cmd/sc_adddirect.png
@@ -312,12 +312,10 @@ cmd/sc_sectionalignbottom.png cmd/sc_aligndown.png
 cmd/sc_alignhorizontalceter.png cmd/sc_alignhorizontalcenter.png
 
 # Graphic
-cmd/lc_grafgamma.png cmd/lc_graphicfilterinvert.png
 cmd/lc_graphicfilterposter.png cmd/lc_graphicdialog.png
 cmd/lc_grafmode.png cmd/lc_graphicdialog.png
 cmd/lc_grafinvert.png cmd/lc_graphicfilterinvert.png
 cmd/lc_colorview.png cmd/lc_graphicfilterinvert.png
-cmd/sc_grafgamma.png cmd/sc_graphicfilterinvert.png
 cmd/sc_graphicfilterposter.png cmd/sc_graphicdialog.png
 cmd/sc_grafmode.png cmd/sc_graphicdialog.png
 cmd/sc_grafinvert.png cmd/sc_graphicfilterinvert.png
@@ -499,10 +497,8 @@ cmd/sc_fieldnames.png cmd/sc_addfield.png
 
 # Edit
 cmd/lc_quickedit.png cmd/lc_editdoc.png
-cmd/lc_renamemasterpage.png cmd/lc_slidemasterpage.png
 cmd/lc_dsbeditdoc.png cmd/lc_editdoc.png
 cmd/sc_solidcreate.png cmd/sc_editdoc.png
-cmd/sc_renamemasterpage.png cmd/sc_slidemasterpage.png
 cmd/sc_quickedit.png cmd/sc_editdoc.png
 cmd/sc_dsbeditdoc.png cmd/sc_editdoc.png
 
@@ -964,10 +960,17 @@ cmd/sc_browsebackward cmd/lc_prevrecord.png
 cmd/sc_browseforward.png cmd/sc_nextrecord.png
 
 # Macro
+cmd/32/macrodialog.png cmd/32/scriptorganizer.png
+cmd/32/macrosmenu.png cmd/32/choosemacro.png
+cmd/32/toolsmacroedit.png cmd/32/basicideappear.png
+
 cmd/lc_macrodialog.png cmd/lc_scriptorganizer.png
 cmd/lc_macrosmenu.png cmd/lc_choosemacro.png
+cmd/lc_toolsmacroedit.png cmd/lc_basicideappear.png
+
 cmd/sc_macrodialog.png cmd/sc_scriptorganizer.png
 cmd/sc_macrosmenu.png cmd/sc_choosemacro.png
+cmd/sc_toolsmacroedit.png cmd/sc_basicideappear.png
 
 # Help
 cmd/sc_about.png res/mainapp_16.png
@@ -989,7 +992,6 @@ cmd/lc_tableautofitmenu.png cmd/lc_setoptimalrowheight.png
 cmd/lc_tabledeletemenu.png cmd/lc_deletetable.png
 cmd/lc_tablemenu.png cmd/lc_inserttable.png
 cmd/lc_tableinsertmenu.png cmd/lc_insertrowsafter.png
-cmd/lc_tableselectall.png cmd/lc_selecttable.png
 cmd/lc_tableselectmenu.png cmd/lc_selecttable.png
 
 cmd/sc_inscellsctrl.png cmd/sc_inserttable.png
@@ -999,7 +1001,6 @@ cmd/sc_tableautofitmenu.png cmd/sc_setoptimalrowheight.png
 cmd/sc_tabledeletemenu.png cmd/sc_deletetable.png
 cmd/sc_tablemenu.png cmd/sc_inserttable.png
 cmd/sc_tableinsertmenu.png cmd/sc_insertrowsafter.png
-cmd/sc_tableselectall.png cmd/sc_selecttable.png
 cmd/sc_tableselectmenu.png cmd/sc_selecttable.png
 
 # Help
@@ -1354,7 +1355,7 @@ res/sc10864.png cmd/sc_grafcontrast.png
 res/sc10865.png cmd/sc_grafred.png
 res/sc10866.png cmd/sc_grafgreen.png
 res/sc10867.png cmd/sc_grafblue.png
-res/sc10868.png cmd/sc_graphicfilterinvert.png
+res/sc10868.png cmd/sc_grafgamma.png
 res/sc10869.png cmd/sc_graftransparence.png
 
 res/sc_helperdialog.png cmd/sc_helpindex.png
@@ -1370,7 +1371,7 @@ res/sx10598.png cmd/sc_groupbox.png
 res/sx10599.png cmd/sc_text.png
 res/sx10600.png cmd/sc_listbox.png
 res/sx10601.png cmd/sc_combobox.png
-res/sx10603.png cmd/sc_insertspreadsheet.png
+res/sx10603.png cmd/sc_grid.png
 res/sx10604.png cmd/sc_imagebutton.png
 res/sx10605.png cmd/sc_filecontrol.png
 res/sx10607.png cmd/sc_navigationbar.png
@@ -1400,7 +1401,7 @@ sc/res/lc26051.png cmd/lc_ok.png
 sc/res/na09.png cmd/sc_animationeffects.png
 sc/res/na010.png sw/res/sc20234.png
 sc/res/na011.png cmd/sc_ok.png
-sc/res/nc01.png cmd/sc_dbviewtablenames.png
+sc/res/nc01.png cmd/sc_insert.png
 sc/res/nc02.png cmd/sc_dataranges.png
 sc/res/nc03.png cmd/sc_viewdatasourcebrowser.png
 sc/res/nc04.png cmd/sc_insertgraphic.png
@@ -1650,7 +1651,7 @@ svx/res/ColorModeGrey_16x16.png cmd/sc_outputqualitygrayscale.png
 svx/res/AdjustColorBlue_16x16.png cmd/sc_grafblue.png
 svx/res/AdjustColorGreen_16x16.png cmd/sc_grafgreen.png
 svx/res/AdjustColorRed_16x16.png cmd/sc_grafred.png
-svx/res/AdjustColorGamma_16x16.png cmd/sc_graphicfilterinvert.png
+svx/res/AdjustColorGamma_16x16.png cmd/sc_grafgamma.png
 
 svx/res/symphony/lpselected-spacing-1_15.png cmd/lc_spacepara1.png
 svx/res/symphony/lpselected-spacing-1.png cmd/lc_spacepara1.png
@@ -1659,7 +1660,7 @@ svx/res/symphony/lpselected-spacing-2.png cmd/lc_spacepara2.png
 svx/res/symphony/lpsmall-spacing-1.png cmd/lc_spacepara1.png
 
 svx/res/symphony/AdjustColorBlue_16x16.png cmd/sc_grafblue.png
-svx/res/symphony/AdjustColorGamma_16x16.png cmd/sc_graphicfilterinvert.png
+svx/res/symphony/AdjustColorGamma_16x16.png cmd/sc_grafgamma.png
 svx/res/symphony/AdjustColorGreen_16x16.png cmd/sc_grafgreen.png
 svx/res/symphony/AdjustColorRed_16x16.png cmd/sc_grafred.png
 svx/res/symphony/fill_color.png cmd/sc_backgroundcolor.png
@@ -1787,13 +1788,11 @@ cmd/lc_toolprotectiondocument.png cmd/lc_protect.png
 
 # calc context menu sheettab
 # ==============================================
-cmd/sc_tableselectall.png cmd/sc_selecttable.png
 cmd/sc_tabledeselectall.png cmd/sc_dbviewtablenames.png
 cmd/sc_settabbgcolor.png cmd/sc_backgroundcolor.png
 cmd/sc_sheetrighttoleft.png cmd/sc_pararighttoleft.png
 cmd/sc_tableevents.png cmd/sc_animationeffects.png
 
-cmd/lc_tableselectall.png cmd/lc_selecttable.png
 cmd/lc_tabledeselectall.png cmd/lc_dbviewtablenames.png
 cmd/lc_settabbgcolor.png cmd/lc_backgroundcolor.png
 cmd/lc_sheetrighttoleft.png cmd/lc_pararighttoleft.png
@@ -1840,24 +1839,29 @@ cmd/sc_objectmenu.png cmd/sc_insertframe.png
 
 # writer
 # ===============================================
-cmd/sc_addtextbox.png cmd/sc_insertfixedtext.png
+cmd/32/addtextbox.png cmd/32/insertfixedtext.png
+cmd/32/openxmlfiltersettings cmd/32/managexmlsource.png
 cmd/lc_addtextbox.png cmd/lc_insertfixedtext.png
-
-# draw
-# ===============================================
-cmd/sc_masterpage.png cmd/sc_slidemasterpage.png
-cmd/lc_masterpage.png cmd/lc_slidemasterpage.png
-
-cmd/sc_pagemode.png cmd/sc_normalmultipanegui.png
-cmd/lc_pagemode.png cmd/lc_normalmultipanegui.png
+cmd/lc_openxmlfiltersettings cmd/lc_managexmlsource.png
+cmd/sc_addtextbox.png cmd/sc_insertfixedtext.png
+cmd/sc_openxmlfiltersettings cmd/sc_managexmlsource.png
 
 # Sheet
+cmd/32/selectcolumn.png cmd/32/entirecolumn.png
+cmd/32/selectdata.png cmd/32/selectdb.png
+cmd/32/selectrow.png cmd/32/entirerow.png
 cmd/32/sheetlefttoright.png cmd/32/paralefttoright.png
 cmd/32/sheetrighttoleft.png cmd/32/pararighttoleft.png
 cmd/32/tableevents.png cmd/32/animationeffects.png
+cmd/lc_selectcolumn.png cmd/lc_entirecolumn.png
+cmd/lc_selectdata.png cmd/lc_selectdb.png
+cmd/lc_selectrow.png cmd/lc_entirerow.png
 cmd/lc_sheetlefttoright.png cmd/lc_paralefttoright.png
 cmd/lc_sheetrighttoleft.png cmd/lc_pararighttoleft.png
 cmd/lc_tableevents.png cmd/lc_animationeffects.png
+cmd/sc_selectcolumn.png cmd/sc_entirecolumn.png
+cmd/sc_selectdata.png cmd/sc_selectdb.png
+cmd/sc_selectrow.png cmd/sc_entirerow.png
 cmd/sc_sheetlefttoright.png cmd/sc_paralefttoright.png
 cmd/sc_sheetrighttoleft.png cmd/sc_pararighttoleft.png
 cmd/sc_tableevents.png cmd/sc_animationeffects.png
