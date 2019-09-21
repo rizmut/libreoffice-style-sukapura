@@ -578,26 +578,14 @@ cmd/sc_sendfax.png cmd/sc_print.png
 
 # Delete
 cmd/32/dbclearquery.png cmd/32/delete.png
-cmd/32/dbformdelete.png cmd/32/delete.png
-cmd/32/dbquerydelete.png cmd/32/delete.png
-cmd/32/dbreportdelete.png cmd/32/delete.png
-cmd/32/dbtabledelete.png cmd/32/delete.png
 cmd/32/deletecell.png cmd/32/delete.png
 cmd/32/deleterecord.png cmd/32/delete.png
 
 cmd/lc_dbclearquery.png cmd/lc_delete.png
-cmd/lc_dbformdelete.png cmd/lc_delete.png
-cmd/lc_dbquerydelete.png cmd/lc_delete.png
-cmd/lc_dbreportdelete.png cmd/lc_delete.png
-cmd/lc_dbtabledelete.png cmd/lc_delete.png
 cmd/lc_deletecell.png cmd/lc_delete.png
 cmd/lc_deleterecord.png cmd/lc_delete.png
 
 cmd/sc_dbclearquery.png cmd/sc_delete.png
-cmd/sc_dbformdelete.png cmd/sc_delete.png
-cmd/sc_dbquerydelete.png cmd/sc_delete.png
-cmd/sc_dbreportdelete.png cmd/sc_delete.png
-cmd/sc_dbtabledelete.png cmd/sc_delete.png
 cmd/sc_deletecell.png cmd/sc_delete.png
 cmd/sc_deleterecord.png cmd/sc_delete.png
 
@@ -1544,8 +1532,10 @@ cmd/sc_charbackcolor.png cmd/sc_backcolor.png
 cmd/sc_setdefault.png cmd/sc_resetattributes.png
 
 # Impress
-cmd/sc_slidechangewindow.png sfx2/res/symphony/sidebar-transition-small.png
-cmd/lc_slidechangewindow.png sfx2/res/symphony/sidebar-transition-large.png
+sfx2/res/symphony/sidebar-transition-small.png cmd/sc_animationeffects.png 
+sfx2/res/symphony/sidebar-transition-large.png cmd/lc_animationeffects.png
+cmd/sc_slidechangewindow.png cmd/sc_animationeffects.png
+cmd/lc_slidechangewindow.png cmd/lc_animationeffects.png
 
 # Toggle graphics visibility in Writer
 cmd/32/showgraphics.png cmd/32/graphic.png
