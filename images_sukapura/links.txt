@@ -577,15 +577,12 @@ cmd/sc_sendfax.png cmd/sc_print.png
 
 
 # Delete
-cmd/32/dbclearquery.png cmd/32/delete.png
 cmd/32/deletecell.png cmd/32/delete.png
 cmd/32/deleterecord.png cmd/32/delete.png
 
-cmd/lc_dbclearquery.png cmd/lc_delete.png
 cmd/lc_deletecell.png cmd/lc_delete.png
 cmd/lc_deleterecord.png cmd/lc_delete.png
 
-cmd/sc_dbclearquery.png cmd/sc_delete.png
 cmd/sc_deletecell.png cmd/sc_delete.png
 cmd/sc_deleterecord.png cmd/sc_delete.png
 
@@ -699,11 +696,6 @@ cmd/32/bezieredge.png cmd/32/bezierappend.png
 cmd/lc_bezieredge.png cmd/lc_bezierappend.png
 cmd/sc_bezieredge.png cmd/sc_bezierappend.png
 
-# Label
-cmd/32/addname.png cmd/32/label.png
-cmd/lc_addname.png cmd/lc_label.png
-cmd/sc_addname.png cmd/sc_label.png
-
 # Rotate
 cmd/32/clickchangerotation.png cmd/32/toggleobjectrotatemode.png
 cmd/lc_clickchangerotation.png cmd/lc_toggleobjectrotatemode.png
@@ -759,11 +751,6 @@ cmd/lc_modifypage.png cmd/lc_pagedialog.png
 
 cmd/sc_insertobjctrl.png cmd/sc_drawchart.png
 cmd/sc_modifypage.png cmd/sc_pagedialog.png
-
-# Link
-cmd/32/edithyperlink.png cmd/32/inserthyperlink.png
-cmd/lc_edithyperlink.png cmd/lc_inserthyperlink.png
-cmd/sc_edithyperlink.png cmd/sc_inserthyperlink.png
 
 # Outline
 cmd/32/outlinedown.png cmd/32/movedown.png
@@ -1415,18 +1402,15 @@ cmd/sc_reportnavigator.png cmd/sc_navigator.png
 
 # Database
 cmd/32/dbdtableedit.png cmd/32/dbtableedit.png
-cmd/32/dbnewquerysql.png cmd/32/sbanativesql.png
 cmd/32/dbnewview.png cmd/32/dbchangedesignmode.png
 cmd/32/dbrelationdesign.png cmd/32/dbaddrelation.png
 cmd/32/diagramdata.png cmd/32/viewdatasourcebrowser.png
 
 cmd/lc_dbdtableedit.png cmd/lc_dbtableedit.png
-cmd/lc_dbnewquerysql.png cmd/lc_sbanativesql.png
 cmd/lc_dbnewview.png cmd/lc_dbchangedesignmode.png
 cmd/lc_dbrelationdesign.png cmd/lc_dbaddrelation.png
 
 cmd/sc_dbdtableedit.png cmd/sc_dbtableedit.png
-cmd/sc_dbnewquerysql.png cmd/sc_sbanativesql.png
 cmd/sc_dbnewview.png cmd/sc_dbchangedesignmode.png
 cmd/sc_dbrelationdesign.png cmd/sc_dbaddrelation.png
 cmd/sc_diagramdata.png cmd/sc_viewdatasourcebrowser.png
@@ -1907,7 +1891,7 @@ res/sc10869.png cmd/sc_graftransparence.png
 res/sc_helperdialog.png cmd/sc_helpindex.png
 
 res/sx03189.png cmd/sc_open.png
-res/sx03202.png cmd/sc_viewdatasourcebrowser.png
+res/sx03202.png cmd/sc_dbviewqueries.png
 res/sx03256.png cmd/sc_insertplugin.png
 res/sx10594.png cmd/sc_pushbutton.png
 res/sx10595.png cmd/sc_radiobutton.png
@@ -1948,8 +1932,8 @@ sc/res/na09.png cmd/sc_animationeffects.png
 sc/res/na010.png sw/res/sc20234.png
 sc/res/na011.png cmd/sc_ok.png
 sc/res/nc01.png cmd/sc_show.png
-sc/res/nc02.png cmd/sc_dataranges.png
-sc/res/nc03.png cmd/sc_viewdatasourcebrowser.png
+sc/res/nc02.png cmd/sc_addname.png
+sc/res/nc03.png cmd/sc_changedatabasefield.png
 sc/res/nc04.png cmd/sc_insertgraphic.png
 sc/res/nc05.png cmd/sc_insertobject.png
 sc/res/nc06.png cmd/sc_shownote.png
@@ -2245,7 +2229,7 @@ sw/res/sc20172.png cmd/sc_prevrecord.png
 sw/res/sc20173.png cmd/sc_nextrecord.png
 sw/res/sc20174.png cmd/sc_upsearch.png
 sw/res/sc20175.png cmd/sc_nextrecord.png
-sw/res/sc20182.png cmd/sc_anchormenu.png
+sw/res/sc20182.png cmd/sc_toggleanchortype.png
 sw/res/sc20186.png cmd/sc_prevrecord.png
 sw/res/sc20233.png cmd/sc_ok.png
 sw/res/sc20235.png cmd/sc_inserthyperlinkcontrol.png
@@ -2412,13 +2396,13 @@ cmd/sc_objectmenu.png cmd/sc_insertframe.png
 # writer
 # ===============================================
 cmd/32/addtextbox.png cmd/32/insertfixedtext.png
-cmd/32/openxmlfiltersettings cmd/32/managexmlsource.png
+cmd/32/openxmlfiltersettings.png cmd/32/managexmlsource.png
 
 cmd/lc_addtextbox.png cmd/lc_insertfixedtext.png
-cmd/lc_openxmlfiltersettings cmd/lc_managexmlsource.png
+cmd/lc_openxmlfiltersettings.png cmd/lc_managexmlsource.png
 
 cmd/sc_addtextbox.png cmd/sc_insertfixedtext.png
-cmd/sc_openxmlfiltersettings cmd/sc_managexmlsource.png
+cmd/sc_openxmlfiltersettings.png cmd/sc_managexmlsource.png
 
 
 # Writer menu: MSO compatible Form menu
