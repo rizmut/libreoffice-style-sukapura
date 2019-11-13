@@ -97,7 +97,7 @@ cmd/32/fieldmenu.png cmd/32/addfield.png
 cmd/32/graphicmenu.png cmd/32/avmediaplayer.png
 cmd/32/insobjctrl.png cmd/32/newdoc.png
 cmd/32/insertavmedia.png cmd/32/avmediaplayer.png
-cmd/32/insertcurrencyfield.png cmd/32/formattedfield.png
+cmd/32/insertcurrencyfield.png cmd/32/currencyfield.png
 cmd/32/insertdatefield.png cmd/32/datefield.png
 cmd/32/insertauthorfield.png cmd/32/dbviewaliases.png
 cmd/32/insertedit.png cmd/32/edit.png
@@ -140,7 +140,7 @@ cmd/lc_fieldmenu.png cmd/lc_addfield.png
 cmd/lc_graphicmenu.png cmd/lc_avmediaplayer.png
 cmd/lc_insobjctrl.png cmd/lc_newdoc.png
 cmd/lc_insertavmedia.png cmd/lc_avmediaplayer.png
-cmd/lc_insertcurrencyfield.png cmd/lc_formattedfield.png
+cmd/lc_insertcurrencyfield.png cmd/lc_currencyfield.png
 cmd/lc_insertdatefield.png cmd/lc_datefield.png
 cmd/lc_insertauthorfield.png cmd/lc_dbviewaliases.png
 cmd/lc_insertedit.png cmd/lc_edit.png
@@ -183,7 +183,7 @@ cmd/sc_fieldmenu.png cmd/sc_addfield.png
 cmd/sc_graphicmenu.png cmd/sc_avmediaplayer.png
 cmd/sc_insobjctrl.png cmd/sc_newdoc.png
 cmd/sc_insertavmedia.png cmd/sc_avmediaplayer.png
-cmd/sc_insertcurrencyfield.png cmd/sc_formattedfield.png
+cmd/sc_insertcurrencyfield.png cmd/sc_currencyfield.png
 cmd/sc_insertdatefield.png cmd/sc_datefield.png
 cmd/sc_insertauthorfield.png cmd/sc_dbviewaliases.png
 cmd/sc_insertedit.png cmd/sc_edit.png
@@ -305,13 +305,13 @@ cmd/sc_objects3dtoolbox.png cmd/sc_cube.png
 cmd/sc_view3d.png cmd/sc_cube.png
 
 # Control
-cmd/32/choosecontrols.png cmd/32/controlproperties.png
+cmd/32/config.png cmd/32/choosecontrols.png
 cmd/32/optionstreedialog.png cmd/32/controlproperties.png
 
-cmd/lc_choosecontrols.png cmd/lc_controlproperties.png
+cmd/lc_config.png cmd/lc_choosecontrols.png
 cmd/lc_optionstreedialog.png cmd/lc_controlproperties.png
 
-cmd/sc_choosecontrols.png cmd/sc_controlproperties.png
+cmd/sc_config.png cmd/sc_choosecontrols.png
 cmd/sc_optionstreedialog.png cmd/sc_controlproperties.png
 
 # Formatmenu
