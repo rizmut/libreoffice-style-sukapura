@@ -1294,11 +1294,11 @@ cmd/sc_connectortoolbox.png cmd/sc_connector.png
 
 # Time
 cmd/32/numberformattime.png cmd/32/timefield.png
-cmd/32/rehearsetimings.png cmd/32/timefield.png
+cmd/32/rehearsetimings.png cmd/32/diatime.png
 cmd/lc_numberformattime.png cmd/lc_timefield.png
-cmd/lc_rehearsetimings.png cmd/lc_timefield.png
+cmd/lc_rehearsetimings.png cmd/lc_diatime.png
 cmd/sc_numberformattime.png cmd/sc_timefield.png
-cmd/sc_rehearsetimings.png cmd/sc_timefield.png
+cmd/sc_rehearsetimings.png cmd/sc_diatime.png
 
 # Arrange
 cmd/32/arrangeframemenu.png cmd/32/bringtofront.png
@@ -1441,6 +1441,7 @@ cmd/lc_symbolcatalogue.png cmd/lc_insertsymbol.png
 cmd/sc_symbolcatalogue.png cmd/sc_insertsymbol.png
 
 # Plugin
+cmd/32/pluginsactive.png cmd/32/insertplugin.png
 cmd/lc_pluginsactive.png cmd/lc_insertplugin.png
 cmd/sc_pluginsactive.png cmd/sc_insertplugin.png
 
@@ -1506,10 +1507,8 @@ cmd/sc_charbackcolor.png cmd/sc_backcolor.png
 cmd/sc_setdefault.png cmd/sc_resetattributes.png
 
 # Impress
-sfx2/res/symphony/sidebar-transition-small.png cmd/sc_animationeffects.png 
-sfx2/res/symphony/sidebar-transition-large.png cmd/lc_animationeffects.png
-cmd/sc_slidechangewindow.png cmd/sc_animationeffects.png
-cmd/lc_slidechangewindow.png cmd/lc_animationeffects.png
+sfx2/res/symphony/sidebar-transition-small.png cmd/sc_slidechangewindow.png
+sfx2/res/symphony/sidebar-transition-large.png cmd/lc_slidechangewindow.png
 
 # Toggle graphics visibility in Writer
 cmd/32/showgraphics.png cmd/32/graphic.png
@@ -1693,6 +1692,8 @@ res/tables_32.png cmd/32/dbviewtables.png
 # desktop
 # ==============================================
 desktop/res/caution_16.png dbaccess/res/exwarning.png
+desktop/res/extension_16.png cmd/sc_insertplugin.png
+desktop/res/extension_32.png cmd/32/insertplugin.png
 desktop/res/info_16.png cmd/sc_helpindex.png
 desktop/res/lock_16.png cmd/sc_cellprotection.png
 
@@ -1747,6 +1748,8 @@ res/browse.png cmd/sc_browseview.png
 res/baswatr.png cmd/lc_addwatch.png
 res/dir-clos.png cmd/sc_open.png
 res/dir-open.png cmd/sc_open.png
+res/extension_plus_26.png cmd/lc_insertplugin.png
+res/extension_plus_32.png cmd/32/insertplugin.png
 res/fileopen.png cmd/sc_open.png
 res/foldercl.png cmd/sc_open.png
 res/folderop.png cmd/sc_open.png
@@ -1967,6 +1970,12 @@ cmd/sc_insertanchor.png cmd/sc_insertbookmark.png
 
 # sd
 # ==============================================
+sd/res/displaymode_handoutmaster.png cmd/32/handoutmode.png
+sd/res/displaymode_notes.png cmd/32/notesmode.png
+sd/res/displaymode_notesmaster.png cmd/32/notesmasterpage.png
+sd/res/displaymode_slide.png cmd/32/normalmultipanegui.png
+sd/res/displaymode_slidemaster.png cmd/32/slidemasterpage.png
+sd/res/displaymode_slidesorter.png cmd/32/diamode.png
 sd/res/nv02.png cmd/sc_freeline_unfilled.png
 sd/res/nv03.png cmd/sc_firstrecord.png
 sd/res/nv04.png cmd/sc_prevrecord.png
@@ -1986,6 +1995,7 @@ sd/res/ole.png cmd/lc_insertobject.png
 sd/res/page.png cmd/lc_adddirect.png
 sd/res/pipette.png cmd/lc_bmpmask.png
 sd/res/playblue_16.png cmd/sc_runbasic.png
+sd/res/sf01.png cmd/sc_insertdraw.png
 sd/res/stopplayingblue_16.png cmd/sc_basicstop.png
 sd/res/time_16.png cmd/sc_timefield.png
 sd/res/waiticon.png cmd/sc_mediapause.png
@@ -2027,8 +2037,8 @@ sfx2/res/signet.png cmd/sc_signature.png
 
 sfx2/res/symphony/sidebar-3d-large.png cmd/lc_cube.png
 sfx2/res/symphony/sidebar-3d-small.png cmd/sc_cube.png
-sfx2/res/symphony/sidebar-animation-large.png cmd/lc_animationobjects.png
-sfx2/res/symphony/sidebar-animation-small.png cmd/sc_animationobjects.png
+sfx2/res/symphony/sidebar-animation-large.png cmd/lc_diaeffect.png
+sfx2/res/symphony/sidebar-animation-small.png cmd/sc_diaeffect.png
 sfx2/res/symphony/sidebar-colors-large.png cmd/lc_bmpmask.png
 sfx2/res/symphony/sidebar-colors-small.png cmd/sc_bmpmask.png
 sfx2/res/symphony/sidebar-eyedropper-large.png cmd/lc_bmpmask.png
@@ -2243,6 +2253,7 @@ sw/res/sf06.png cmd/sc_inserttable.png
 
 sw/res/sidebar/pageproppanel/last_custom_common.png svx/res/symphony/last_custom_common.png
 sw/res/sidebar/pageproppanel/last_custom_common_grey.png svx/res/symphony/last_custom_common_grey.png
+sw/res/sidebar/pageproppanel/portraitcopy_24x24.png cmd/lc_orientation.png
 
 sw/res/sr20000.png cmd/sc_downsearch.png
 sw/res/sr20001.png cmd/sc_upsearch.png
