@@ -550,13 +550,13 @@ cmd/sc_mergedocument.png cmd/sc_mergedocuments.png
 
 # Layout
 cmd/32/attributepagesize.png cmd/32/ruler.png
-cmd/32/pagecolumntype.png cmd/32/insertsection.png
+cmd/32/insertsection.png cmd/32/pagecolumntype.png
 
 cmd/lc_attributepagesize.png cmd/lc_ruler.png
-cmd/lc_pagecolumntype.png cmd/lc_insertsection.png
+cmd/lc_insertsection.png cmd/lc_pagecolumntype.png
 
 cmd/sc_attributepagesize.png cmd/sc_ruler.png
-cmd/sc_pagecolumntype.png cmd/sc_insertsection.png
+cmd/sc_insertsection.png cmd/sc_pagecolumntype.png
 
 # Print
 cmd/32/previewprintoptions.png cmd/32/printpreview.png
@@ -759,15 +759,12 @@ cmd/sc_outlinedown.png cmd/sc_movedown.png
 cmd/sc_outlineup.png cmd/sc_moveup.png
 
 # Line
-cmd/32/hfixedline.png cmd/32/line.png
 cmd/32/shapeslinemenu.png cmd/32/line.png
 cmd/32/xlinestyle.png cmd/32/linestyle.png
 
-cmd/lc_hfixedline.png cmd/lc_line.png
 cmd/lc_shapeslinemenu.png cmd/lc_line.png
 cmd/lc_xlinestyle.png cmd/lc_linestyle.png
 
-cmd/sc_hfixedline.png cmd/sc_line.png
 cmd/sc_shapeslinemenu.png cmd/sc_line.png
 cmd/sc_xlinestyle.png cmd/sc_linestyle.png
 
@@ -1518,7 +1515,6 @@ cmd/sc_showgraphics.png cmd/sc_graphic.png
 # navigator
 cmd/32/dsbdocumentdatasource.png cmd/32/sbaexecutesql.png
 cmd/32/dsbinsertcolumns.png cmd/32/insertfieldctrl.png
-cmd/32/dsbrowserexplorer.png cmd/32/showfmexplorer.png
 cmd/32/inserttoolbox.png cmd/32/dataimport.png
 cmd/32/savesimple.png cmd/32/save.png
 cmd/32/sbabrwinsert.png cmd/32/insertfieldctrl.png
@@ -1527,7 +1523,6 @@ cmd/32/showpropbrowser.png cmd/32/controlproperties.png
 
 cmd/lc_dsbdocumentdatasource.png cmd/lc_sbaexecutesql.png
 cmd/lc_dsbinsertcolumns.png cmd/lc_insertfieldctrl.png
-cmd/lc_dsbrowserexplorer.png cmd/lc_showfmexplorer.png
 cmd/lc_inserttoolbox.png cmd/lc_dataimport.png
 cmd/lc_savesimple.png cmd/lc_save.png
 cmd/lc_sbabrwinsert.png cmd/lc_insertfieldctrl.png
@@ -1536,7 +1531,6 @@ cmd/lc_showpropbrowser.png cmd/lc_controlproperties.png
 
 cmd/sc_dsbdocumentdatasource.png cmd/sc_sbaexecutesql.png
 cmd/sc_dsbinsertcolumns.png cmd/sc_insertfieldctrl.png
-cmd/sc_dsbrowserexplorer.png cmd/sc_showfmexplorer.png
 cmd/sc_inserttoolbox.png cmd/sc_dataimport.png
 cmd/sc_savesimple.png cmd/sc_save.png
 cmd/sc_sbabrwinsert.png cmd/sc_insertfieldctrl.png
@@ -1735,8 +1729,8 @@ reportdesign/res/sc30770.png cmd/sc_cancel.png
 reportdesign/res/sortdown.png cmd/sc_downsearch.png
 reportdesign/res/sortup.png cmd/sc_upsearch.png
 reportdesign/res/sx11047.png cmd/sc_basicshapes.diamond.png
-reportdesign/res/sx12452.png cmd/sc_config.png
-reportdesign/res/sx12453.png cmd/sc_config.png
+reportdesign/res/sx12452.png cmd/sc_choosecontrols.png
+reportdesign/res/sx12453.png cmd/sc_choosecontrols.png
 reportdesign/res/sx12454.png cmd/sc_alignright.png
 reportdesign/res/sx12464.png cmd/sc_dbviewreports.png
 reportdesign/res/sx12594.png cmd/sc_dbviewfunctions.png
@@ -2029,7 +2023,7 @@ sfx2/res/styfam4.png cmd/sc_showsinglepage.png
 sfx2/res/minus.png res/minus.png
 sfx2/res/newex.png res/plus.png
 sfx2/res/plus.png res/plus.png
-sfx2/res/exec_action.png cmd/sc_config.png
+sfx2/res/exec_action.png cmd/sc_runbasic.png
 sfx2/res/doccl.png cmd/sc_newdoc.png
 sfx2/res/search.png cmd/sc_recsearch.png
 sfx2/res/select.png cmd/sc_ok.png
