@@ -2023,7 +2023,7 @@ sfx2/res/styfam4.png cmd/sc_showsinglepage.png
 sfx2/res/minus.png res/minus.png
 sfx2/res/newex.png res/plus.png
 sfx2/res/plus.png res/plus.png
-sfx2/res/exec_action.png cmd/sc_runbasic.png
+sfx2/res/exec_action.png cmd/sc_controlproperties.png
 sfx2/res/doccl.png cmd/sc_newdoc.png
 sfx2/res/search.png cmd/sc_recsearch.png
 sfx2/res/select.png cmd/sc_ok.png
