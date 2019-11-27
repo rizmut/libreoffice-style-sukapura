@@ -118,6 +118,7 @@ cmd/32/insertframeinteract.png cmd/32/insertframe.png
 cmd/32/insertframeinteractnocolumns.png cmd/32/insertframe.png
 cmd/32/insertimagecontrol.png cmd/32/insertgraphic.png
 cmd/32/insertobjectchart.png cmd/32/drawchart.png
+cmd/32/insertobjectdialog.png cmd/32/insertobject.png
 cmd/32/insertnumericfield.png cmd/32/numberformatstandard.png
 cmd/32/numericfield.png cmd/32/numberformatstandard.png
 cmd/32/insertlistbox.png cmd/32/listbox.png
@@ -161,6 +162,7 @@ cmd/lc_insertframeinteract.png cmd/lc_insertframe.png
 cmd/lc_insertframeinteractnocolumns.png cmd/lc_insertframe.png
 cmd/lc_insertimagecontrol.png cmd/lc_insertgraphic.png
 cmd/lc_insertobjectchart.png cmd/lc_drawchart.png
+cmd/lc_insertobjectdialog.png cmd/lc_insertobject.png
 cmd/lc_insertnumericfield.png cmd/lc_numberformatstandard.png
 cmd/lc_numericfield.png cmd/lc_numberformatstandard.png
 cmd/lc_insertlistbox.png cmd/lc_listbox.png
@@ -204,6 +206,7 @@ cmd/sc_insertframeinteract.png cmd/sc_insertframe.png
 cmd/sc_insertframeinteractnocolumns.png cmd/sc_insertframe.png
 cmd/sc_insertimagecontrol.png cmd/sc_insertgraphic.png
 cmd/sc_insertobjectchart.png cmd/sc_drawchart.png
+cmd/sc_insertobjectdialog.png cmd/sc_insertobject.png
 cmd/sc_insertnumericfield.png cmd/sc_numberformatstandard.png
 cmd/sc_insertlistbox.png cmd/sc_listbox.png
 cmd/sc_inserttextframe.png cmd/sc_insertframe.png
@@ -2311,17 +2314,19 @@ cmd/sc_rowoperations.png cmd/sc_entirerow.png
 
 # calc context menu sheettab
 # ==============================================
-
+cmd/32/renametable.png cmd/32/name.png
 cmd/32/settabbgcolor.png cmd/32/backgroundcolor.png
 cmd/32/sheetrighttoleft.png cmd/32/pararighttoleft.png
 cmd/32/tabledeselectall.png cmd/32/dbviewtablenames.png
 cmd/32/tableevents.png cmd/32/animationeffects.png
 
+cmd/lc_renametable.png cmd/lc_name.png
 cmd/lc_settabbgcolor.png cmd/lc_backgroundcolor.png
 cmd/lc_sheetrighttoleft.png cmd/lc_pararighttoleft.png
 cmd/lc_tabledeselectall.png cmd/lc_dbviewtablenames.png
 cmd/lc_tableevents.png cmd/lc_animationeffects.png
 
+cmd/sc_renametable.png cmd/sc_name.png
 cmd/sc_settabbgcolor.png cmd/sc_backgroundcolor.png
 cmd/sc_sheetrighttoleft.png cmd/sc_pararighttoleft.png
 cmd/sc_tabledeselectall.png cmd/sc_dbviewtablenames.png
@@ -2469,19 +2474,19 @@ cmd/32/com.sun.star.deployment.ui.packagemanagerdialog.png cmd/32/insertplugin.p
 cmd/32/focustofindbar.png cmd/32/recsearch.png
 cmd/32/formatobjectmenu.png cmd/32/text.png
 cmd/32/macroorganizer%3ftabid%3ashort=1.png cmd/32/open.png
-cmd/32/textattributes.png cmd/32/text.png
+cmd/32/textattributes.png cmd/32/fontdialog.png
 
 cmd/lc_com.sun.star.deployment.ui.packagemanagerdialog.png cmd/lc_insertplugin.png
 cmd/lc_focustofindbar.png cmd/lc_recsearch.png
 cmd/lc_formatobjectmenu.png cmd/lc_text.png
 cmd/lc_macroorganizer%3ftabid%3ashort=1.png cmd/lc_open.png
-cmd/lc_textattributes.png cmd/lc_text.png
+cmd/lc_textattributes.png cmd/lc_fontdialog.png
 
 cmd/sc_com.sun.star.deployment.ui.packagemanagerdialog.png cmd/sc_insertplugin.png
 cmd/sc_focustofindbar.png cmd/sc_recsearch.png
 cmd/sc_formatobjectmenu.png cmd/sc_text.png
 cmd/sc_macroorganizer%3ftabid%3ashort=1.png cmd/sc_open.png
-cmd/sc_textattributes.png cmd/sc_text.png
+cmd/sc_textattributes.png cmd/sc_fontdialog.png
 
 # calc styles
 cmd/32/badcellstyles.png cmd/32/badcellstyle.png
