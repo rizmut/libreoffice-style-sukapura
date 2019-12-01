@@ -1895,7 +1895,7 @@ res/sx03165.png cmd/sc_save.png
 res/sx03187.png cmd/sc_dbviewtables.png
 res/sx03188.png res/ods_16_8.png
 res/sx03189.png cmd/sc_open.png
-res/sx03201.png cmd/sc_copy.png
+res/sx03201.png cmd/sc_dbviewqueries.png
 res/sx03202.png cmd/sc_copy.png
 res/sx03202.png cmd/sc_dbviewqueries.png
 res/sx03217.png res/odg_16_8.png
