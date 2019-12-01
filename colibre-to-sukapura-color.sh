@@ -22,5 +22,7 @@ do
     sed -i -e 's/#e68497/#d70015/g' "$i" #red
     sed -i -e 's/#76a797/#2a9240/g' "$i" #green
     sed -i -e 's/#588878/#2a9240/g' "$i" #green
+    sed -i -e 's/#9868b9/#8944ab/g' "$i" #purple
+    sed -i -e 's/#d86344/#ad3a00/g' "$i" #dark orange (impress)
 	#convert "$i" -quality 75 "$i"
 done
