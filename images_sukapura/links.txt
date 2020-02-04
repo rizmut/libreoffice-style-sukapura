@@ -1078,15 +1078,12 @@ cmd/sc_exporttoepub.png cmd/sc_exportdirecttoepub.png
 cmd/sc_exporttopdf.png cmd/sc_exportdirecttopdf.png
 
 # Square
-cmd/32/basicshapes.frame.png cmd/32/rect_unfilled.png
 cmd/32/basicshapes.quadrat.png cmd/32/square.png
 cmd/32/flowchartshapes.flowchart-process.png cmd/32/square.png
 
-cmd/lc_basicshapes.frame.png cmd/lc_rect_unfilled.png
 cmd/lc_basicshapes.quadrat.png cmd/lc_square.png
 cmd/lc_flowchartshapes.flowchart-process.png cmd/lc_square.png
 
-cmd/sc_basicshapes.frame.png cmd/sc_rect_unfilled.png
 cmd/sc_basicshapes.quadrat.png cmd/sc_square.png
 cmd/sc_flowchartshapes.flowchart-process.png cmd/sc_square.png
 
