@@ -1,3 +1,4 @@
 build/*.oxt
 build/*.zip
 build/*IconSet/iconsets/*.zip
+.vscode
