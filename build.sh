@@ -63,7 +63,7 @@ find "$PNG_FOLDER" -name "*.svg" -o -name "*.SVG" | while read i;
 do
     rm "$i"
 done
-sed "s/.svg/.png/g" $PNG_FOLDER/links.txt > $PNG_FOLDER/links.txt
+perl -i -pe's/.svg/.png/g' $PNG_FOLDER/links.txt
 # 4 - Create ZIP image for SVG and PNG
 echo "Creating ZIP Images"
 pushd "$SVG_FOLDER" > /dev/null
