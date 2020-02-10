@@ -24,7 +24,7 @@ echo "=> Deleting old $gh_desc extension file ..."
 rm -f "Sukapura-IconSet.oxt"
 echo "=> Create new $gh_desc extension one ..."
 cp "images_sukapura.zip" \
-   "Sukapura-IconSet/iconsets"
+   "Sukapura-IconSet/iconsets/"
 cd "./Sukapura-IconSet"
 zip -r -D Sukapura-IconSet.oxt *
 mv "Sukapura-IconSet.oxt" \
