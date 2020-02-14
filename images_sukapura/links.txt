@@ -296,13 +296,10 @@ cmd/sc_view3d.png cmd/sc_cube.png
 
 # Control
 cmd/32/config.png cmd/32/choosecontrols.png
-cmd/32/optionstreedialog.png cmd/32/controlproperties.png
 
 cmd/lc_config.png cmd/lc_choosecontrols.png
-cmd/lc_optionstreedialog.png cmd/lc_controlproperties.png
 
 cmd/sc_config.png cmd/sc_choosecontrols.png
-cmd/sc_optionstreedialog.png cmd/sc_controlproperties.png
 
 # Formatmenu
 cmd/32/anchormenu.png cmd/32/toggleanchortype.png
@@ -1535,7 +1532,8 @@ svx/res/legtyp3.png cmd/sc_calloutshapes.line-callout-2.png
 svx/res/3dgeo.png cmd/sc_diagramaxisxyz.png
 svx/res/3drepres.png cmd/sc_fillshadow.png
 svx/res/3dtextur.png cmd/sc_graphicfilterpopart.png
-svx/res/3dlight.png cmd/sc_graphicfiltersolarize.png
+svx/res/3dlight.png svx/res/lighton.png
+svx/res/objects.png cmd/sc_objectcatalog.png
 
 # Presentation
 cmd/32/diaauto.png cmd/32/dia.png
@@ -1979,7 +1977,6 @@ reportdesign/res/sx12594.png cmd/sc_dbviewfunctions.png
 # ==============================================
 res/adrbook.png cmd/sc_viewdatasourcebrowser.png
 res/basbrk.png cmd/sc_addwatch.png
-res/baswatr.png cmd/lc_addwatch.png
 res/browse.png cmd/sc_browseview.png
 res/dir-clos.png cmd/sc_open.png
 res/dir-open.png cmd/sc_open.png
@@ -2200,7 +2197,7 @@ sc/res/sc26047.png cmd/sc_dbviewfunctions.png
 sc/res/sc26048.png cmd/sc_autosum.png
 sc/res/sc26050.png cmd/sc_cancel.png
 sc/res/sc26051.png cmd/sc_ok.png
-sc/res/dropurl.png cmd/sc_inserthyperlink.png
+sc/res/dropurl.png cmd/sc_inserthyperlinkcontrol.png
 sc/res/na03.png cmd/sc_dataranges.png
 sc/res/na05.png cmd/sc_upsearch.png
 sc/res/na06.png cmd/sc_downsearch.png
@@ -2212,10 +2209,7 @@ sc/res/file.png cmd/sc_open.png
 sc/res/fx.png cmd/sc_dbviewfunctions.png
 sc/res/page.png cmd/sc_insertpagenumberfield.png
 sc/res/pages.png cmd/sc_insertpagecountfield.png
-sc/res/paste_transpose.png cmd/lc_datadatapilotrun.png
-sc/res/paste_values_formats.png cmd/lc_formatpaintbrush.png
-sc/res/paste_values_only.png cmd/lc_numberformatstandard.png
-sc/res/sf01.png cmd/sc_tabledesign.png
+sc/res/sf01.png cmd/sc_inserttable.png
 sc/res/sf02.png cmd/sc_adddirect.png
 sc/res/table.png cmd/sc_inserttable.png
 sc/res/text.png cmd/sc_text.png
@@ -2264,7 +2258,7 @@ sd/res/waiticon.png cmd/sc_mediapause.png
 # sfx2
 # ==============================================
 sfx2/res/actionaction012.png cmd/lc_recsearch.png
-sfx2/res/actionaction013.png cmd/lc_controlproperties.png
+sfx2/res/actionaction013.png cmd/lc_optionstreedialog.png
 sfx2/res/actiontemplates015.png cmd/lc_ok.png
 sfx2/res/actiontemplates016.png cmd/lc_configuredialog.png
 sfx2/res/actiontemplates018.png cmd/lc_delete.png
@@ -2291,7 +2285,7 @@ sfx2/res/styfam4.png cmd/sc_showsinglepage.png
 sfx2/res/minus.png res/minus.png
 sfx2/res/newex.png res/plus.png
 sfx2/res/plus.png res/plus.png
-sfx2/res/exec_action.png cmd/sc_controlproperties.png
+sfx2/res/exec_action.png cmd/sc_optionstreedialog.png
 sfx2/res/doccl.png cmd/sc_newdoc.png
 sfx2/res/search.png cmd/sc_recsearch.png
 sfx2/res/select.png cmd/sc_ok.png
@@ -2386,10 +2380,6 @@ svx/res/fw08.png cmd/sc_alignhorizontalcenter.png
 svx/res/fw09.png cmd/sc_alignright.png
 svx/res/graphic.png cmd/lc_graphic.png
 
-/svx/res/3dgeo.png cmd/lc_window3d.png
-/svx/res/3dlight.png svx/res/lighton.png
-/svx/res/objects.png cmd/lc_insertdraw.png
-
 svx/res/id01.png cmd/sc_ok.png
 svx/res/id02.png cmd/sc_open.png
 svx/res/id03.png cmd/sc_save.png
@@ -2413,7 +2403,7 @@ svx/res/notcertificate_16.png xmlsecurity/res/notcertificate_16.png
 
 svx/res/nu01.png cmd/sc_ok.png
 svx/res/nu02.png cmd/sc_cancel.png
-svx/res/nu03.png cmd/sc_addwatch.png
+svx/res/nu03.png cmd/sc_shownote.png
 svx/res/nu08.png cmd/sc_cancel.png
 
 svx/res/ole.png cmd/sc_insertobject.png
@@ -2467,7 +2457,7 @@ sw/res/nc20003.png cmd/sc_insertgraphic.png
 sw/res/nc20004.png cmd/sc_insertobject.png
 sw/res/nc20005.png cmd/sc_insertbookmark.png
 sw/res/nc20006.png cmd/sc_insertsection.png
-sw/res/nc20007.png cmd/sc_inserthyperlink.png
+sw/res/nc20007.png cmd/sc_inserthyperlinkcontrol
 sw/res/nc20008.png cmd/sc_insertreferencefield.png
 sw/res/nc20009.png cmd/sc_insertindexesentry.png
 sw/res/nc20010.png cmd/sc_shownote.png
