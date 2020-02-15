@@ -398,6 +398,7 @@ cmd/sc_showchanges.png cmd/sc_showtrackedchanges.png
 cmd/32/ar/bulletliststyle.png cmd/32/ar/defaultbullet.png
 cmd/32/ar/numberliststyle.png cmd/32/ar/defaultnumbering.png
 cmd/32/ar/outlinebullet.png cmd/32/ar/bulletsandnumberingdialog.png
+cmd/32/bg/autoformatmenu.png cmd/32/bg/autocorrectdlg.png
 cmd/32/bg/spellingandgrammardialog.png cmd/32/bg/spelling.png
 cmd/32/bg/spelldialog.png cmd/32/bg/spelling.png
 cmd/32/bg/underline.png cmd/32/ca/underline.png
@@ -516,11 +517,13 @@ cmd/ar/lc_outlinebullet.png cmd//ar/lc_bulletsandnumberingdialog.png
 cmd/ar/sc_bulletliststyle.png cmd/ar/sc_defaultbullet.png
 cmd/ar/sc_numberliststyle.png cmd/ar/sc_defaultnumbering.png
 cmd/ar/sc_outlinebullet.png cmd//ar/sc_bulletsandnumberingdialog.png
+cmd/bg/lc_autoformatmenu.png cmd/bg/lc_autocorrectdlg.png
 cmd/bg/lc_spellingandgrammardialog.png cmd/bg/lc_spelling.png
 cmd/bg/lc_spelldialog.png cmd/bg/lc_spelling.png
 cmd/bg/lc_underline.png cmd/hu/lc_underline.png
 cmd/bg/lc_underlinedouble.png cmd/hu/lc_underlinedouble.png
 cmd/bg/lc_underlinesimple.png cmd/hu/lc_underline.png
+cmd/bg/sc_autoformatmenu.png cmd/bg/sc_autocorrectdlg.png
 cmd/bg/sc_spellingandgrammardialog.png cmd/bg/sc_spelling.png
 cmd/bg/sc_spelldialog.png cmd/bg/sc_spelling.png
 cmd/bg/sc_underline.png cmd/hu/sc_underline.png
