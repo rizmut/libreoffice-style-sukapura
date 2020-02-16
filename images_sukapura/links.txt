@@ -396,6 +396,7 @@ cmd/sc_showchanges.png cmd/sc_showtrackedchanges.png
 
 # Locale
 cmd/32/ar/bulletliststyle.png cmd/32/ar/defaultbullet.png
+cmd/32/ar/linenumberdialog.png cmd/32/ar/linenumberingdialog.png
 cmd/32/ar/numberliststyle.png cmd/32/ar/defaultnumbering.png
 cmd/32/ar/outlinebullet.png cmd/32/ar/bulletsandnumberingdialog.png
 cmd/32/bg/autoformatmenu.png cmd/32/bg/autocorrectdlg.png
@@ -421,7 +422,8 @@ cmd/32/fa/bulletsandnumberingdialog.png cmd/32/ar/bulletsandnumberingdialog.png
 cmd/32/fa/defaultbullet.png cmd/32/ar/defaultbullet.png
 cmd/32/fa/defaultnumbering.png cmd/32/ar/defaultnumbering.png
 cmd/32/fa/insertneutralparagraph.png cmd/32/ar/insertneutralparagraph.png
-cmd/32/fa/linenumberdialog.png cmd/32/ar/linenumberdialog.png
+cmd/32/fa/linenumberdialog.png cmd/32/ar/linenumberingdialog.png
+cmd/32/fa/linenumberingdialog.png cmd/32/ar/linenumberingdialog.png
 cmd/32/fa/numberingstart.png cmd/32/ar/numberingstart.png
 cmd/32/fa/numberliststyle.png cmd/32/ar/defaultnumbering.png
 cmd/32/fa/outlinebullet.png cmd/32/ar/bulletsandnumberingdialog.png
@@ -443,7 +445,8 @@ cmd/32/he/bulletsandnumberingdialog.png cmd/32/ar/bulletsandnumberingdialog.png
 cmd/32/he/defaultbullet.png cmd/32/ar/defaultbullet.png
 cmd/32/he/defaultnumbering.png cmd/32/ar/defaultnumbering.png
 cmd/32/he/insertneutralparagraph.png cmd/32/ar/insertneutralparagraph.png
-cmd/32/he/linenumberdialog.png cmd/32/ar/linenumberdialog.png
+cmd/32/he/linenumberdialog.png cmd/32/ar/linenumberingdialog.png
+cmd/32/he/linenumberingdialog.png cmd/32/ar/linenumberingdialog.pngs
 cmd/32/he/numberingstart.png cmd/32/ar/numberingstart.png
 cmd/32/he/numberliststyle.png cmd/32/ar/defaultnumbering.png
 cmd/32/he/outlinebullet.png cmd/32/ar/bulletsandnumberingdialog.png
@@ -503,7 +506,8 @@ cmd/32/ur/bulletsandnumberingdialog.png cmd/32/ar/bulletsandnumberingdialog.png
 cmd/32/ur/defaultbullet.png cmd/32/ar/defaultbullet.png
 cmd/32/ur/defaultnumbering.png cmd/32/ar/defaultnumbering.png
 cmd/32/ur/insertneutralparagraph.png cmd/32/ar/insertneutralparagraph.png
-cmd/32/ur/linenumberdialog.png cmd/32/ar/linenumberdialog.png
+cmd/32/ur/linenumberdialog.png cmd/32/ar/linenumberingdialog.png
+cmd/32/ur/linenumberingdialog.png cmd/32/ar/linenumberingdialog.png
 cmd/32/ur/numberingstart.png cmd/32/ar/numberingstart.png
 cmd/32/ur/numberliststyle.png cmd/32/ar/defaultnumbering.png
 cmd/32/ur/outlinebullet.png cmd/32/ar/bulletsandnumberingdialog.png
@@ -556,7 +560,8 @@ cmd/fa/lc_bulletsandnumberingdialog.png cmd/ar/lc_bulletsandnumberingdialog.png
 cmd/fa/lc_defaultbullet.png cmd/ar/lc_defaultbullet.png
 cmd/fa/lc_defaultnumbering.png cmd/ar/lc_defaultnumbering.png
 cmd/fa/lc_insertneutralparagraph.png cmd/ar/lc_insertneutralparagraph.png
-cmd/fa/lc_linenumberdialog.png cmd/ar/lc_linenumberdialog.png
+cmd/fa/lc_linenumberdialog.png cmd/ar/lc_linenumberingdialog.png
+cmd/fa/lc_linenumberingdialog.png cmd/ar/sc_linenumberingdialog.png
 cmd/fa/lc_numberingstart.png cmd/ar/lc_numberingstart.png
 cmd/fa/lc_numberliststyle.png cmd/ar/lc_defaultnumbering.png
 cmd/fa/lc_outlinebullet.png cmd/ar/lc_bulletsandnumberingdialog.png
@@ -571,7 +576,8 @@ cmd/fa/sc_bulletsandnumberingdialog.png cmd/ar/sc_bulletsandnumberingdialog.png
 cmd/fa/sc_defaultbullet.png cmd/ar/sc_defaultbullet.png
 cmd/fa/sc_defaultnumbering.png cmd/ar/sc_defaultnumbering.png
 cmd/fa/sc_insertneutralparagraph.png cmd/ar/sc_insertneutralparagraph.png
-cmd/fa/sc_linenumberdialog.png cmd/ar/sc_linenumberdialog.png
+cmd/fa/sc_linenumberdialog.png cmd/ar/sc_linenumberingdialog.png
+cmd/fa/sc_linenumberingdialog.png cmd/ar/sc_linenumberingdialog.png
 cmd/fa/sc_numberingstart.png cmd/ar/sc_numberingstart.png
 cmd/fa/sc_numberliststyle.png cmd/ar/sc_defaultnumbering.png
 cmd/fa/sc_outlinebullet.png cmd/ar/sc_bulletsandnumberingdialog.png
@@ -600,7 +606,8 @@ cmd/he/lc_bulletsandnumberingdialog.png cmd/ar/lc_bulletsandnumberingdialog.png
 cmd/he/lc_defaultbullet.png cmd/ar/lc_defaultbullet.png
 cmd/he/lc_defaultnumbering.png cmd/ar/lc_defaultnumbering.png
 cmd/he/lc_insertneutralparagraph.png cmd/ar/lc_insertneutralparagraph.png
-cmd/he/lc_linenumberdialog.png cmd/ar/lc_linenumberdialog.png
+cmd/he/lc_linenumberdialog.png cmd/ar/sc_linenumberingdialog.png
+cmd/he/lc_linenumberingdialog.png cmd/ar/sc_linenumberingdialog.png
 cmd/he/lc_numberingstart.png cmd/ar/lc_numberingstart.png
 cmd/he/lc_numberliststyle.png cmd/ar/lc_defaultnumbering.png
 cmd/he/lc_outlinebullet.png cmd/ar/lc_bulletsandnumberingdialog.png
@@ -615,7 +622,8 @@ cmd/he/sc_bulletsandnumberingdialog.png cmd/ar/sc_bulletsandnumberingdialog.png
 cmd/he/sc_defaultbullet.png cmd/ar/sc_defaultbullet.png
 cmd/he/sc_defaultnumbering.png cmd/ar/sc_defaultnumbering.png
 cmd/he/sc_insertneutralparagraph.png cmd/ar/sc_insertneutralparagraph.png
-cmd/he/sc_linenumberdialog.png cmd/ar/sc_linenumberdialog.png
+cmd/he/sc_linenumberdialog.png cmd/ar/sc_linenumberingdialog.png
+cmd/he/sc_linenumberingdialog.png cmd/ar/sc_linenumberingdialog.png
 cmd/he/sc_numberingstart.png cmd/ar/sc_numberingstart.png
 cmd/he/sc_numberliststyle.png cmd/ar/sc_defaultnumbering.png
 cmd/he/sc_outlinebullet.png cmd/ar/sc_bulletsandnumberingdialog.png
@@ -720,7 +728,8 @@ cmd/ur/lc_bulletsandnumberingdialog.png cmd/ar/lc_bulletsandnumberingdialog.png
 cmd/ur/lc_defaultbullet.png cmd/ar/lc_defaultbullet.png
 cmd/ur/lc_defaultnumbering.png cmd/ar/lc_defaultnumbering.png
 cmd/ur/lc_insertneutralparagraph.png cmd/ar/lc_insertneutralparagraph.png
-cmd/ur/lc_linenumberdialog.png cmd/ar/lc_linenumberdialog.png
+cmd/ur/lc_linenumberdialog.png cmd/ar/lc_linenumberingdialog.png
+cmd/ur/lc_linenumberingdialog.png cmd/ar/lc_linenumberingdialog.png
 cmd/ur/lc_numberingstart.png cmd/ar/lc_numberingstart.png
 cmd/ur/lc_numberliststyle.png cmd/ar/lc_defaultnumbering.png
 cmd/ur/lc_outlinebullet.png cmd/ar/lc_bulletsandnumberingdialog.png
@@ -735,7 +744,8 @@ cmd/ur/sc_bulletsandnumberingdialog.png cmd/ar/sc_bulletsandnumberingdialog.png
 cmd/ur/sc_defaultbullet.png cmd/ar/sc_defaultbullet.png
 cmd/ur/sc_defaultnumbering.png cmd/ar/sc_defaultnumbering.png
 cmd/ur/sc_insertneutralparagraph.png cmd/ar/sc_insertneutralparagraph.png
-cmd/ur/sc_linenumberdialog.png cmd/ar/sc_linenumberdialog.png
+cmd/ur/sc_linenumberdialog.png cmd/ar/sc_linenumberingdialog.png
+cmd/ur/sc_linenumberingdialog.png cmd/ar/sc_linenumberingdialog.png
 cmd/ur/sc_numberingstart.png cmd/ar/sc_numberingstart.png
 cmd/ur/sc_numberliststyle.png cmd/ar/sc_defaultnumbering.png
 cmd/ur/sc_outlinebullet.png cmd/ar/sc_bulletsandnumberingdialog.png
@@ -988,16 +998,19 @@ cmd/sc_removefilter.png cmd/sc_removefiltersort.png
 # Bullets
 cmd/32/bulletliststyle.png cmd/32/defaultbullet.png
 cmd/32/defaultparastyle.png cmd/32/controlcodes.png
+cmd/32/linenumberdialog.png cmd/32/linenumberingdialog.png
 cmd/32/numberliststyle.png cmd/32/defaultnumbering.png
 cmd/32/outlinebullet.png cmd/32/bulletsandnumberingdialog.png
 
 cmd/lc_bulletliststyle.png cmd/lc_defaultbullet.png
 cmd/lc_defaultparastyle.png cmd/lc_controlcodes.png
+cmd/lc_linenumberdialog.png cmd/lc_linenumberingdialog.png
 cmd/lc_numberliststyle.png cmd/lc_defaultnumbering.png
 cmd/lc_outlinebullet.png cmd/lc_bulletsandnumberingdialog.png
 
 cmd/sc_bulletliststyle.png cmd/sc_defaultbullet.png
 cmd/sc_defaultparastyle.png cmd/sc_controlcodes.png
+cmd/sc_linenumberdialog.png cmd/sc_linenumberingdialog.png
 cmd/sc_numberliststyle.png cmd/sc_defaultnumbering.png
 cmd/sc_outlinebullet.png cmd/sc_bulletsandnumberingdialog.png
 
@@ -1989,15 +2002,18 @@ res/fileopen.png cmd/sc_open.png
 res/foldercl.png cmd/sc_closedocs.png
 res/folderop.png cmd/sc_open.png
 res/fp010.png svtools/res/up_small.png
+res/grafikei.png cmd/sc_graphic.png
 res/harddisk_16.png cmd/sc_open.png
 res/hlinettp.png cmd/32/inserthyperlink.png
 res/im30820.png cmd/sc_scriptorganizer.png
 res/im30821.png cmd/sc_choosemacro.png
+res/im30826.png res/odm_16_8.png
 res/info.png cmd/lc_helpindex.png
 res/info_16.png cmd/sc_helpindex.png
 res/lc05504.png cmd/lc_print.png
 res/lc05509.png cmd/lc_print.png
 res/lc05539.png cmd/lc_designerdialog.png
+res/lc05678.png cmd/lc_inserthyperlinkcontrol.png
 res/lc05700.png cmd/lc_redo.png
 res/lc05701.png cmd/lc_undo.png
 res/lc05710.png cmd/lc_cut.png
@@ -2009,6 +2025,7 @@ res/lc06303.png cmd/lc_firstpage.png
 res/lc10711.png cmd/lc_removefiltersort.png
 res/lc10715.png cmd/lc_datafilterstandardfilter.png
 res/lc10716.png cmd/lc_datafilterautofilter.png
+res/lc10851.png cmd/lc_inserthyperlinkcontrol.png
 res/lc10853.png cmd/lc_recsearch.png
 res/library_16.png cmd/lc_viewdatasourcebrowser.png
 res/lx03123.png res/odp_32_8.png
@@ -2046,6 +2063,7 @@ res/lx03222.png res/odg_32_8.png
 res/lx03226.png res/odm_32_8.png
 res/lx03227.png res/odg_32_8.png
 res/lx03228.png res/otg_32_8.png
+res/lx03242.png res/mainapp_32_8.png
 res/lx03243.png res/odp_16_8.png
 res/lx03245.png res/odb_32_8.png
 res/lx03246.png res/odg_32_8.png
@@ -2104,12 +2122,14 @@ res/sc_helperdialog.png cmd/sc_helpindex.png
 res/sx03123.png res/odp_16_8.png
 res/sx03126.png res/ods_16_8.png
 res/sx03127.png res/ods_16_8.png
+res/sx03129.png res/odb_16_8.png
 res/sx03130.png res/otp_16_8.png
 res/sx03137.png res/sx03125.png
 res/sx03139.png cmd/sc_newhtmldoc.png
 res/sx03140.png res/sx03125.png
 res/sx03144.png res/odf_16_8.png
 res/sx03145.png res/otf_16_8.png
+res/sx03150.png cmd/sc_showsinglepage.png
 res/sx03152.png res/sx03125.png
 res/sx03153.png res/sx03125.png
 res/sx03154.png res/sx03125.png
@@ -2121,6 +2141,7 @@ res/sx03162.png res/odt_16_8.png
 res/sx03163.png res/ott_16_8.png
 res/sx03164.png cmd/sc_open.png
 res/sx03165.png cmd/sc_save.png
+res/sx03167.png cmd/sc_openremote.png
 res/sx03187.png cmd/sc_dbviewtables.png
 res/sx03188.png res/ods_16_8.png
 res/sx03189.png cmd/sc_open.png
@@ -2136,6 +2157,7 @@ res/sx03222.png res/odg_16_8.png
 res/sx03226.png res/odm_16_8.png
 res/sx03227.png res/odg_16_8.png
 res/sx03228.png res/otg_16_8.png
+res/sx03242.png res/mainapp_16_8.png
 res/sx03243.png res/odp_16_8.png
 res/sx03244.png res/odp_16_8.png
 res/sx03245.png res/odb_16_8.png
@@ -2411,6 +2433,8 @@ svx/res/nu08.png cmd/sc_cancel.png
 
 svx/res/ole.png cmd/sc_insertobject.png
 svx/res/persp3d.png cmd/sc_extrusiondirectionfloater.png
+svx/res/para_numbullet_rtl01.png cmd/ar/sc_defaultbullet.png
+svx/res/para_numbullet_rtl02.png cmd/ar/sc_defaultnumbering.png
 svx/res/parallel_16.png cmd/sc_extrusiondepthfloater.png
 svx/res/perspective_16.png cmd/sc_extrusiondirectionfloater.png
 svx/res/reloads.png cmd/sc_reload.png
