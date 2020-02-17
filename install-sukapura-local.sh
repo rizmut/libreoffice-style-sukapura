@@ -30,6 +30,22 @@ zip -r -D Sukapura-IconSet.oxt *
 mv "Sukapura-IconSet.oxt" \
    "./.."
 cd "./../.."
+cd "images_sukapura_svg"
+zip -r -D images_sukapura_svg.zip *
+mv "images_sukapura_svg.zip" \
+  "./../build/"
+cd "./../build/"
+echo "=> Deleting old $gh_desc extension file ..."
+rm -f "Sukapura-SVG-IconSet.oxt"
+echo "=> Create new $gh_desc extension one ..."
+cp "images_sukapura_svg.zip" \
+   "Sukapura-IconSet/iconsets/"
+cd "./Sukapura-SVG-IconSet"
+zip -r -D Sukapura-SVG-IconSet.oxt *
+mv "Sukapura-SVG-IconSet.oxt" \
+   "./.."
+   
+cd "./../.."
 echo "=> Deleting old $gh_desc ..."
 sudo rm -f "/usr/share/libreoffice/share/config/images_sukapura.zip"
 echo "=> Installing ..."
