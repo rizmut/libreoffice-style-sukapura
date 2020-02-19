@@ -1288,6 +1288,7 @@ cmd/32/functionbox.png cmd/32/dbviewfunctions.png
 cmd/32/functiondialog.png cmd/32/dbviewfunctions.png
 cmd/32/insertcell.png cmd/32/insertcellsright.png
 cmd/32/insertcolumnsmenu.png cmd/32/insertcolumns.png
+cmd/32/insertpivottable.png cmd/32/datadatapilotrun.png
 cmd/32/insertrowsmenu.png cmd/32/insertrows.png
 cmd/32/mergecellsmenu.png cmd/32/togglemergecells.png
 cmd/32/numberformatmenu.png cmd/32/numberformatstandard.png
@@ -1306,6 +1307,7 @@ cmd/lc_functionbox.png cmd/lc_dbviewfunctions.png
 cmd/lc_functiondialog.png cmd/lc_dbviewfunctions.png
 cmd/lc_insertcell.png cmd/lc_insertcellsright.png
 cmd/lc_insertcolumnsmenu.png cmd/lc_insertcolumns.png
+cmd/lc_insertpivottable.png cmd/lc_datadatapilotrun.png
 cmd/lc_insertrowsmenu.png cmd/lc_insertrows.png
 cmd/lc_mergecellsmenu.png cmd/lc_togglemergecells.png
 cmd/lc_numberformatmenu.png cmd/lc_numberformatstandard.png
@@ -1324,6 +1326,7 @@ cmd/sc_functionbox.png cmd/sc_dbviewfunctions.png
 cmd/sc_functiondialog.png cmd/sc_dbviewfunctions.png
 cmd/sc_insertcell.png cmd/sc_insertcellsright.png
 cmd/sc_insertcolumnsmenu.png cmd/sc_insertcolumns.png
+cmd/sc_insertpivottable.png cmd/sc_datadatapilotrun.png
 cmd/sc_insertrowsmenu.png cmd/sc_insertrows.png
 cmd/sc_mergecellsmenu.png cmd/sc_togglemergecells.png
 cmd/sc_numberformatmenu.png cmd/sc_numberformatstandard.png
