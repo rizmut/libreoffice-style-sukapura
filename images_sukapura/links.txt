@@ -1374,25 +1374,19 @@ cmd/sc_pageformatdialog.png cmd/sc_pagedialog.png
 
 # Notebookbar
 cmd/32/datafilterhideautofilter.png cmd/32/removefiltersort.png
-cmd/32/dataproviderrefresh.png cmd/32/calculate.png
 cmd/32/headerandfooter.png cmd/32/editheaderandfooter.png
 cmd/32/insertheaderfootermenu.png cmd/32/editheaderandfooter.png
 cmd/32/insertsignatureline.png cmd/32/signaturelinedialog.png
-cmd/32/recalcpivottable.png cmd/32/calculate.png
 
 cmd/lc_datafilterhideautofilter.png cmd/lc_removefiltersort.png
-cmd/lc_dataproviderrefresh.png cmd/lc_calculate.png
 cmd/lc_headerandfooter.png cmd/lc_editheaderandfooter.png
 cmd/lc_insertheaderfootermenu.png cmd/lc_editheaderandfooter.png
 cmd/lc_insertsignatureline.png cmd/lc_signaturelinedialog.png
-cmd/lc_recalcpivottable.png cmd/lc_calculate.png
 
 cmd/sc_datafilterhideautofilter.png cmd/sc_removefiltersort.png
-cmd/sc_dataproviderrefresh.png cmd/sc_calculate.png
 cmd/sc_headerandfooter.png cmd/sc_editheaderandfooter.png
 cmd/sc_insertheaderfootermenu.png cmd/sc_editheaderandfooter.png
 cmd/sc_insertsignatureline.png cmd/sc_signaturelinedialog.png
-cmd/sc_recalcpivottable.png cmd/sc_calculate.png
 
 # Ok
 cmd/32/apply.png cmd/32/ok.png
@@ -1672,7 +1666,6 @@ cmd/sc_setobjecttoforeground.png cmd/sc_bringtofront.png
 # Reload
 cmd/32/draw.png cmd/32/reload.png
 cmd/32/refresh.png cmd/32/reload.png
-cmd/32/refreshformcontrol.png cmd/32/reload.png
 cmd/32/repaginate.png cmd/32/insertpagenumberfield.png
 cmd/32/updateall.png cmd/32/reload.png
 cmd/32/updateallindexes.png cmd/32/insertmultiindex.png
@@ -1684,7 +1677,6 @@ cmd/32/updatemenu.png cmd/32/reload.png
 
 cmd/lc_draw.png cmd/lc_reload.png
 cmd/lc_refresh.png cmd/lc_reload.png
-cmd/lc_refreshformcontrol.png cmd/lc_reload.png
 cmd/lc_repaginate.png cmd/lc_insertpagenumberfield.png
 cmd/lc_updateall.png cmd/lc_reload.png
 cmd/lc_updateallindexes.png cmd/lc_insertmultiindex.png
@@ -1696,7 +1688,6 @@ cmd/lc_updatemenu.png cmd/lc_reload.png
 
 cmd/sc_draw.png cmd/sc_reload.png
 cmd/sc_refresh.png cmd/sc_reload.png
-cmd/sc_refreshformcontrol.png cmd/sc_reload.png
 cmd/sc_repaginate.png cmd/sc_insertpagenumberfield.png
 cmd/sc_updateall.png cmd/sc_reload.png
 cmd/sc_updateallindexes.png cmd/sc_insertmultiindex.png
@@ -1908,7 +1899,7 @@ dbaccess/res/linked_text_table.png cmd/sc_dataimport.png
 
 dbaccess/res/all_left.png cmd/sc_firstrecord.png
 dbaccess/res/all_right.png cmd/sc_lastrecord.png
-dbaccess/res/db.png cmd/sc_viewdatasourcebrowser.png
+dbaccess/res/db.png cmd/sc_changedatabasefield.png
 dbaccess/res/exerror.png cmd/sc_cancel.png
 dbaccess/res/exinfo.png cmd/sc_helpindex.png
 
@@ -1917,10 +1908,12 @@ dbaccess/res/forms_16.png res/dialogfolder_16.png
 dbaccess/res/forms_32.png cmd/32/dbviewforms.png
 
 dbaccess/res/lc036.png cmd/lc_dbnewreport.png
-dbaccess/res/lc037.png cmd/lc_delete.png
-dbaccess/res/lc038.png cmd/lc_editdoc.png
-dbaccess/res/lc039.png cmd/lc_save.png
-dbaccess/res/lc040.png cmd/lc_reload.png
+dbaccess/res/lc037.png cmd/lc_dbreportdelete.png
+dbaccess/res/lc038.png cmd/lc_dbreportedit.png
+
+dbaccess/res/sc036.png cmd/sc_dbnewreport.png
+dbaccess/res/sc037.png cmd/sc_dbreportdelete.png
+dbaccess/res/sc038.png cmd/sc_dbreportedit.png
 
 dbaccess/res/nu07.png cmd/sc_ok.png
 dbaccess/res/nu08.png cmd/sc_cancel.png
@@ -1936,12 +1929,6 @@ res/queries_32.png cmd/32/dbviewqueries.png
 dbaccess/res/report_16.png cmd/sc_dbviewreports.png
 dbaccess/res/reports_16.png res/sx18013.png
 res/reports_32.png cmd/32/dbviewreports.png
-
-dbaccess/res/sc036.png cmd/sc_dbnewreport.png
-dbaccess/res/sc037.png cmd/sc_delete.png
-dbaccess/res/sc038.png cmd/sc_editdoc.png
-dbaccess/res/sc039.png cmd/sc_save.png
-dbaccess/res/sc040.png cmd/sc_reload.png
 
 dbaccess/res/sortdown.png cmd/sc_downsearch.png
 dbaccess/res/sortup.png cmd/sc_upsearch.png
@@ -2036,7 +2023,7 @@ res/lc10715.png cmd/lc_datafilterstandardfilter.png
 res/lc10716.png cmd/lc_datafilterautofilter.png
 res/lc10851.png cmd/lc_inserthyperlinkcontrol.png
 res/lc10853.png cmd/lc_recsearch.png
-res/library_16.png cmd/lc_viewdatasourcebrowser.png
+res/library_16.png cmd/sc_viewdatasourcebrowser.png
 res/lx03123.png res/odp_32_8.png
 res/lx03126.png res/ods_32_8.png
 res/lx03127.png res/ods_32_8.png
