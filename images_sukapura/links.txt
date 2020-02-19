@@ -2586,26 +2586,29 @@ cmd/sc_rowoperations.png cmd/sc_entirerow.png
 
 # calc menu sheet tab
 # ==============================================
+cmd/32/editselectmenu.png cmd/32/selecttables.png
 cmd/32/renametable.png cmd/32/name.png
 cmd/32/settabbgcolor.png cmd/32/backgroundcolor.png
 cmd/32/sheetlefttoright.png cmd/32/paralefttoright.png
 cmd/32/sheetrighttoleft.png cmd/32/pararighttoleft.png
-cmd/32/tabledeselectall.png cmd/32/dbviewtablenames.png
 cmd/32/tableevents.png cmd/32/animationeffects.png
+cmd/32/tableselectmenu.png cmd/32/selecttable.png
 
+cmd/lc_editselectmenu.png cmd/lc_selecttables.png
 cmd/lc_renametable.png cmd/lc_name.png
 cmd/lc_settabbgcolor.png cmd/lc_backgroundcolor.png
 cmd/lc_sheetlefttoright.png cmd/lc_paralefttoright.png
 cmd/lc_sheetrighttoleft.png cmd/lc_pararighttoleft.png
-cmd/lc_tabledeselectall.png cmd/lc_dbviewtablenames.png
 cmd/lc_tableevents.png cmd/lc_animationeffects.png
+cmd/lc_tableselectmenu.png cmd/lc_selecttable.png
 
+cmd/sc_editselectmenu.png cmd/sc_selecttables.png
 cmd/sc_renametable.png cmd/sc_name.png
 cmd/sc_settabbgcolor.png cmd/sc_backgroundcolor.png
 cmd/sc_sheetlefttoright.png cmd/sc_paralefttoright.png
 cmd/sc_sheetrighttoleft.png cmd/sc_pararighttoleft.png
-cmd/sc_tabledeselectall.png cmd/sc_dbviewtablenames.png
 cmd/sc_tableevents.png cmd/sc_animationeffects.png
+cmd/sc_tableselectmenu.png cmd/sc_selecttable.png
 
 # calc context menu rowheader
 # ==============================================
