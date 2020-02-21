@@ -1930,7 +1930,7 @@ dbaccess/res/jo01.png dbaccess/res/pkey.png
 res/queries_32.png cmd/32/dbviewqueries.png
 
 dbaccess/res/report_16.png cmd/sc_dbviewreports.png
-dbaccess/res/reports_16.png res/sx18013.png
+dbaccess/res/reports_16.png res/dialogfolder_16.png
 res/reports_32.png cmd/32/dbviewreports.png
 
 dbaccess/res/sortdown.png cmd/sc_downsearch.png
