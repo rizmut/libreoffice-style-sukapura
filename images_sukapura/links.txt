@@ -2483,17 +2483,12 @@ sw/res/nc20003.png cmd/sc_insertgraphic.png
 sw/res/nc20004.png cmd/sc_insertobject.png
 sw/res/nc20005.png cmd/sc_insertbookmark.png
 sw/res/nc20006.png cmd/sc_insertsection.png
-sw/res/nc20007.png cmd/sc_inserthyperlinkcontrol
+sw/res/nc20007.png cmd/sc_inserthyperlink.png
 sw/res/nc20008.png cmd/sc_insertreferencefield.png
 sw/res/nc20009.png cmd/sc_insertindexesentry.png
 sw/res/nc20010.png cmd/sc_shownote.png
 sw/res/nc20011.png cmd/sc_insertdraw.png
 sw/res/sc20244.png sw/res/sc20234.png
-
-sw/res/re01.png cmd/lc_unsetcellsreadonly.png
-sw/res/re02.png cmd/lc_unsetcellsreadonly.png
-sw/res/re03.png cmd/sc_cellprotection.png
-sw/res/re04.png cmd/sc_cellprotection.png
 
 sw/res/sc20171.png cmd/sc_downsearch.png
 sw/res/sc20172.png cmd/sc_prevrecord.png
@@ -2504,7 +2499,7 @@ sw/res/sc20182.png cmd/sc_toggleanchortype.png
 sw/res/sc20183.png cmd/sc_setreminder.png
 sw/res/sc20186.png cmd/sc_prevrecord.png
 sw/res/sc20233.png cmd/sc_ok.png
-sw/res/sc20235.png cmd/sc_inserthyperlinkcontrol.png
+sw/res/sc20235.png cmd/sc_inserthyperlink.png
 sw/res/sc20238.png cmd/sc_insertbookmark.png
 sw/res/sc20239.png cmd/sc_copy.png
 sw/res/sc20247.png cmd/sc_dataimport.png
@@ -2549,11 +2544,7 @@ svx/res/reload.png cmd/sc_reload.png
 svx/res/time.png cmd/sc_timefield.png
 
 # res
-sw/res/all_left.png cmd/sc_firstrecord.png
-sw/res/all_right.png cmd/sc_lastrecord.png
-sw/res/one_left.png cmd/sc_prevrecord.png
-sw/res/one_right.png cmd/sc_nextrecord.png
-sw/res/page_break.png cmd/lc_insertpagebreak.png
+sw/res/page_break.png cmd/sc_insertpagebreak.png
 sw/res/styfamnu.png cmd/sc_defaultbullet.png
 
 # split cells duplicates
