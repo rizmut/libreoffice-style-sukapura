@@ -2254,6 +2254,7 @@ cmd/sc_insertanchor.png cmd/sc_insertbookmark.png
 sd/res/displaymode_handoutmaster.png cmd/32/handoutmode.png
 sd/res/displaymode_notes.png cmd/32/notesmode.png
 sd/res/displaymode_notesmaster.png cmd/32/notesmasterpage.png
+sd/res/displaymode_outline.png cmd/32/outlinemode.png
 sd/res/displaymode_slide.png cmd/32/normalmultipanegui.png
 sd/res/displaymode_slidemaster.png cmd/32/slidemasterpage.png
 sd/res/displaymode_slidesorter.png cmd/32/diamode.png
