@@ -48,10 +48,14 @@ mv "Sukapura-SVG-IconSet.oxt" \
 cd "./../.."
 echo "=> Deleting old $gh_desc ..."
 sudo rm -f "/usr/share/libreoffice/share/config/images_sukapura.zip"
+sudo rm -f "/usr/share/libreoffice/share/config/images_sukapura_svg.zip"
 echo "=> Installing ..."
 sudo mkdir -p "/usr/share/libreoffice/share/config"
 sudo cp \
   "build/images_sukapura.zip" \
+  "/usr/share/libreoffice/share/config"
+sudo cp \
+  "build/images_sukapura_svg.zip" \
   "/usr/share/libreoffice/share/config"
 for dir in \
   /usr/lib64/libreoffice/share/config \
@@ -60,5 +64,6 @@ for dir in \
   /opt/libreoffice*/share/config; do
   [ -d "$dir" ] || continue
   sudo ln -sf "/usr/share/libreoffice/share/config/images_sukapura.zip" "$dir"
+  sudo ln -sf "/usr/share/libreoffice/share/config/images_sukapura_svg.zip" "$dir"
 done
 echo "=> Done!"
