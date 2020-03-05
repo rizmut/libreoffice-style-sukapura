@@ -2054,7 +2054,7 @@ res/lx03163.png res/ott_32_8.png
 res/lx03164.png cmd/32/open.png
 res/lx03165.png cmd/32/save.png
 res/lx03167.png cmd/32/openremote.png
-res/lx03188.png res/ods_32_8.png
+res/lx03188.png cmd/32/dbviewtables.png
 res/lx03189.png cmd/32/open.png
 res/lx03217.png res/odg_32_8.pn
 res/lx03218.png res/odg_32_8.png
@@ -2145,7 +2145,7 @@ res/sx03164.png cmd/sc_open.png
 res/sx03165.png cmd/sc_save.png
 res/sx03167.png cmd/sc_openremote.png
 res/sx03187.png cmd/sc_dbviewtables.png
-res/sx03188.png res/ods_16_8.png
+res/sx03188.png cmd/sc_dbviewtables.png
 res/sx03189.png cmd/sc_open.png
 res/sx03201.png cmd/sc_dbviewqueries.png
 res/sx03202.png cmd/sc_copy.png
