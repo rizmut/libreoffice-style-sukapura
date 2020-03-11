@@ -32,11 +32,6 @@ chart2/res/dataeditor_icon01.png cmd/sc_insertrowsafter.png
 chart2/res/dataeditor_icon02.png cmd/sc_insertcolumnsafter.png
 chart2/res/dataeditor_icon03.png cmd/sc_deleterows.png
 chart2/res/dataeditor_icon04.png cmd/sc_deletecolumns.png
-chart2/res/dataeditor_icon05.png cmd/sc_insertcellsright.png
-chart2/res/dataeditor_icon06.png cmd/sc_insertcellsdown.png
-chart2/res/dataeditor_icon07.png cmd/sc_insertcolumnsafter.png
-chart2/res/dataeditor_icon08.png cmd/sc_insertcolumns.png
-chart2/res/dataeditor_icon09.png cmd/sc_insertrowsbefore.png
 chart2/res/selectrange.png formula/res/refinp1.png
 
 cmd/32/charttitlemenu.png cmd/32/toggletitle.png
@@ -2420,7 +2415,6 @@ svx/res/symphony/para_numbullet_rtl02.png cmd/ar/sc_defaultnumbering.png
 svx/res/symphony/sch_backgroundcolor.png cmd/sc_backgroundcolor.png
 svx/res/symphony/spacing3.png cmd/sc_spacepara1.png
 svx/res/wireframe_16.png cmd/sc_window3d.png
-svx/res/zoom_page_statusbar.png cmd/sc_zoompanning.png
 
 # sw
 # ==============================================
