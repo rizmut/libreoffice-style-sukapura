@@ -1102,18 +1102,18 @@ cmd/sc_navigateforward.png cmd/sc_nextrecord.png
 cmd/sc_pagedown.png cmd/sc_nextpage.png
 
 # >|
-cmd/32/gotoendofdoc.png cmd/32/lastpage.png
+cmd/32/gotoendofpage.png cmd/32/lastpage.png
 
-cmd/lc_gotoendofdoc.png cmd/lc_lastpage.png
+cmd/lc_gotoendofpage.png cmd/lc_lastpage.png
 
-cmd/sc_gotoendofdoc.png cmd/sc_lastpage.png
+cmd/sc_gotoendofpage.png cmd/sc_lastpage.png
 
 # |<
-cmd/32/gotostartofdoc.png cmd/32/firstpage.png
+cmd/32/gotostartofpage.png cmd/32/firstpage.png
 
-cmd/lc_gotostartofdoc.png cmd/lc_firstpage.png
+cmd/lc_gotostartofpage.png cmd/lc_firstpage.png
 
-cmd/sc_gotostartofdoc.png cmd/sc_firstpage.png
+cmd/sc_gotostartofpage.png cmd/sc_firstpage.png
 
 # Hyperlink
 cmd/32/hyperlinkdialog.png cmd/32/inserthyperlink.png
@@ -1412,16 +1412,19 @@ cmd/sc_flowchartshapes.flowchart-process.png cmd/sc_square.png
 
 # Sort
 cmd/32/ordercrit.png cmd/32/datasort.png
+cmd/32/sortdialog.png cmd/32/datasort.png
 cmd/32/sortdown.png cmd/32/sortdescending.png
 cmd/32/sortup.png cmd/32/sortascending.png
 cmd/32/tablesort.png cmd/32/sortascending.png
 
 cmd/lc_ordercrit.png cmd/lc_datasort.png
+cmd/lc_sortdialog.png cmd/lc_datasort.png
 cmd/lc_sortdown.png cmd/lc_sortdescending.png
 cmd/lc_sortup.png cmd/lc_sortascending.png
 cmd/lc_tablesort.png cmd/lc_sortascending.png
 
 cmd/sc_ordercrit.png cmd/sc_datasort.png
+cmd/sc_sortdialog.png cmd/sc_datasort.png
 cmd/sc_sortdown.png cmd/sc_sortdescending.png
 cmd/sc_sortup.png cmd/sc_sortascending.png
 cmd/sc_tablesort.png cmd/sc_sortascending.png
