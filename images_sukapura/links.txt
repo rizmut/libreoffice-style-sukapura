@@ -111,6 +111,8 @@ cmd/32/insertnumericfield.png cmd/32/numericfield.png
 cmd/32/insertobjectchart.png cmd/32/drawchart.png
 cmd/32/insertobjectdialog.png cmd/32/insertobject.png
 cmd/32/insertobjectstarmath.png cmd/32/insertmath.png
+cmd/32/insertpagefooter.png cmd/32/insertfooter.png
+cmd/32/insertpageheader.png cmd/32/insertheader.png
 cmd/32/insertpatternfield.png cmd/32/patternfield.png
 cmd/32/insertpushbutton.png cmd/32/pushbutton.png
 cmd/32/inserttextframe.png cmd/32/insertframe.png
@@ -151,6 +153,8 @@ cmd/lc_insertnumericfield.png cmd/lc_numericfield.png
 cmd/lc_insertobjectchart.png cmd/lc_drawchart.png
 cmd/lc_insertobjectdialog.png cmd/lc_insertobject.png
 cmd/lc_insertobjectstarmath.png cmd/lc_insertmath.png
+cmd/lc_insertpagefooter.png cmd/lc_insertfooter.png
+cmd/lc_insertpageheader.png cmd/lc_insertheader.png
 cmd/lc_insertpatternfield.png cmd/lc_patternfield.png
 cmd/lc_insertpushbutton.png cmd/lc_pushbutton.png
 cmd/lc_inserttextframe.png cmd/lc_insertframe.png
@@ -191,6 +195,8 @@ cmd/sc_insertnumericfield.png cmd/sc_numericfield.png
 cmd/sc_insertobjectchart.png cmd/sc_drawchart.png
 cmd/sc_insertobjectdialog.png cmd/sc_insertobject.png
 cmd/sc_insertobjectstarmath.png cmd/sc_insertmath.png
+cmd/sc_insertpagefooter.png cmd/sc_insertfooter.png
+cmd/sc_insertpageheader.png cmd/sc_insertheader.png
 cmd/sc_insertpatternfield.png cmd/sc_patternfield.png
 cmd/sc_insertpushbutton.png cmd/sc_pushbutton.png
 cmd/sc_inserttextframe.png cmd/sc_insertframe.png
