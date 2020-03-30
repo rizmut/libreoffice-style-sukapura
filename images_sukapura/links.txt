@@ -1857,7 +1857,6 @@ dbaccess/res/db.png cmd/sc_changedatabasefield.png
 dbaccess/res/exerror.png cmd/sc_cancel.png
 dbaccess/res/exinfo.png cmd/sc_helpindex.png
 dbaccess/res/form_16.png cmd/sc_dbviewforms.png
-dbaccess/res/forms_16.png cmd/sc_dbviewforms.png
 dbaccess/res/forms_32.png cmd/32/dbviewforms.png
 dbaccess/res/jo01.png dbaccess/res/pkey.png
 dbaccess/res/lc036.png cmd/lc_dbnewreport.png
@@ -1869,7 +1868,6 @@ dbaccess/res/one_left.png cmd/sc_prevrecord.png
 dbaccess/res/one_right.png cmd/sc_nextrecord.png
 dbaccess/res/queries_32.png cmd/32/dbviewqueries.png
 dbaccess/res/report_16.png cmd/sc_dbviewreports.png
-dbaccess/res/reports_16.png res/dialogfolder_16.png
 dbaccess/res/reports_32.png cmd/32/dbviewreports.png
 dbaccess/res/sc036.png cmd/sc_dbnewreport.png
 dbaccess/res/sc037.png cmd/sc_dbreportdelete.png
@@ -2085,10 +2083,8 @@ res/sx03163.png res/ott_16_8.png
 res/sx03164.png cmd/sc_open.png
 res/sx03165.png cmd/sc_save.png
 res/sx03167.png cmd/sc_openremote.png
-res/sx03187.png cmd/sc_dbviewtables.png
 res/sx03188.png cmd/sc_dbviewtables.png
 res/sx03189.png cmd/sc_open.png
-res/sx03201.png cmd/sc_dbviewqueries.png
 res/sx03202.png cmd/sc_copy.png
 res/sx03202.png cmd/sc_dbviewqueries.png
 res/sx03217.png res/odg_16_8.png
