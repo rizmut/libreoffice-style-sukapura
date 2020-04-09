@@ -395,7 +395,7 @@ cmd/32/bg/spelldialog.png cmd/32/bg/spelling.png
 cmd/32/bg/spellingandgrammardialog.png cmd/32/bg/spelling.png
 cmd/32/bg/tablesort.png cmd/32/bg/sortascending.png
 cmd/32/bg/textformfield.png cmd/32/bg/edit.png
-cmd/32/bg/underline.png cmd/32/ca/underline.png
+cmd/32/bg/underline.png cmd/32/hu/underline.png
 cmd/32/bg/underlinedouble.png cmd/32/hu/underlinedouble.png
 cmd/32/bg/underlinesimple.png cmd/32/hu/underline.png
 cmd/32/ca/underlinesimple.png cmd/32/ca/underline.png
@@ -634,8 +634,8 @@ cmd/he/lc_chapternumberingdialog.png cmd/ar/lc_chapternumberingdialog.png
 cmd/he/lc_defaultbullet.png cmd/ar/lc_defaultbullet.png
 cmd/he/lc_defaultnumbering.png cmd/ar/lc_defaultnumbering.png
 cmd/he/lc_insertneutralparagraph.png cmd/ar/lc_insertneutralparagraph.png
-cmd/he/lc_linenumberdialog.png cmd/ar/sc_linenumberingdialog.png
-cmd/he/lc_linenumberingdialog.png cmd/ar/sc_linenumberingdialog.png
+cmd/he/lc_linenumberdialog.png cmd/ar/lc_linenumberingdialog.png
+cmd/he/lc_linenumberingdialog.png cmd/ar/lc_linenumberingdialog.png
 cmd/he/lc_numberingstart.png cmd/ar/lc_numberingstart.png
 cmd/he/lc_numberliststyle.png cmd/ar/lc_defaultnumbering.png
 cmd/he/lc_outlinebullet.png cmd/ar/lc_bulletsandnumberingdialog.png
