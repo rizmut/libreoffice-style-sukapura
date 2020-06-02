@@ -544,7 +544,7 @@ cmd/32/ur/setoutline.png cmd/32/ar/setoutline.png
 cmd/32/ur/undo.png cmd/32/redo.png
 cmd/ar/lc_bulletliststyle.png cmd/ar/lc_defaultbullet.png
 cmd/ar/lc_numberliststyle.png cmd/ar/lc_defaultnumbering.png
-cmd/ar/lc_outlinebullet.png cmd//ar/lc_bulletsandnumberingdialog.png
+cmd/ar/lc_outlinebullet.png cmd/ar/lc_bulletsandnumberingdialog.png
 cmd/ar/lc_recundo.png cmd/lc_redo.png
 cmd/ar/lc_redo.png cmd/lc_undo.png
 cmd/ar/lc_undo.png cmd/lc_redo.png
