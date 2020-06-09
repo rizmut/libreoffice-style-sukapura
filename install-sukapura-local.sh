@@ -15,7 +15,7 @@ EOF
 
 temp_dir="$(mktemp -d)"
 
-cd "images_sukapura"
+cd "sukapura"
 zip -r -D images_sukapura.zip *
 mv "images_sukapura.zip" \
   "./../build/"
@@ -30,7 +30,7 @@ zip -r -D Sukapura-IconSet.oxt *
 mv "Sukapura-IconSet.oxt" \
    "./.."
 cd "./../.."
-cd "images_sukapura_svg"
+cd "sukapura_svg"
 zip -r -D images_sukapura_svg.zip *
 mv "images_sukapura_svg.zip" \
   "./../build/"

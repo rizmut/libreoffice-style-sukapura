@@ -14,11 +14,11 @@ then
 fi
 
 echo "=> Remove old PNG version"
-cp "images_sukapura/links.txt" \
-   "images_sukapura_svg"
-rm -Rf "images_sukapura"
+cp "sukapura/links.txt" \
+   "sukapura_svg"
+rm -Rf "sukapura"
 
-cd "images_sukapura_svg"
+cd "sukapura_svg"
 
 echo "=> Clean SVG files ..."
 find -name "*.svg" -o -name "*.SVG" | while read i;
@@ -32,10 +32,10 @@ do
 done
 
 cd "./.."
-cp -Rf "images_sukapura_svg" \
-   "images_sukapura"
-rm "images_sukapura_svg/links.txt"
-cd "images_sukapura"
+cp -Rf "sukapura_svg" \
+   "sukapura"
+rm "sukapura_svg/links.txt"
+cd "sukapura"
 
 echo "=> Export SVG to PNG ..."
 find -name "*.svg" -o -name "*.SVG" | while read i;
