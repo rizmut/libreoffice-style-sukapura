@@ -43,7 +43,7 @@ do
 	echo "This $i file is compressed"
 	fname=$( basename "$i")
 	fdir=$( dirname "$i")
-	inkscape -f "$i" -e "${i%.*}.png"
+	inkscape -p "$i" -o "${i%.*}.png"
 	optipng -o7 "${i%.*}.png"
 done
 
