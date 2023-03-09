@@ -79,37 +79,46 @@ do
     fdir=$( dirname "$i")
 #	echo "and is in the directory: ${fdir##*/}"
 	#inkscape -p "$i" -o "${i%.*}.png"
-    sed -i -e 's/#98989d/#f2f2f7/g' "$i" #outline grey to light (6)
-    sed -i -e 's/#3e3e3e/#f2f2f7/g' "$i" #dark grey to light (6)
-    sed -i -e 's/#d6d6d6/#1c1c1e/g' "$i" #dark grey to light (6)
-    sed -i -e 's/#69696e/#f2f2f7/g' "$i" #outline dark grey to light (6)
-    sed -i -e 's/#848489/#f2f2f7/g' "$i" #outline dark grey to light (6)
-    sed -i -e 's/#e5e5ea/#e5e5ea/g' "$i" #outline dark grey to light (5)
-    sed -i -e 's/#616165/#e5e5ea/g' "$i" #outline dark grey to light (5)
-    sed -i -e 's/#fff/#1c1c1e/g' "$i" #white to darkest grey (6)
-    sed -i -e 's/#e9e9e9/#1c1c1e/g' "$i" #white to darkest grey (6)
-    sed -i -e 's/#efefef/#1c1c1e/g' "$i" #white to darkest grey (6)
-    sed -i -e 's/#e5eefc/#1c1c1e/g' "$i" #white to darkest grey (6)
-    sed -i -e 's/#fdf9f3/#1c1c1e/g' "$i" #white to darkest grey (6)
-    sed -i -e 's/#ebebeb/#1c1c1e/g' "$i" #white to darkest grey (6)
-    sed -i -e 's/#e5eefc/#2c2c2e/g' "$i" #white 2 gray (5)
-    sed -i -e 's/#f7f7f7/#2c2c2e/g' "$i" #white 2 gray (5)
-    sed -i -e 's/#fdfdfd/#2c2c2e/g' "$i" #white 2 gray (5)
-    sed -i -e 's/#fcfdff/#2c2c2e/g' "$i" #white 2 gray (5)
-    sed -i -e 's/#fcfcfc/#2c2c2e/g' "$i" #white 2 gray (5)
-    sed -i -e 's/#f8f8f8/#2c2c2e/g' "$i" #white 2 gray (5)
-    sed -i -e 's/#f3f3f3/#3a3a3c/g' "$i" #white 3 gray (4)
-    sed -i -e 's/#f2f2f2/#2c2c2e/g' "$i" #white 2 gray (5)
-    sed -i -e 's/#f6f6f6/#2c2c2e/g' "$i" #white 2 gray (5)
-    sed -i -e 's/#444446/#3a3a3c/g' "$i" #white 3 gray (4)
-    sed -i -e 's/#fbfbfb/#3a3a3c/g' "$i" #white 3 gray (4)
-    sed -i -e 's/#f1f1f1/#2c2c2e/g' "$i" #white 2 gray (5)
-    sed -i -e 's/#d5d5d5/#3a3a3c/g' "$i" #white 3 gray (4)
-    sed -i -e 's/#dadada/#3a3a3c/g' "$i" #white 3 gray (4)
-    sed -i -e 's/#f5f5f5/#2c2c2e/g' "$i" #white 2 gray (5)
-    sed -i -e 's/#2f2f31/#f2f2f7/g' "$i" #almost black to light (6)
-    sed -i -e 's/#a2a2a7/#f2f2f7/g' "$i" #gray to light (6)
-    sed -i -e 's/#4b4b4f/#d1d1d6/g' "$i" #gray to  light (4)
+	#Light to Dark
+    sed -i -e 's/#f2f2f7/#2d2d2d/g' "$i" #
+    sed -i -e 's/#e5e5ea/#2d2d2d/g' "$i" #
+    sed -i -e 's/#c7c7cc/#5b5b5b/g' "$i" #TransitionA1
+    sed -i -e 's/#d1d1d6/#acacac/g' "$i" #TransitionB1
+    #Dark Grey to Light
+    sed -i -e 's/#48484a/#f2f2f7/g' "$i" #
+    sed -i -e 's/#8e8e93/#f2f2f7/g' "$i" #
+    sed -i -e 's/#aeaeb2/#e5e5ea/g' "$i" #
+    #Dark to Light
+    sed -i -e 's/#1c1c1e/#98989d/g' "$i" #ImpressFloatingInsert 
+    sed -i -e 's/#48484a/#98989d/g' "$i" #
+    sed -i -e 's/#3a3a3c/#d1d1d6/g' "$i" #
+    #Light to Dark (2)
+    sed -i -e 's/#7b7b7b/#e5e5ea/g' "$i" #TransitionA2
+    sed -i -e 's/#acacac/#3a3a3c/g' "$i" #TransitionB2
+    #Blue
+    sed -i -e 's/#0040dd/#409cff/g' "$i" #AccessibleLighttoDark
+    sed -i -e 's/#007aff/#0a84ff/g' "$i" #DefaultLighttoDark
+    #Orange
+    sed -i -e 's/#c93400/#ff6961/g' "$i" #AccessibleLighttoDark
+    sed -i -e 's/#ff9500/#ff9f0a/g' "$i" #DefaultLighttoDark
+    #Yellow
+    sed -i -e 's/#a05a00/#ffd426/g' "$i" #AccessibleLighttoDark
+    sed -i -e 's/#ffcc00/#ffd60a/g' "$i" #DefaultLighttoDark
+    #Green
+    sed -i -e 's/#007d1b/#31de4b/g' "$i" #AccessibleLighttoDark
+    sed -i -e 's/#28cd41/#28d74b/g' "$i" #DefaultLighttoDark
+    #Red
+    sed -i -e 's/#d70015/#ff6482/g' "$i" #AccessibleLighttoDark
+    sed -i -e 's/#ff453a/#ff453a/g' "$i" #DefaultLighttoDark
+    #Cyan
+    sed -i -e 's/#0071a4/#70d7ff/g' "$i" #AccessibleLighttoDark
+    sed -i -e 's/#55bef0/#5ac8f5/g' "$i" #DefaultLighttoDark
+    #Purple
+    sed -i -e 's/#ad44ab/#da8fff/g' "$i" #AccessibleLighttoDark
+    sed -i -e 's/#af52de/#bf5af2/g' "$i" #DefaultLighttoDark
+    #Brown
+    sed -i -e 's/#7f6545/#b59469/g' "$i" #AccessibleLighttoDark
+    sed -i -e 's/#a2845e/#ac8e68/g' "$i" #DefaultLighttoDark
 	#convert "$i" -quality 75 "$i"
 done 
 
